@@ -1,0 +1,1001 @@
+Robot Gesture ID,Gesture Type,"Gesture Coordinates (x, y, z)",Timestamp,Gesture Duration (sec),Robot Status,Message ID,Sender,Receiver,Encryption Algorithm Used,Encryption Status,Network Latency (ms),Data Transfer Rate (Mbps),Threat Type,Threat Severity,Response Time (sec),Response Action Taken,Threat Detected
+10,Incision,"(1.48, 1.4, 0.02)",2025-02-14 16:32:27,4.37,Idle,22614,Operator,Robot,Two Fish,Encrypted,11,97,Man-in-the-Middle Attack,Low,4.63,Reset Encryption,1
+8,Diagnosis,"(1.62, 1.81, 0.68)",2025-02-14 16:32:27,3.08,Idle,61556,Operator,Robot,Two Fish,Encrypted,9,88,DoS Attack,Low,3.94,Reset Encryption,1
+9,Incision,"(0.67, 1.53, 0.06)",2025-02-14 16:32:27,1.11,Active,27848,Operator,Robot,Two Fish,Encrypted,7,26,No Threat,Low,0.0,None,0
+1,Incision,"(1.63, 1.74, 1.92)",2025-02-14 16:32:27,2.72,Idle,60592,Operator,Robot,Two Fish,Encrypted,13,56,Data Breach,High,4.58,Reconnect Connection,1
+4,Suturing,"(0.53, 0.87, 1.17)",2025-02-14 16:32:27,1.2,Idle,46712,Robot,Operator,Two Fish,Failed,5,41,Man-in-the-Middle Attack,Low,2.46,Isolate Data,1
+5,Incision,"(0.58, 1.17, 0.16)",2025-02-14 16:32:27,1.32,Idle,68120,Robot,Operator,Two Fish,Encrypted,12,92,No Threat,High,0.0,None,0
+8,Incision,"(0.74, 0.97, 0.73)",2025-02-14 16:32:27,4.84,Active,94486,Operator,Robot,Two Fish,Encrypted,10,46,No Threat,Low,0.0,None,0
+2,Incision,"(1.76, 1.11, 1.71)",2025-02-14 16:32:27,3.65,Active,70603,Robot,Operator,Two Fish,Failed,8,36,DoS Attack,High,2.2,Reset Encryption,1
+9,Incision,"(1.04, 1.71, 0.37)",2025-02-14 16:32:27,1.64,Active,54038,Operator,Robot,Two Fish,Failed,10,75,DoS Attack,Medium,2.18,Reconnect Connection,1
+10,Incision,"(1.84, 0.95, 1.17)",2025-02-14 16:32:27,4.25,Active,70590,Robot,Operator,Two Fish,Encrypted,7,41,Data Breach,Low,4.92,Reset Encryption,1
+10,Suturing,"(0.1, 0.77, 0.38)",2025-02-14 16:32:27,3.44,Idle,65136,Operator,Robot,Two Fish,Encrypted,9,53,DoS Attack,High,4.36,Reset Encryption,1
+5,Incision,"(0.05, 1.38, 1.41)",2025-02-14 16:32:27,3.71,Idle,63109,Operator,Robot,Two Fish,Failed,14,62,Man-in-the-Middle Attack,Medium,4.94,Isolate Data,1
+7,Incision,"(1.3, 0.5, 0.15)",2025-02-14 16:32:27,2.98,Idle,32624,Operator,Robot,Two Fish,Failed,14,90,DoS Attack,High,1.75,Isolate Data,1
+3,Navigation,"(1.13, 0.88, 0.92)",2025-02-14 16:32:27,3.95,Active,58816,Operator,Robot,Two Fish,Encrypted,14,43,Data Breach,Low,4.79,Reconnect Connection,1
+7,Incision,"(0.38, 0.96, 1.82)",2025-02-14 16:32:27,2.95,Idle,74029,Robot,Operator,Two Fish,Encrypted,17,48,DoS Attack,Medium,3.35,Reset Encryption,1
+10,Incision,"(0.36, 0.13, 1.39)",2025-02-14 16:32:27,4.66,Active,25306,Operator,Robot,Two Fish,Encrypted,19,49,Man-in-the-Middle Attack,Low,2.77,Reconnect Connection,1
+10,Incision,"(1.91, 0.28, 1.07)",2025-02-14 16:32:27,4.49,Idle,59097,Robot,Operator,Two Fish,Encrypted,5,18,No Threat,Low,0.0,None,0
+10,Navigation,"(1.3, 1.56, 1.42)",2025-02-14 16:32:27,1.5,Idle,50769,Robot,Operator,Two Fish,Encrypted,7,28,DoS Attack,High,2.34,Reconnect Connection,1
+10,Diagnosis,"(0.74, 1.14, 0.56)",2025-02-14 16:32:27,4.34,Active,65880,Robot,Operator,Two Fish,Failed,15,100,Man-in-the-Middle Attack,Low,3.18,Reset Encryption,1
+1,Navigation,"(1.21, 1.27, 0.92)",2025-02-14 16:32:27,2.64,Active,24896,Robot,Operator,Two Fish,Encrypted,12,35,DoS Attack,Low,1.73,Reconnect Connection,1
+6,Navigation,"(0.09, 1.89, 0.48)",2025-02-14 16:32:27,3.17,Active,70060,Robot,Operator,Two Fish,Failed,9,52,Data Breach,Medium,4.86,Reconnect Connection,1
+10,Cleaning,"(0.34, 0.15, 1.95)",2025-02-14 16:32:27,3.1,Idle,75403,Robot,Operator,Two Fish,Encrypted,17,78,No Threat,High,0.0,None,0
+5,Incision,"(0.23, 0.77, 0.29)",2025-02-14 16:32:27,1.92,Active,56088,Operator,Robot,Two Fish,Encrypted,9,15,DoS Attack,Low,4.17,Reconnect Connection,1
+8,Suturing,"(1.94, 0.96, 0.35)",2025-02-14 16:32:27,2.88,Active,21111,Robot,Operator,Two Fish,Failed,19,39,DoS Attack,Medium,2.3,Reset Encryption,1
+3,Cleaning,"(1.1, 1.5, 0.19)",2025-02-14 16:32:27,4.59,Active,65506,Operator,Robot,Two Fish,Failed,11,79,No Threat,High,0.0,None,0
+3,Diagnosis,"(1.8, 1.17, 0.47)",2025-02-14 16:32:27,4.88,Active,97269,Robot,Operator,Two Fish,Encrypted,16,78,DoS Attack,Low,4.64,Reconnect Connection,1
+2,Incision,"(2.0, 0.34, 1.88)",2025-02-14 16:32:27,4.71,Active,51922,Robot,Operator,Two Fish,Failed,14,71,Data Breach,Medium,1.37,Reconnect Connection,1
+1,Navigation,"(0.43, 1.05, 0.23)",2025-02-14 16:32:27,4.37,Idle,98004,Operator,Robot,Two Fish,Failed,13,53,No Threat,Medium,0.0,None,0
+2,Navigation,"(0.27, 1.18, 1.44)",2025-02-14 16:32:27,2.68,Idle,35515,Operator,Robot,Two Fish,Failed,9,41,No Threat,Medium,0.0,None,0
+9,Incision,"(1.4, 1.02, 1.61)",2025-02-14 16:32:27,4.92,Idle,86749,Robot,Operator,Two Fish,Failed,11,76,Man-in-the-Middle Attack,Medium,4.62,Reset Encryption,1
+1,Navigation,"(1.67, 1.83, 1.87)",2025-02-14 16:32:27,3.18,Idle,31718,Operator,Robot,Two Fish,Encrypted,16,85,Data Breach,High,3.49,Reset Encryption,1
+8,Navigation,"(0.5, 1.63, 0.19)",2025-02-14 16:32:27,3.44,Active,40266,Robot,Operator,Two Fish,Encrypted,5,20,Man-in-the-Middle Attack,High,2.93,Reconnect Connection,1
+3,Navigation,"(1.28, 1.75, 1.65)",2025-02-14 16:32:27,3.5,Idle,42150,Robot,Operator,Two Fish,Encrypted,7,59,DoS Attack,Medium,4.76,Isolate Data,1
+5,Incision,"(0.21, 1.17, 1.0)",2025-02-14 16:32:27,1.88,Active,45282,Robot,Operator,Two Fish,Failed,17,67,DoS Attack,High,1.82,Reconnect Connection,1
+8,Suturing,"(0.14, 1.78, 0.14)",2025-02-14 16:32:27,2.97,Active,96255,Robot,Operator,Two Fish,Encrypted,19,30,Man-in-the-Middle Attack,Low,3.87,Reconnect Connection,1
+3,Diagnosis,"(0.07, 1.29, 1.23)",2025-02-14 16:32:27,1.06,Idle,66408,Robot,Operator,Two Fish,Failed,6,66,No Threat,Medium,0.0,None,0
+3,Diagnosis,"(0.36, 0.31, 0.37)",2025-02-14 16:32:27,3.48,Active,88570,Operator,Robot,Two Fish,Encrypted,10,92,Man-in-the-Middle Attack,Medium,1.45,Reconnect Connection,1
+6,Incision,"(0.64, 0.26, 1.56)",2025-02-14 16:32:27,1.31,Idle,42904,Operator,Robot,Two Fish,Failed,11,37,No Threat,High,0.0,None,0
+10,Navigation,"(1.74, 0.9, 1.55)",2025-02-14 16:32:27,1.33,Idle,88130,Operator,Robot,Two Fish,Failed,16,58,Data Breach,High,2.41,Reconnect Connection,1
+5,Suturing,"(0.92, 1.83, 0.6)",2025-02-14 16:32:27,3.94,Active,31363,Robot,Operator,Two Fish,Failed,8,50,DoS Attack,High,4.89,Isolate Data,1
+10,Diagnosis,"(0.86, 0.45, 1.94)",2025-02-14 16:32:27,1.25,Active,96940,Robot,Operator,Two Fish,Encrypted,18,55,No Threat,Low,0.0,None,0
+4,Diagnosis,"(1.87, 0.81, 1.25)",2025-02-14 16:32:27,4.11,Active,38877,Operator,Robot,Two Fish,Failed,16,28,Data Breach,High,3.6,Reconnect Connection,1
+6,Cleaning,"(1.46, 1.34, 1.52)",2025-02-14 16:32:27,1.89,Active,68255,Operator,Robot,Two Fish,Encrypted,8,53,DoS Attack,Medium,1.43,Isolate Data,1
+6,Diagnosis,"(0.26, 1.22, 1.4)",2025-02-14 16:32:27,2.18,Idle,25253,Robot,Operator,Two Fish,Encrypted,12,62,No Threat,Medium,0.0,None,0
+5,Cleaning,"(1.68, 1.11, 0.03)",2025-02-14 16:32:27,4.35,Active,90783,Operator,Robot,Two Fish,Failed,10,34,Man-in-the-Middle Attack,Medium,2.01,Reconnect Connection,1
+4,Diagnosis,"(1.92, 1.54, 0.81)",2025-02-14 16:32:27,3.02,Active,15982,Operator,Robot,Two Fish,Encrypted,14,81,Data Breach,Low,4.14,Isolate Data,1
+3,Suturing,"(1.09, 0.1, 0.25)",2025-02-14 16:32:27,1.34,Idle,57895,Operator,Robot,Two Fish,Failed,14,14,DoS Attack,Medium,1.9,Reset Encryption,1
+6,Diagnosis,"(0.17, 0.37, 1.51)",2025-02-14 16:32:27,4.47,Idle,98782,Robot,Operator,Two Fish,Failed,16,93,Man-in-the-Middle Attack,Medium,2.69,Reset Encryption,1
+4,Navigation,"(0.96, 0.33, 0.36)",2025-02-14 16:32:27,3.54,Active,25006,Operator,Robot,Two Fish,Encrypted,17,61,No Threat,High,0.0,None,0
+2,Cleaning,"(0.17, 0.72, 1.52)",2025-02-14 16:32:27,3.68,Idle,12838,Operator,Robot,Two Fish,Encrypted,13,53,Man-in-the-Middle Attack,Medium,2.33,Reset Encryption,1
+1,Incision,"(0.85, 0.9, 1.04)",2025-02-14 16:32:27,1.76,Active,54918,Operator,Robot,Two Fish,Failed,16,24,No Threat,Low,0.0,None,0
+5,Incision,"(1.73, 0.97, 1.44)",2025-02-14 16:32:27,3.76,Active,50931,Robot,Operator,Two Fish,Failed,9,69,Data Breach,Low,3.4,Reconnect Connection,1
+4,Suturing,"(0.35, 1.34, 0.84)",2025-02-14 16:32:27,3.82,Active,55410,Robot,Operator,Two Fish,Failed,14,25,No Threat,Low,0.0,None,0
+3,Incision,"(0.04, 1.28, 0.91)",2025-02-14 16:32:27,4.85,Active,52558,Operator,Robot,Two Fish,Failed,8,31,Data Breach,Low,1.94,Reset Encryption,1
+7,Cleaning,"(1.64, 0.89, 0.92)",2025-02-14 16:32:27,2.9,Idle,15241,Robot,Operator,Two Fish,Failed,9,68,DoS Attack,Low,2.43,Reset Encryption,1
+1,Cleaning,"(1.77, 0.15, 0.38)",2025-02-14 16:32:27,2.86,Active,76162,Operator,Robot,Two Fish,Encrypted,13,85,Data Breach,High,4.36,Reset Encryption,1
+1,Suturing,"(1.85, 1.46, 1.33)",2025-02-14 16:32:27,1.15,Idle,89340,Robot,Operator,Two Fish,Failed,9,84,DoS Attack,Medium,4.07,Isolate Data,1
+5,Cleaning,"(1.34, 0.75, 0.85)",2025-02-14 16:32:27,4.7,Idle,14884,Operator,Robot,Two Fish,Encrypted,7,100,Data Breach,High,3.08,Reconnect Connection,1
+2,Navigation,"(1.75, 0.8, 1.92)",2025-02-14 16:32:27,3.91,Idle,91341,Robot,Operator,Two Fish,Failed,16,48,DoS Attack,Medium,3.63,Isolate Data,1
+6,Diagnosis,"(0.16, 1.1, 0.04)",2025-02-14 16:32:27,3.77,Idle,80524,Robot,Operator,Two Fish,Encrypted,15,90,Data Breach,Medium,3.99,Reset Encryption,1
+5,Incision,"(0.94, 1.61, 1.43)",2025-02-14 16:32:27,2.63,Active,89364,Robot,Operator,Two Fish,Failed,19,36,Data Breach,Medium,2.85,Reset Encryption,1
+1,Cleaning,"(0.44, 1.67, 0.53)",2025-02-14 16:32:27,2.86,Idle,76131,Robot,Operator,Two Fish,Encrypted,6,74,Data Breach,High,2.22,Reconnect Connection,1
+4,Cleaning,"(1.02, 1.84, 1.8)",2025-02-14 16:32:27,4.95,Active,61844,Robot,Operator,Two Fish,Failed,6,52,DoS Attack,High,2.71,Reset Encryption,1
+9,Navigation,"(1.9, 0.21, 1.29)",2025-02-14 16:32:27,4.52,Idle,37259,Operator,Robot,Two Fish,Failed,16,63,Man-in-the-Middle Attack,Low,4.27,Reset Encryption,1
+1,Suturing,"(1.24, 0.86, 0.38)",2025-02-14 16:32:27,4.53,Active,13691,Operator,Robot,Two Fish,Failed,14,38,DoS Attack,High,4.27,Reset Encryption,1
+9,Cleaning,"(0.65, 1.32, 1.21)",2025-02-14 16:32:27,2.11,Active,35843,Operator,Robot,Two Fish,Failed,11,85,Data Breach,High,3.27,Reconnect Connection,1
+5,Cleaning,"(0.55, 1.72, 1.69)",2025-02-14 16:32:27,1.61,Idle,39718,Operator,Robot,Two Fish,Encrypted,18,20,DoS Attack,Medium,2.13,Isolate Data,1
+7,Diagnosis,"(1.12, 0.51, 1.05)",2025-02-14 16:32:27,2.43,Active,18056,Operator,Robot,Two Fish,Encrypted,18,21,Man-in-the-Middle Attack,Low,3.04,Isolate Data,1
+1,Suturing,"(1.72, 0.38, 0.55)",2025-02-14 16:32:27,4.25,Active,13759,Operator,Robot,Two Fish,Failed,9,57,Data Breach,High,2.85,Reset Encryption,1
+2,Cleaning,"(1.84, 0.0, 1.54)",2025-02-14 16:32:27,1.67,Active,99791,Robot,Operator,Two Fish,Failed,9,62,Data Breach,High,3.35,Reconnect Connection,1
+10,Diagnosis,"(0.68, 1.47, 0.85)",2025-02-14 16:32:27,1.4,Idle,86714,Operator,Robot,Two Fish,Encrypted,12,57,No Threat,Medium,0.0,None,0
+4,Suturing,"(1.57, 0.99, 1.9)",2025-02-14 16:32:27,4.69,Idle,34909,Robot,Operator,Two Fish,Encrypted,9,32,Data Breach,Low,3.7,Reset Encryption,1
+5,Incision,"(0.67, 1.22, 0.6)",2025-02-14 16:32:27,4.78,Active,66830,Operator,Robot,Two Fish,Failed,10,58,Man-in-the-Middle Attack,High,4.35,Reset Encryption,1
+5,Incision,"(0.27, 0.88, 1.62)",2025-02-14 16:32:27,2.75,Idle,81222,Operator,Robot,Two Fish,Failed,13,35,Data Breach,Low,1.24,Isolate Data,1
+2,Diagnosis,"(1.92, 1.13, 1.96)",2025-02-14 16:32:27,2.04,Active,28999,Operator,Robot,Two Fish,Encrypted,10,21,Data Breach,Medium,4.38,Isolate Data,1
+4,Suturing,"(1.47, 0.05, 1.49)",2025-02-14 16:32:27,2.1,Idle,57521,Robot,Operator,Two Fish,Encrypted,17,78,DoS Attack,Low,2.31,Isolate Data,1
+7,Diagnosis,"(0.85, 0.2, 0.07)",2025-02-14 16:32:27,1.19,Active,25154,Operator,Robot,Two Fish,Failed,8,50,DoS Attack,Medium,2.78,Reset Encryption,1
+10,Incision,"(0.73, 0.94, 0.14)",2025-02-14 16:32:27,2.6,Active,33132,Operator,Robot,Two Fish,Failed,17,47,No Threat,Low,0.0,None,0
+9,Suturing,"(0.25, 1.06, 1.66)",2025-02-14 16:32:27,3.87,Active,11841,Operator,Robot,Two Fish,Failed,12,74,Data Breach,High,1.33,Reset Encryption,1
+10,Cleaning,"(1.62, 1.73, 0.57)",2025-02-14 16:32:27,1.27,Idle,12653,Robot,Operator,Two Fish,Encrypted,10,49,Man-in-the-Middle Attack,Low,3.69,Reset Encryption,1
+2,Suturing,"(0.44, 1.61, 1.51)",2025-02-14 16:32:27,3.88,Active,70305,Robot,Operator,Two Fish,Encrypted,17,66,No Threat,Low,0.0,None,0
+5,Suturing,"(1.67, 0.14, 0.41)",2025-02-14 16:32:27,2.14,Idle,11781,Operator,Robot,Two Fish,Failed,8,84,DoS Attack,Medium,2.28,Reconnect Connection,1
+6,Incision,"(0.41, 1.24, 0.85)",2025-02-14 16:32:27,4.48,Idle,29961,Robot,Operator,Two Fish,Encrypted,12,72,DoS Attack,High,4.38,Isolate Data,1
+4,Diagnosis,"(0.4, 0.57, 0.19)",2025-02-14 16:32:27,2.85,Active,90046,Robot,Operator,Two Fish,Failed,9,72,Data Breach,High,2.51,Reconnect Connection,1
+10,Cleaning,"(0.74, 0.01, 1.85)",2025-02-14 16:32:27,2.95,Active,45493,Operator,Robot,Two Fish,Failed,20,40,No Threat,Low,0.0,None,0
+5,Incision,"(0.07, 1.32, 0.2)",2025-02-14 16:32:27,4.8,Active,75592,Robot,Operator,Two Fish,Encrypted,20,57,No Threat,Low,0.0,None,0
+7,Diagnosis,"(0.6, 0.31, 1.14)",2025-02-14 16:32:27,3.06,Idle,20056,Robot,Operator,Two Fish,Failed,7,59,Man-in-the-Middle Attack,High,4.19,Reconnect Connection,1
+4,Diagnosis,"(1.79, 1.91, 0.06)",2025-02-14 16:32:27,2.61,Idle,29271,Robot,Operator,Two Fish,Encrypted,11,64,No Threat,Low,0.0,None,0
+5,Navigation,"(1.11, 0.58, 0.64)",2025-02-14 16:32:27,2.51,Idle,58282,Operator,Robot,Two Fish,Encrypted,13,54,Man-in-the-Middle Attack,Low,2.84,Isolate Data,1
+9,Cleaning,"(1.97, 1.77, 0.98)",2025-02-14 16:32:27,1.56,Idle,18907,Operator,Robot,Two Fish,Failed,18,14,Data Breach,High,2.93,Isolate Data,1
+10,Cleaning,"(0.28, 0.79, 1.32)",2025-02-14 16:32:27,3.27,Idle,44422,Robot,Operator,Two Fish,Encrypted,20,13,No Threat,Medium,0.0,None,0
+9,Suturing,"(1.87, 1.74, 1.71)",2025-02-14 16:32:27,3.67,Active,98089,Robot,Operator,Two Fish,Failed,20,94,No Threat,Low,0.0,None,0
+2,Incision,"(1.28, 0.72, 0.59)",2025-02-14 16:32:27,1.77,Active,54935,Operator,Robot,Two Fish,Encrypted,10,86,DoS Attack,High,3.58,Isolate Data,1
+9,Diagnosis,"(1.86, 0.35, 0.68)",2025-02-14 16:32:27,1.61,Idle,59205,Robot,Operator,Two Fish,Encrypted,13,21,No Threat,High,0.0,None,0
+8,Navigation,"(0.76, 1.69, 0.01)",2025-02-14 16:32:27,4.61,Idle,91264,Operator,Robot,Two Fish,Encrypted,8,14,No Threat,High,0.0,None,0
+8,Incision,"(1.33, 1.43, 0.53)",2025-02-14 16:32:27,1.93,Active,67101,Operator,Robot,Two Fish,Encrypted,11,14,No Threat,High,0.0,None,0
+7,Diagnosis,"(0.75, 1.22, 0.83)",2025-02-14 16:32:27,2.91,Active,40216,Robot,Operator,Two Fish,Failed,15,12,DoS Attack,Low,3.56,Reset Encryption,1
+1,Diagnosis,"(0.77, 1.27, 1.85)",2025-02-14 16:32:27,2.53,Idle,74153,Operator,Robot,Two Fish,Failed,12,74,Man-in-the-Middle Attack,High,3.74,Reconnect Connection,1
+2,Cleaning,"(0.72, 1.88, 1.01)",2025-02-14 16:32:27,3.91,Idle,22712,Robot,Operator,Two Fish,Encrypted,20,80,Man-in-the-Middle Attack,High,2.07,Isolate Data,1
+1,Diagnosis,"(0.02, 0.22, 0.84)",2025-02-14 16:32:27,1.63,Idle,68543,Operator,Robot,Two Fish,Encrypted,20,33,No Threat,Low,0.0,None,0
+9,Incision,"(1.9, 0.64, 0.33)",2025-02-14 16:32:27,1.27,Active,75299,Operator,Robot,Two Fish,Encrypted,17,87,No Threat,High,0.0,None,0
+9,Diagnosis,"(1.81, 1.03, 1.15)",2025-02-14 16:32:27,1.33,Idle,88507,Robot,Operator,Two Fish,Failed,10,24,DoS Attack,High,1.92,Reconnect Connection,1
+9,Suturing,"(0.37, 1.07, 1.0)",2025-02-14 16:32:27,2.0,Idle,85035,Operator,Robot,Two Fish,Encrypted,7,79,Man-in-the-Middle Attack,Low,1.37,Isolate Data,1
+4,Diagnosis,"(1.35, 0.35, 0.5)",2025-02-14 16:32:27,1.77,Active,55907,Operator,Robot,Two Fish,Encrypted,10,21,Data Breach,Low,3.44,Reset Encryption,1
+10,Navigation,"(1.32, 0.34, 0.71)",2025-02-14 16:32:27,4.23,Active,27813,Robot,Operator,Two Fish,Encrypted,11,32,Man-in-the-Middle Attack,High,2.36,Reconnect Connection,1
+4,Incision,"(0.04, 1.2, 0.35)",2025-02-14 16:32:27,1.02,Active,57977,Operator,Robot,Two Fish,Encrypted,14,89,DoS Attack,Low,2.83,Isolate Data,1
+4,Navigation,"(0.79, 1.36, 0.16)",2025-02-14 16:32:27,3.13,Active,72574,Operator,Robot,Two Fish,Encrypted,7,48,No Threat,Low,0.0,None,0
+4,Navigation,"(1.31, 0.44, 0.12)",2025-02-14 16:32:27,3.13,Idle,65496,Robot,Operator,Two Fish,Encrypted,6,72,No Threat,Medium,0.0,None,0
+2,Suturing,"(1.43, 1.51, 1.76)",2025-02-14 16:32:27,2.65,Idle,38577,Robot,Operator,Two Fish,Encrypted,19,51,No Threat,Low,0.0,None,0
+1,Incision,"(1.09, 1.95, 1.41)",2025-02-14 16:32:27,3.08,Active,54841,Operator,Robot,Two Fish,Failed,7,41,Man-in-the-Middle Attack,High,3.19,Isolate Data,1
+1,Incision,"(1.89, 0.02, 0.3)",2025-02-14 16:32:27,4.69,Active,86544,Operator,Robot,Two Fish,Failed,9,49,DoS Attack,Medium,1.43,Reset Encryption,1
+9,Suturing,"(1.12, 1.84, 0.61)",2025-02-14 16:32:27,2.11,Active,83787,Robot,Operator,Two Fish,Failed,19,97,No Threat,Low,0.0,None,0
+1,Suturing,"(0.24, 1.14, 1.36)",2025-02-14 16:32:27,1.45,Active,74900,Operator,Robot,Two Fish,Encrypted,10,65,No Threat,Low,0.0,None,0
+4,Cleaning,"(1.0, 1.65, 0.74)",2025-02-14 16:32:27,3.53,Active,85713,Operator,Robot,Two Fish,Failed,5,13,Data Breach,Medium,4.16,Reset Encryption,1
+4,Incision,"(0.45, 0.74, 0.07)",2025-02-14 16:32:27,2.47,Idle,74593,Robot,Operator,Two Fish,Encrypted,11,39,Man-in-the-Middle Attack,Low,4.12,Isolate Data,1
+7,Cleaning,"(1.91, 1.85, 1.74)",2025-02-14 16:32:27,2.16,Idle,14186,Operator,Robot,Two Fish,Failed,18,60,DoS Attack,Low,3.72,Reconnect Connection,1
+1,Diagnosis,"(0.99, 1.93, 0.81)",2025-02-14 16:32:27,3.52,Active,55219,Operator,Robot,Two Fish,Failed,14,62,Man-in-the-Middle Attack,Medium,4.99,Isolate Data,1
+10,Incision,"(1.03, 1.56, 1.18)",2025-02-14 16:32:27,4.35,Active,89578,Operator,Robot,Two Fish,Encrypted,20,80,No Threat,High,0.0,None,0
+5,Cleaning,"(1.11, 1.92, 0.05)",2025-02-14 16:32:27,1.94,Active,78792,Robot,Operator,Two Fish,Encrypted,20,40,Data Breach,High,4.23,Reconnect Connection,1
+5,Incision,"(0.69, 0.98, 1.48)",2025-02-14 16:32:27,2.4,Idle,82033,Operator,Robot,Two Fish,Encrypted,19,92,Data Breach,Low,2.78,Reset Encryption,1
+10,Cleaning,"(1.98, 0.16, 0.24)",2025-02-14 16:32:27,1.77,Idle,92652,Operator,Robot,Two Fish,Encrypted,19,44,No Threat,Medium,0.0,None,0
+9,Cleaning,"(0.76, 0.79, 0.03)",2025-02-14 16:32:27,3.4,Active,31899,Robot,Operator,Two Fish,Failed,9,30,No Threat,Medium,0.0,None,0
+9,Suturing,"(0.66, 1.69, 0.75)",2025-02-14 16:32:27,2.35,Active,19210,Operator,Robot,Two Fish,Encrypted,16,84,Man-in-the-Middle Attack,Low,4.95,Isolate Data,1
+5,Cleaning,"(1.22, 0.17, 0.56)",2025-02-14 16:32:27,1.72,Active,34062,Robot,Operator,Two Fish,Encrypted,7,28,No Threat,Low,0.0,None,0
+7,Incision,"(1.63, 1.2, 0.63)",2025-02-14 16:32:27,3.93,Idle,15829,Robot,Operator,Two Fish,Failed,14,46,Data Breach,Medium,4.86,Reset Encryption,1
+10,Incision,"(1.93, 0.7, 1.88)",2025-02-14 16:32:27,2.96,Idle,34401,Operator,Robot,Two Fish,Encrypted,18,97,No Threat,Low,0.0,None,0
+2,Navigation,"(0.12, 0.38, 0.3)",2025-02-14 16:32:27,1.45,Idle,12305,Operator,Robot,Two Fish,Failed,16,57,No Threat,Low,0.0,None,0
+8,Cleaning,"(0.32, 0.07, 0.01)",2025-02-14 16:32:27,1.62,Active,90545,Robot,Operator,Two Fish,Failed,8,13,Man-in-the-Middle Attack,High,2.02,Reconnect Connection,1
+8,Navigation,"(1.04, 0.24, 0.94)",2025-02-14 16:32:27,1.42,Idle,93267,Operator,Robot,Two Fish,Failed,6,67,Man-in-the-Middle Attack,High,4.63,Reconnect Connection,1
+9,Navigation,"(0.84, 0.64, 0.59)",2025-02-14 16:32:27,1.21,Idle,17731,Operator,Robot,Two Fish,Encrypted,11,69,Data Breach,Medium,2.12,Reset Encryption,1
+9,Incision,"(0.48, 1.1, 0.17)",2025-02-14 16:32:27,2.95,Idle,69373,Robot,Operator,Two Fish,Encrypted,14,22,Man-in-the-Middle Attack,Medium,4.69,Isolate Data,1
+2,Navigation,"(1.16, 0.14, 0.06)",2025-02-14 16:32:27,1.55,Idle,28313,Operator,Robot,Two Fish,Encrypted,7,92,No Threat,Medium,0.0,None,0
+8,Cleaning,"(0.32, 1.21, 1.44)",2025-02-14 16:32:27,4.44,Idle,75924,Operator,Robot,Two Fish,Encrypted,16,58,DoS Attack,Medium,4.93,Isolate Data,1
+8,Suturing,"(1.32, 0.36, 1.97)",2025-02-14 16:32:27,3.15,Active,29413,Robot,Operator,Two Fish,Encrypted,15,45,No Threat,Medium,0.0,None,0
+2,Cleaning,"(0.87, 1.2, 1.99)",2025-02-14 16:32:27,1.28,Active,52645,Robot,Operator,Two Fish,Failed,20,94,Man-in-the-Middle Attack,High,3.9,Reconnect Connection,1
+6,Suturing,"(1.0, 1.65, 1.14)",2025-02-14 16:32:27,2.23,Active,10224,Operator,Robot,Two Fish,Failed,9,45,No Threat,High,0.0,None,0
+3,Cleaning,"(1.96, 1.4, 1.21)",2025-02-14 16:32:27,4.21,Idle,75126,Robot,Operator,Two Fish,Failed,14,85,No Threat,High,0.0,None,0
+5,Suturing,"(0.46, 1.5, 0.86)",2025-02-14 16:32:27,2.78,Idle,39024,Robot,Operator,Two Fish,Failed,8,66,DoS Attack,Medium,3.09,Reset Encryption,1
+1,Incision,"(1.84, 0.48, 1.99)",2025-02-14 16:32:27,4.55,Idle,80358,Robot,Operator,Two Fish,Encrypted,6,87,DoS Attack,High,2.46,Reset Encryption,1
+6,Diagnosis,"(1.62, 0.62, 1.46)",2025-02-14 16:32:27,2.16,Active,42163,Robot,Operator,Two Fish,Failed,20,47,Man-in-the-Middle Attack,Medium,1.75,Isolate Data,1
+6,Diagnosis,"(1.99, 0.93, 0.09)",2025-02-14 16:32:27,4.66,Active,24446,Robot,Operator,Two Fish,Encrypted,8,41,No Threat,High,0.0,None,0
+7,Diagnosis,"(1.06, 1.98, 1.79)",2025-02-14 16:32:27,1.5,Idle,39329,Operator,Robot,Two Fish,Failed,14,43,DoS Attack,Low,1.06,Isolate Data,1
+10,Cleaning,"(1.0, 1.92, 1.78)",2025-02-14 16:32:27,3.98,Active,47235,Robot,Operator,Two Fish,Encrypted,17,45,Man-in-the-Middle Attack,Medium,3.75,Reset Encryption,1
+4,Navigation,"(1.47, 1.2, 0.26)",2025-02-14 16:32:27,1.33,Idle,16377,Operator,Robot,Two Fish,Encrypted,14,16,No Threat,Low,0.0,None,0
+6,Diagnosis,"(0.33, 1.49, 0.71)",2025-02-14 16:32:27,3.1,Active,40487,Operator,Robot,Two Fish,Encrypted,13,49,Man-in-the-Middle Attack,Low,3.91,Reset Encryption,1
+9,Navigation,"(1.41, 1.58, 1.72)",2025-02-14 16:32:27,1.83,Active,43050,Robot,Operator,Two Fish,Failed,20,84,Man-in-the-Middle Attack,High,1.04,Reset Encryption,1
+6,Navigation,"(1.35, 0.07, 1.47)",2025-02-14 16:32:27,1.06,Idle,67803,Operator,Robot,Two Fish,Encrypted,14,23,No Threat,High,0.0,None,0
+10,Suturing,"(0.58, 0.78, 0.92)",2025-02-14 16:32:27,1.51,Idle,41280,Operator,Robot,Two Fish,Encrypted,9,55,No Threat,Medium,0.0,None,0
+1,Incision,"(1.05, 0.72, 0.53)",2025-02-14 16:32:27,2.7,Active,35462,Operator,Robot,Two Fish,Encrypted,7,10,No Threat,High,0.0,None,0
+1,Diagnosis,"(1.33, 1.76, 1.44)",2025-02-14 16:32:27,3.24,Active,30516,Robot,Operator,Two Fish,Encrypted,5,23,Man-in-the-Middle Attack,Medium,1.07,Isolate Data,1
+6,Cleaning,"(1.05, 1.79, 1.87)",2025-02-14 16:32:27,3.57,Idle,73779,Operator,Robot,Two Fish,Encrypted,18,16,No Threat,Medium,0.0,None,0
+1,Cleaning,"(1.37, 0.86, 1.98)",2025-02-14 16:32:27,1.59,Idle,24811,Robot,Operator,Two Fish,Failed,18,86,No Threat,Medium,0.0,None,0
+3,Cleaning,"(1.12, 0.55, 1.34)",2025-02-14 16:32:27,4.68,Active,15592,Operator,Robot,Two Fish,Failed,20,70,No Threat,High,0.0,None,0
+2,Suturing,"(1.83, 0.45, 0.04)",2025-02-14 16:32:27,1.55,Active,35044,Robot,Operator,Two Fish,Failed,6,67,No Threat,Low,0.0,None,0
+4,Suturing,"(1.81, 1.4, 0.36)",2025-02-14 16:32:27,2.34,Idle,50333,Robot,Operator,Two Fish,Failed,18,17,Data Breach,Medium,3.05,Reconnect Connection,1
+7,Suturing,"(0.03, 0.54, 0.84)",2025-02-14 16:32:27,2.39,Idle,58234,Robot,Operator,Two Fish,Failed,16,27,Data Breach,Medium,2.95,Isolate Data,1
+8,Diagnosis,"(0.58, 1.06, 0.5)",2025-02-14 16:32:27,3.36,Idle,15923,Operator,Robot,Two Fish,Failed,16,62,No Threat,Medium,0.0,None,0
+8,Incision,"(0.6, 1.29, 0.86)",2025-02-14 16:32:27,2.27,Active,73615,Robot,Operator,Two Fish,Failed,16,39,No Threat,Medium,0.0,None,0
+3,Incision,"(0.48, 0.52, 1.37)",2025-02-14 16:32:27,2.49,Active,70405,Robot,Operator,Two Fish,Encrypted,17,19,Data Breach,Medium,3.05,Isolate Data,1
+6,Cleaning,"(1.62, 1.97, 0.04)",2025-02-14 16:32:27,4.41,Idle,66089,Robot,Operator,Two Fish,Encrypted,17,25,No Threat,High,0.0,None,0
+10,Diagnosis,"(1.94, 0.78, 1.17)",2025-02-14 16:32:27,3.12,Idle,48192,Operator,Robot,Two Fish,Encrypted,7,42,Data Breach,High,1.7,Isolate Data,1
+8,Navigation,"(0.95, 1.71, 1.42)",2025-02-14 16:32:27,2.51,Idle,24336,Robot,Operator,Two Fish,Failed,7,24,Data Breach,Low,4.2,Reconnect Connection,1
+8,Navigation,"(1.27, 0.62, 1.7)",2025-02-14 16:32:27,2.71,Active,10622,Operator,Robot,Two Fish,Failed,16,84,Data Breach,Low,1.09,Isolate Data,1
+2,Incision,"(0.63, 1.62, 2.0)",2025-02-14 16:32:27,1.47,Idle,59652,Robot,Operator,Two Fish,Encrypted,5,55,Man-in-the-Middle Attack,Low,1.21,Reconnect Connection,1
+8,Incision,"(0.27, 1.79, 0.07)",2025-02-14 16:32:27,2.12,Active,47886,Robot,Operator,Two Fish,Failed,11,15,Man-in-the-Middle Attack,Low,1.3,Isolate Data,1
+9,Cleaning,"(0.06, 0.09, 0.6)",2025-02-14 16:32:27,4.16,Idle,45278,Robot,Operator,Two Fish,Encrypted,9,53,Data Breach,Medium,1.27,Isolate Data,1
+5,Diagnosis,"(1.07, 0.14, 1.21)",2025-02-14 16:32:27,1.69,Active,91875,Operator,Robot,Two Fish,Encrypted,15,96,No Threat,Low,0.0,None,0
+2,Diagnosis,"(1.65, 1.89, 0.65)",2025-02-14 16:32:27,4.03,Active,49523,Operator,Robot,Two Fish,Encrypted,12,88,DoS Attack,Low,1.79,Reset Encryption,1
+6,Cleaning,"(0.31, 0.94, 1.79)",2025-02-14 16:32:27,3.92,Active,80580,Robot,Operator,Two Fish,Encrypted,19,80,Man-in-the-Middle Attack,High,2.84,Isolate Data,1
+9,Diagnosis,"(1.77, 0.21, 0.33)",2025-02-14 16:32:27,3.25,Idle,40516,Robot,Operator,Two Fish,Encrypted,12,63,Data Breach,Medium,4.45,Isolate Data,1
+1,Suturing,"(1.56, 1.19, 1.3)",2025-02-14 16:32:27,3.15,Active,97079,Operator,Robot,Two Fish,Failed,6,33,Man-in-the-Middle Attack,Medium,1.97,Reconnect Connection,1
+1,Cleaning,"(1.76, 1.7, 0.39)",2025-02-14 16:32:27,2.52,Idle,10555,Robot,Operator,Two Fish,Failed,18,36,No Threat,High,0.0,None,0
+4,Suturing,"(0.47, 1.11, 1.04)",2025-02-14 16:32:27,3.36,Active,33110,Robot,Operator,Two Fish,Failed,12,87,Data Breach,Low,2.02,Reconnect Connection,1
+7,Navigation,"(1.53, 0.44, 1.29)",2025-02-14 16:32:27,3.56,Idle,33369,Robot,Operator,Two Fish,Failed,10,10,DoS Attack,High,3.76,Reset Encryption,1
+3,Navigation,"(1.91, 0.25, 1.65)",2025-02-14 16:32:27,2.82,Idle,16674,Operator,Robot,Two Fish,Failed,18,58,DoS Attack,Low,2.48,Reset Encryption,1
+3,Suturing,"(0.59, 1.15, 0.35)",2025-02-14 16:32:27,4.86,Idle,63003,Robot,Operator,Two Fish,Failed,6,83,Man-in-the-Middle Attack,Low,2.92,Reset Encryption,1
+3,Suturing,"(1.15, 0.99, 0.36)",2025-02-14 16:32:27,3.8,Active,68046,Robot,Operator,Two Fish,Failed,5,87,No Threat,High,0.0,None,0
+10,Incision,"(0.81, 1.85, 0.42)",2025-02-14 16:32:27,4.95,Idle,41968,Operator,Robot,Two Fish,Encrypted,9,35,Data Breach,Low,2.24,Reset Encryption,1
+1,Suturing,"(1.92, 0.08, 1.92)",2025-02-14 16:32:27,3.42,Idle,93009,Operator,Robot,Two Fish,Encrypted,19,82,No Threat,Low,0.0,None,0
+10,Suturing,"(0.14, 0.99, 1.99)",2025-02-14 16:32:27,2.42,Active,83149,Robot,Operator,Two Fish,Failed,11,39,DoS Attack,Medium,4.39,Isolate Data,1
+2,Navigation,"(0.58, 0.99, 0.94)",2025-02-14 16:32:27,3.97,Active,91866,Robot,Operator,Two Fish,Encrypted,17,31,Data Breach,High,2.3,Isolate Data,1
+6,Incision,"(1.81, 0.55, 1.83)",2025-02-14 16:32:27,1.24,Idle,34186,Robot,Operator,Two Fish,Encrypted,11,38,Man-in-the-Middle Attack,High,4.24,Reset Encryption,1
+6,Incision,"(1.9, 1.63, 0.78)",2025-02-14 16:32:27,1.81,Active,76177,Operator,Robot,Two Fish,Encrypted,13,12,No Threat,Medium,0.0,None,0
+2,Diagnosis,"(1.74, 0.67, 1.32)",2025-02-14 16:32:27,2.77,Active,19481,Operator,Robot,Two Fish,Encrypted,13,24,Man-in-the-Middle Attack,Medium,2.56,Isolate Data,1
+7,Diagnosis,"(0.32, 1.94, 0.3)",2025-02-14 16:32:27,4.28,Active,88289,Operator,Robot,Two Fish,Encrypted,10,64,Man-in-the-Middle Attack,High,1.38,Reconnect Connection,1
+10,Suturing,"(1.52, 1.65, 0.49)",2025-02-14 16:32:27,3.99,Idle,67339,Operator,Robot,Two Fish,Encrypted,15,98,Man-in-the-Middle Attack,Medium,2.46,Reconnect Connection,1
+6,Incision,"(1.15, 0.02, 0.56)",2025-02-14 16:32:27,3.84,Active,42238,Robot,Operator,Two Fish,Encrypted,17,26,DoS Attack,Low,4.87,Reconnect Connection,1
+1,Suturing,"(0.43, 1.97, 1.34)",2025-02-14 16:32:27,2.9,Idle,30979,Robot,Operator,Two Fish,Encrypted,20,87,Man-in-the-Middle Attack,Medium,2.6,Isolate Data,1
+7,Incision,"(1.06, 1.11, 0.13)",2025-02-14 16:32:27,2.08,Idle,75068,Robot,Operator,Two Fish,Encrypted,7,89,No Threat,High,0.0,None,0
+2,Diagnosis,"(1.26, 0.72, 1.55)",2025-02-14 16:32:27,4.17,Active,52510,Robot,Operator,Two Fish,Failed,18,26,Data Breach,High,2.21,Isolate Data,1
+9,Navigation,"(1.4, 1.76, 1.16)",2025-02-14 16:32:27,3.37,Active,64867,Robot,Operator,Two Fish,Failed,20,37,No Threat,Medium,0.0,None,0
+4,Cleaning,"(1.44, 1.38, 1.28)",2025-02-14 16:32:27,1.99,Active,36377,Robot,Operator,Two Fish,Failed,18,34,Data Breach,Medium,3.89,Reset Encryption,1
+10,Incision,"(1.4, 0.17, 1.86)",2025-02-14 16:32:27,3.87,Idle,99056,Robot,Operator,Two Fish,Encrypted,16,32,Man-in-the-Middle Attack,High,2.98,Reset Encryption,1
+9,Incision,"(0.31, 1.49, 0.19)",2025-02-14 16:32:27,4.56,Idle,67161,Robot,Operator,Two Fish,Encrypted,15,86,Man-in-the-Middle Attack,High,2.86,Reset Encryption,1
+4,Diagnosis,"(1.21, 1.93, 0.4)",2025-02-14 16:32:27,4.54,Idle,32500,Robot,Operator,Two Fish,Encrypted,13,60,No Threat,Low,0.0,None,0
+2,Diagnosis,"(0.61, 0.04, 1.16)",2025-02-14 16:32:27,4.12,Idle,68105,Robot,Operator,Two Fish,Failed,14,16,DoS Attack,Low,2.31,Reconnect Connection,1
+10,Suturing,"(1.49, 0.04, 1.76)",2025-02-14 16:32:27,2.71,Active,40745,Operator,Robot,Two Fish,Encrypted,12,17,No Threat,Low,0.0,None,0
+9,Diagnosis,"(1.57, 0.73, 0.26)",2025-02-14 16:32:27,1.4,Idle,83891,Robot,Operator,Two Fish,Encrypted,6,50,Data Breach,High,1.47,Reconnect Connection,1
+7,Diagnosis,"(1.69, 1.41, 1.91)",2025-02-14 16:32:27,1.09,Active,24629,Robot,Operator,Two Fish,Encrypted,11,64,No Threat,Medium,0.0,None,0
+8,Diagnosis,"(1.39, 0.87, 0.25)",2025-02-14 16:32:27,1.1,Idle,38227,Operator,Robot,Two Fish,Failed,20,27,Man-in-the-Middle Attack,Medium,3.27,Reset Encryption,1
+3,Incision,"(0.46, 1.81, 0.37)",2025-02-14 16:32:27,4.14,Idle,53633,Operator,Robot,Two Fish,Encrypted,9,13,DoS Attack,High,3.56,Reconnect Connection,1
+7,Diagnosis,"(1.47, 1.5, 1.93)",2025-02-14 16:32:27,3.2,Active,55286,Robot,Operator,Two Fish,Encrypted,16,56,No Threat,High,0.0,None,0
+6,Diagnosis,"(0.78, 0.54, 0.71)",2025-02-14 16:32:27,2.91,Active,98125,Robot,Operator,Two Fish,Failed,16,66,No Threat,Low,0.0,None,0
+7,Cleaning,"(0.3, 0.59, 1.49)",2025-02-14 16:32:27,3.09,Idle,40690,Robot,Operator,Two Fish,Failed,7,84,Man-in-the-Middle Attack,High,3.16,Reconnect Connection,1
+7,Navigation,"(0.9, 1.11, 0.3)",2025-02-14 16:32:27,1.98,Idle,12369,Robot,Operator,Two Fish,Encrypted,10,100,Man-in-the-Middle Attack,Low,3.57,Reset Encryption,1
+5,Suturing,"(0.48, 1.89, 0.49)",2025-02-14 16:32:27,4.02,Idle,97300,Operator,Robot,Two Fish,Encrypted,13,29,No Threat,Medium,0.0,None,0
+9,Navigation,"(1.29, 1.31, 1.23)",2025-02-14 16:32:27,4.62,Idle,49433,Operator,Robot,Two Fish,Failed,18,61,No Threat,High,0.0,None,0
+6,Suturing,"(0.59, 0.88, 1.08)",2025-02-14 16:32:27,3.28,Idle,82013,Robot,Operator,Two Fish,Failed,10,34,No Threat,Low,0.0,None,0
+6,Cleaning,"(0.74, 1.14, 1.3)",2025-02-14 16:32:27,3.75,Idle,35591,Operator,Robot,Two Fish,Failed,12,92,DoS Attack,Medium,2.17,Reset Encryption,1
+10,Diagnosis,"(1.26, 0.39, 0.87)",2025-02-14 16:32:27,3.71,Idle,41496,Robot,Operator,Two Fish,Failed,8,77,Data Breach,Low,4.26,Reset Encryption,1
+10,Navigation,"(1.19, 0.95, 0.49)",2025-02-14 16:32:27,4.57,Active,31542,Operator,Robot,Two Fish,Failed,6,55,Data Breach,High,3.6,Isolate Data,1
+1,Navigation,"(0.51, 0.33, 1.65)",2025-02-14 16:32:27,4.9,Active,80113,Robot,Operator,Two Fish,Failed,8,25,Man-in-the-Middle Attack,Medium,4.49,Isolate Data,1
+10,Incision,"(0.34, 0.74, 0.36)",2025-02-14 16:32:27,2.25,Idle,98757,Robot,Operator,Two Fish,Failed,19,85,DoS Attack,Low,1.96,Reconnect Connection,1
+8,Incision,"(0.57, 1.44, 0.49)",2025-02-14 16:32:27,1.22,Active,87605,Robot,Operator,Two Fish,Encrypted,12,47,No Threat,Medium,0.0,None,0
+6,Navigation,"(0.87, 1.41, 0.01)",2025-02-14 16:32:27,3.12,Idle,75736,Robot,Operator,Two Fish,Failed,17,31,DoS Attack,High,1.45,Reset Encryption,1
+5,Cleaning,"(0.79, 1.3, 1.98)",2025-02-14 16:32:27,3.34,Idle,87626,Robot,Operator,Two Fish,Encrypted,18,91,Data Breach,High,1.13,Isolate Data,1
+5,Incision,"(1.33, 1.97, 1.86)",2025-02-14 16:32:27,2.76,Active,40800,Operator,Robot,Two Fish,Encrypted,16,17,Man-in-the-Middle Attack,Low,1.43,Isolate Data,1
+4,Suturing,"(1.4, 1.01, 1.02)",2025-02-14 16:32:27,3.16,Idle,58148,Operator,Robot,Two Fish,Encrypted,10,50,No Threat,High,0.0,None,0
+3,Suturing,"(1.55, 1.48, 0.74)",2025-02-14 16:32:27,3.64,Idle,96168,Robot,Operator,Two Fish,Encrypted,6,87,Data Breach,Medium,3.1,Isolate Data,1
+3,Suturing,"(1.43, 1.68, 1.83)",2025-02-14 16:32:27,4.5,Idle,91429,Operator,Robot,Two Fish,Failed,20,55,No Threat,Low,0.0,None,0
+3,Cleaning,"(1.12, 0.72, 0.52)",2025-02-14 16:32:27,4.7,Idle,33412,Robot,Operator,Two Fish,Encrypted,6,33,DoS Attack,Medium,3.27,Isolate Data,1
+6,Cleaning,"(1.54, 1.2, 0.2)",2025-02-14 16:32:27,4.63,Idle,38898,Operator,Robot,Two Fish,Failed,10,89,DoS Attack,High,4.93,Reset Encryption,1
+8,Incision,"(1.79, 0.87, 1.26)",2025-02-14 16:32:27,2.06,Active,48456,Operator,Robot,Two Fish,Encrypted,11,86,No Threat,Low,0.0,None,0
+3,Suturing,"(1.13, 0.45, 1.14)",2025-02-14 16:32:27,4.94,Active,17214,Operator,Robot,Two Fish,Failed,16,100,No Threat,Medium,0.0,None,0
+3,Navigation,"(0.43, 1.43, 0.98)",2025-02-14 16:32:27,4.89,Idle,93038,Robot,Operator,Two Fish,Failed,18,87,No Threat,High,0.0,None,0
+1,Incision,"(0.95, 1.06, 0.19)",2025-02-14 16:32:27,2.0,Active,92464,Robot,Operator,Two Fish,Failed,19,76,Data Breach,Low,1.58,Reconnect Connection,1
+7,Navigation,"(1.39, 0.09, 0.23)",2025-02-14 16:32:27,2.7,Active,95605,Robot,Operator,Two Fish,Failed,13,94,Data Breach,Low,3.91,Reset Encryption,1
+2,Cleaning,"(0.76, 1.58, 1.42)",2025-02-14 16:32:27,3.41,Idle,33466,Robot,Operator,Two Fish,Encrypted,18,54,No Threat,Low,0.0,None,0
+3,Cleaning,"(1.45, 1.18, 1.84)",2025-02-14 16:32:27,4.04,Idle,59027,Operator,Robot,Two Fish,Encrypted,18,73,No Threat,Medium,0.0,None,0
+4,Navigation,"(0.6, 1.76, 0.25)",2025-02-14 16:32:27,4.59,Active,43166,Robot,Operator,Two Fish,Encrypted,15,86,No Threat,Low,0.0,None,0
+8,Diagnosis,"(0.08, 0.88, 1.1)",2025-02-14 16:32:27,3.98,Active,86415,Robot,Operator,Two Fish,Failed,13,36,Data Breach,Medium,3.24,Isolate Data,1
+7,Incision,"(1.19, 1.43, 1.77)",2025-02-14 16:32:27,4.77,Active,87995,Robot,Operator,Two Fish,Encrypted,9,51,Man-in-the-Middle Attack,Low,4.79,Reset Encryption,1
+8,Navigation,"(1.62, 0.79, 0.95)",2025-02-14 16:32:27,4.51,Idle,31129,Operator,Robot,Two Fish,Encrypted,7,92,Data Breach,Medium,1.13,Reconnect Connection,1
+9,Cleaning,"(0.66, 0.36, 1.25)",2025-02-14 16:32:27,4.79,Active,86992,Robot,Operator,Two Fish,Encrypted,15,92,Man-in-the-Middle Attack,High,3.57,Isolate Data,1
+2,Cleaning,"(0.17, 1.19, 0.63)",2025-02-14 16:32:27,3.69,Active,19559,Operator,Robot,Two Fish,Failed,8,59,Man-in-the-Middle Attack,Low,2.24,Reset Encryption,1
+2,Diagnosis,"(0.86, 1.76, 0.39)",2025-02-14 16:32:27,3.42,Idle,53261,Operator,Robot,Two Fish,Encrypted,7,21,No Threat,Medium,0.0,None,0
+7,Cleaning,"(0.02, 1.63, 1.79)",2025-02-14 16:32:27,1.99,Idle,29350,Robot,Operator,Two Fish,Failed,5,52,No Threat,High,0.0,None,0
+8,Incision,"(0.71, 1.58, 0.15)",2025-02-14 16:32:27,3.63,Active,59863,Robot,Operator,Two Fish,Encrypted,11,20,Data Breach,Medium,3.07,Reconnect Connection,1
+8,Suturing,"(0.96, 0.36, 1.49)",2025-02-14 16:32:27,1.19,Active,91227,Robot,Operator,Two Fish,Encrypted,15,32,Data Breach,Low,2.4,Reset Encryption,1
+4,Diagnosis,"(0.91, 1.67, 0.33)",2025-02-14 16:32:27,2.06,Active,25617,Operator,Robot,Two Fish,Encrypted,5,89,Data Breach,High,4.93,Reconnect Connection,1
+7,Navigation,"(1.57, 0.69, 0.28)",2025-02-14 16:32:27,1.94,Idle,52205,Operator,Robot,Two Fish,Failed,17,56,Man-in-the-Middle Attack,High,1.87,Isolate Data,1
+3,Diagnosis,"(0.41, 0.36, 0.94)",2025-02-14 16:32:27,1.6,Active,98202,Robot,Operator,Two Fish,Encrypted,18,74,No Threat,Low,0.0,None,0
+1,Diagnosis,"(0.67, 1.33, 0.79)",2025-02-14 16:32:27,2.06,Active,29530,Robot,Operator,Two Fish,Encrypted,15,43,No Threat,High,0.0,None,0
+8,Navigation,"(1.19, 0.52, 0.82)",2025-02-14 16:32:27,1.17,Idle,35789,Robot,Operator,Two Fish,Encrypted,20,14,No Threat,High,0.0,None,0
+5,Diagnosis,"(0.28, 1.68, 1.31)",2025-02-14 16:32:27,3.2,Active,15209,Operator,Robot,Two Fish,Encrypted,9,21,No Threat,Low,0.0,None,0
+10,Diagnosis,"(1.87, 0.66, 0.45)",2025-02-14 16:32:27,4.18,Idle,16701,Operator,Robot,Two Fish,Encrypted,20,72,No Threat,High,0.0,None,0
+7,Navigation,"(0.17, 0.07, 1.01)",2025-02-14 16:32:27,3.46,Idle,37022,Operator,Robot,Two Fish,Failed,14,10,DoS Attack,Low,4.41,Reconnect Connection,1
+3,Incision,"(1.53, 1.51, 1.37)",2025-02-14 16:32:27,1.74,Active,55786,Operator,Robot,Two Fish,Failed,12,19,DoS Attack,Low,1.47,Reset Encryption,1
+6,Incision,"(0.87, 1.9, 1.23)",2025-02-14 16:32:27,2.11,Active,85395,Robot,Operator,Two Fish,Failed,6,20,DoS Attack,High,4.62,Reset Encryption,1
+8,Suturing,"(0.41, 1.38, 0.07)",2025-02-14 16:32:27,4.41,Idle,36117,Operator,Robot,Two Fish,Encrypted,15,64,Data Breach,Low,4.54,Reset Encryption,1
+3,Navigation,"(0.21, 0.22, 0.21)",2025-02-14 16:32:27,1.65,Idle,34678,Operator,Robot,Two Fish,Failed,17,91,Data Breach,Medium,3.46,Reconnect Connection,1
+5,Navigation,"(0.43, 1.72, 0.83)",2025-02-14 16:32:27,4.77,Idle,93833,Robot,Operator,Two Fish,Encrypted,5,63,Man-in-the-Middle Attack,High,1.8,Isolate Data,1
+8,Navigation,"(1.9, 0.87, 0.17)",2025-02-14 16:32:27,1.31,Active,16741,Operator,Robot,Two Fish,Failed,16,32,Man-in-the-Middle Attack,High,2.81,Reset Encryption,1
+1,Suturing,"(0.12, 0.46, 1.17)",2025-02-14 16:32:27,4.19,Idle,93862,Robot,Operator,Two Fish,Failed,9,90,No Threat,High,0.0,None,0
+9,Cleaning,"(0.82, 0.08, 1.93)",2025-02-14 16:32:27,3.28,Active,89587,Robot,Operator,Two Fish,Failed,17,25,No Threat,Low,0.0,None,0
+10,Incision,"(1.35, 1.15, 1.03)",2025-02-14 16:32:27,1.07,Idle,15254,Operator,Robot,Two Fish,Failed,11,35,DoS Attack,Medium,3.26,Isolate Data,1
+6,Cleaning,"(1.65, 0.39, 1.39)",2025-02-14 16:32:27,3.73,Active,20365,Robot,Operator,Two Fish,Failed,16,20,Data Breach,Low,4.01,Reset Encryption,1
+6,Navigation,"(1.92, 1.86, 1.41)",2025-02-14 16:32:27,4.08,Active,58275,Robot,Operator,Two Fish,Failed,17,52,No Threat,Medium,0.0,None,0
+10,Navigation,"(0.54, 1.05, 0.27)",2025-02-14 16:32:27,4.03,Active,36573,Robot,Operator,Two Fish,Failed,20,29,DoS Attack,High,3.92,Reconnect Connection,1
+2,Suturing,"(0.26, 0.55, 0.62)",2025-02-14 16:32:27,1.54,Idle,84486,Robot,Operator,Two Fish,Encrypted,18,27,Data Breach,Medium,4.61,Isolate Data,1
+2,Diagnosis,"(1.46, 1.33, 1.49)",2025-02-14 16:32:27,4.22,Active,13494,Robot,Operator,Two Fish,Failed,14,57,Man-in-the-Middle Attack,High,1.54,Reset Encryption,1
+2,Cleaning,"(1.05, 0.65, 0.7)",2025-02-14 16:32:27,1.75,Active,16824,Robot,Operator,Two Fish,Encrypted,11,91,Man-in-the-Middle Attack,Medium,2.49,Reconnect Connection,1
+6,Cleaning,"(0.28, 1.96, 0.02)",2025-02-14 16:32:27,1.32,Active,73955,Operator,Robot,Two Fish,Encrypted,18,72,No Threat,Low,0.0,None,0
+5,Incision,"(0.58, 0.87, 0.14)",2025-02-14 16:32:27,1.37,Active,39351,Robot,Operator,Two Fish,Failed,5,85,No Threat,Medium,0.0,None,0
+3,Suturing,"(0.04, 0.97, 0.24)",2025-02-14 16:32:27,3.02,Idle,72940,Operator,Robot,Two Fish,Encrypted,6,87,No Threat,High,0.0,None,0
+5,Suturing,"(1.15, 0.92, 1.28)",2025-02-14 16:32:27,4.33,Idle,31701,Operator,Robot,Two Fish,Encrypted,19,65,Man-in-the-Middle Attack,High,4.45,Isolate Data,1
+9,Cleaning,"(1.44, 1.81, 1.13)",2025-02-14 16:32:27,3.45,Active,40392,Robot,Operator,Two Fish,Encrypted,13,20,Man-in-the-Middle Attack,High,3.46,Reconnect Connection,1
+2,Suturing,"(0.21, 0.16, 0.7)",2025-02-14 16:32:27,1.42,Idle,47297,Operator,Robot,Two Fish,Encrypted,17,98,DoS Attack,Low,1.53,Reset Encryption,1
+8,Navigation,"(1.38, 0.79, 0.23)",2025-02-14 16:32:27,3.22,Idle,62161,Robot,Operator,Two Fish,Failed,6,59,No Threat,High,0.0,None,0
+2,Cleaning,"(0.4, 1.89, 0.88)",2025-02-14 16:32:27,1.95,Idle,11427,Operator,Robot,Two Fish,Encrypted,19,75,Man-in-the-Middle Attack,Medium,1.46,Reconnect Connection,1
+10,Cleaning,"(0.06, 1.11, 1.18)",2025-02-14 16:32:27,3.77,Idle,99857,Operator,Robot,Two Fish,Failed,17,12,No Threat,Low,0.0,None,0
+7,Diagnosis,"(1.82, 0.41, 0.31)",2025-02-14 16:32:27,1.76,Idle,69902,Operator,Robot,Two Fish,Failed,12,94,Man-in-the-Middle Attack,High,1.37,Isolate Data,1
+7,Navigation,"(0.09, 0.99, 1.29)",2025-02-14 16:32:27,4.92,Active,14649,Operator,Robot,Two Fish,Failed,15,100,DoS Attack,High,2.29,Reset Encryption,1
+10,Incision,"(0.84, 1.19, 1.22)",2025-02-14 16:32:27,2.13,Active,97748,Robot,Operator,Two Fish,Failed,10,55,DoS Attack,High,2.28,Isolate Data,1
+4,Cleaning,"(1.16, 0.42, 1.58)",2025-02-14 16:32:27,3.25,Idle,23758,Robot,Operator,Two Fish,Encrypted,5,30,Man-in-the-Middle Attack,High,3.98,Isolate Data,1
+4,Navigation,"(1.88, 0.89, 0.78)",2025-02-14 16:32:27,2.79,Idle,69232,Operator,Robot,Two Fish,Encrypted,13,66,No Threat,High,0.0,None,0
+5,Diagnosis,"(1.76, 1.52, 0.03)",2025-02-14 16:32:27,2.28,Active,77888,Robot,Operator,Two Fish,Encrypted,8,63,No Threat,Medium,0.0,None,0
+9,Diagnosis,"(0.95, 1.55, 1.07)",2025-02-14 16:32:27,1.78,Idle,11018,Operator,Robot,Two Fish,Failed,10,65,Man-in-the-Middle Attack,Medium,1.68,Reset Encryption,1
+5,Cleaning,"(1.8, 0.57, 1.19)",2025-02-14 16:32:27,4.29,Active,26479,Robot,Operator,Two Fish,Failed,18,12,Data Breach,Low,1.56,Isolate Data,1
+1,Incision,"(1.05, 1.19, 1.77)",2025-02-14 16:32:27,4.21,Idle,95878,Robot,Operator,Two Fish,Encrypted,9,17,Man-in-the-Middle Attack,Medium,2.22,Reset Encryption,1
+5,Suturing,"(1.08, 0.86, 0.12)",2025-02-14 16:32:27,4.93,Idle,27494,Operator,Robot,Two Fish,Encrypted,13,38,Man-in-the-Middle Attack,High,1.84,Reconnect Connection,1
+3,Cleaning,"(0.15, 0.06, 1.95)",2025-02-14 16:32:27,2.27,Active,34170,Operator,Robot,Two Fish,Failed,14,31,No Threat,High,0.0,None,0
+4,Navigation,"(1.34, 0.86, 1.52)",2025-02-14 16:32:27,2.86,Active,40746,Robot,Operator,Two Fish,Failed,18,50,DoS Attack,High,4.44,Isolate Data,1
+10,Suturing,"(1.6, 0.38, 0.76)",2025-02-14 16:32:27,1.48,Idle,15134,Operator,Robot,Two Fish,Failed,11,73,Man-in-the-Middle Attack,High,2.3,Reconnect Connection,1
+5,Cleaning,"(1.27, 0.6, 1.33)",2025-02-14 16:32:27,1.82,Idle,96975,Robot,Operator,Two Fish,Encrypted,20,12,No Threat,High,0.0,None,0
+9,Cleaning,"(1.6, 0.53, 1.07)",2025-02-14 16:32:27,1.84,Active,47703,Robot,Operator,Two Fish,Encrypted,12,73,DoS Attack,Low,2.31,Isolate Data,1
+10,Cleaning,"(0.01, 0.15, 1.36)",2025-02-14 16:32:27,4.29,Idle,77787,Robot,Operator,Two Fish,Encrypted,13,62,DoS Attack,Low,3.09,Isolate Data,1
+7,Cleaning,"(1.34, 1.54, 1.24)",2025-02-14 16:32:27,4.97,Idle,11114,Operator,Robot,Two Fish,Failed,18,83,Data Breach,High,4.13,Reconnect Connection,1
+6,Incision,"(1.69, 0.97, 1.29)",2025-02-14 16:32:27,4.46,Active,46391,Operator,Robot,Two Fish,Encrypted,9,68,Data Breach,High,4.44,Isolate Data,1
+7,Navigation,"(0.0, 0.06, 0.14)",2025-02-14 16:32:27,4.11,Idle,36705,Operator,Robot,Two Fish,Encrypted,17,38,Data Breach,High,1.06,Reset Encryption,1
+3,Navigation,"(1.13, 0.72, 0.61)",2025-02-14 16:32:27,2.39,Active,76564,Robot,Operator,Two Fish,Failed,20,89,Man-in-the-Middle Attack,High,4.0,Isolate Data,1
+5,Incision,"(0.8, 1.2, 0.03)",2025-02-14 16:32:27,3.39,Active,58115,Robot,Operator,Two Fish,Encrypted,10,86,Data Breach,Medium,4.57,Isolate Data,1
+5,Diagnosis,"(0.36, 1.26, 0.13)",2025-02-14 16:32:27,4.97,Idle,80803,Robot,Operator,Two Fish,Encrypted,5,46,Data Breach,Medium,1.69,Reconnect Connection,1
+4,Navigation,"(1.11, 1.66, 1.86)",2025-02-14 16:32:27,1.65,Idle,90259,Robot,Operator,Two Fish,Failed,19,71,Man-in-the-Middle Attack,High,3.55,Isolate Data,1
+2,Suturing,"(0.33, 0.39, 0.57)",2025-02-14 16:32:27,1.38,Idle,47685,Robot,Operator,Two Fish,Failed,6,73,DoS Attack,High,1.15,Isolate Data,1
+2,Incision,"(1.6, 0.24, 0.35)",2025-02-14 16:32:27,1.5,Active,19737,Robot,Operator,Two Fish,Encrypted,15,89,Man-in-the-Middle Attack,Low,4.66,Reset Encryption,1
+8,Cleaning,"(1.61, 0.34, 0.57)",2025-02-14 16:32:27,2.42,Idle,31595,Robot,Operator,Two Fish,Encrypted,7,91,No Threat,High,0.0,None,0
+10,Suturing,"(0.65, 1.28, 1.44)",2025-02-14 16:32:27,1.19,Active,60678,Robot,Operator,Two Fish,Encrypted,13,88,No Threat,Low,0.0,None,0
+3,Diagnosis,"(1.97, 0.24, 1.19)",2025-02-14 16:32:27,1.45,Active,56585,Operator,Robot,Two Fish,Failed,14,58,No Threat,Low,0.0,None,0
+5,Incision,"(1.78, 1.19, 0.62)",2025-02-14 16:32:27,1.63,Idle,32942,Operator,Robot,Two Fish,Encrypted,16,67,Man-in-the-Middle Attack,High,3.57,Reset Encryption,1
+5,Diagnosis,"(0.18, 0.91, 0.6)",2025-02-14 16:32:27,4.88,Active,60718,Robot,Operator,Two Fish,Encrypted,11,17,Data Breach,Medium,2.96,Isolate Data,1
+7,Incision,"(1.65, 0.5, 0.45)",2025-02-14 16:32:27,3.96,Idle,38286,Operator,Robot,Two Fish,Encrypted,15,42,No Threat,High,0.0,None,0
+2,Navigation,"(1.36, 1.63, 0.05)",2025-02-14 16:32:27,4.17,Idle,78212,Robot,Operator,Two Fish,Encrypted,13,84,Data Breach,Low,2.38,Isolate Data,1
+9,Navigation,"(1.11, 0.34, 1.26)",2025-02-14 16:32:27,2.27,Idle,62159,Robot,Operator,Two Fish,Encrypted,14,93,No Threat,Low,0.0,None,0
+6,Diagnosis,"(1.74, 1.9, 0.66)",2025-02-14 16:32:27,1.68,Idle,42861,Robot,Operator,Two Fish,Failed,13,100,No Threat,Medium,0.0,None,0
+4,Incision,"(0.57, 1.4, 1.34)",2025-02-14 16:32:27,3.23,Active,80760,Operator,Robot,Two Fish,Failed,17,21,Man-in-the-Middle Attack,Medium,1.26,Isolate Data,1
+9,Incision,"(0.04, 1.86, 0.34)",2025-02-14 16:32:27,2.7,Active,68091,Robot,Operator,Two Fish,Failed,8,19,Data Breach,Medium,4.8,Reconnect Connection,1
+7,Incision,"(1.14, 0.93, 0.75)",2025-02-14 16:32:27,2.33,Active,53622,Robot,Operator,Two Fish,Failed,19,15,DoS Attack,Medium,4.23,Reconnect Connection,1
+10,Cleaning,"(0.56, 1.79, 1.29)",2025-02-14 16:32:27,4.91,Active,10059,Robot,Operator,Two Fish,Failed,19,46,DoS Attack,Medium,2.23,Isolate Data,1
+5,Navigation,"(1.75, 1.94, 1.71)",2025-02-14 16:32:27,2.99,Idle,55748,Robot,Operator,Two Fish,Failed,12,12,Man-in-the-Middle Attack,High,2.27,Reconnect Connection,1
+4,Diagnosis,"(1.91, 1.45, 1.62)",2025-02-14 16:32:27,1.74,Active,56876,Operator,Robot,Two Fish,Encrypted,12,60,No Threat,High,0.0,None,0
+2,Suturing,"(0.27, 1.77, 0.25)",2025-02-14 16:32:27,3.93,Active,68539,Robot,Operator,Two Fish,Encrypted,14,79,DoS Attack,Medium,3.36,Reset Encryption,1
+10,Diagnosis,"(1.26, 0.99, 1.36)",2025-02-14 16:32:27,3.97,Active,12359,Operator,Robot,Two Fish,Failed,14,32,No Threat,Low,0.0,None,0
+10,Cleaning,"(0.78, 1.04, 1.26)",2025-02-14 16:32:27,3.71,Active,93222,Operator,Robot,Two Fish,Failed,20,14,Data Breach,High,1.04,Isolate Data,1
+4,Navigation,"(1.9, 0.6, 1.81)",2025-02-14 16:32:27,4.67,Idle,57490,Operator,Robot,Two Fish,Encrypted,6,11,DoS Attack,Low,2.7,Isolate Data,1
+10,Suturing,"(1.96, 1.93, 0.38)",2025-02-14 16:32:27,1.26,Active,19588,Robot,Operator,Two Fish,Failed,13,37,Man-in-the-Middle Attack,Medium,3.07,Reset Encryption,1
+5,Incision,"(0.87, 1.5, 0.83)",2025-02-14 16:32:27,3.49,Idle,56374,Operator,Robot,Two Fish,Failed,6,36,No Threat,Low,0.0,None,0
+3,Diagnosis,"(1.21, 0.23, 0.15)",2025-02-14 16:32:27,3.54,Idle,79496,Operator,Robot,Two Fish,Encrypted,14,10,Data Breach,High,2.95,Isolate Data,1
+3,Cleaning,"(1.09, 1.13, 1.59)",2025-02-14 16:32:27,1.71,Idle,56488,Robot,Operator,Two Fish,Failed,15,41,Data Breach,Medium,3.4,Isolate Data,1
+4,Diagnosis,"(1.54, 0.61, 0.58)",2025-02-14 16:32:27,1.93,Active,55360,Operator,Robot,Two Fish,Encrypted,6,64,Man-in-the-Middle Attack,High,4.85,Reconnect Connection,1
+6,Navigation,"(0.08, 0.77, 0.39)",2025-02-14 16:32:27,1.51,Active,78252,Operator,Robot,Two Fish,Failed,12,71,Data Breach,Medium,3.47,Reset Encryption,1
+1,Incision,"(1.27, 0.21, 1.87)",2025-02-14 16:32:27,2.19,Idle,50000,Operator,Robot,Two Fish,Failed,7,95,DoS Attack,High,4.58,Reconnect Connection,1
+7,Navigation,"(1.1, 0.8, 1.36)",2025-02-14 16:32:27,4.38,Active,71176,Operator,Robot,Two Fish,Encrypted,15,89,Data Breach,High,2.4,Reconnect Connection,1
+2,Suturing,"(1.16, 0.77, 0.44)",2025-02-14 16:32:27,1.29,Idle,96674,Operator,Robot,Two Fish,Failed,15,74,Man-in-the-Middle Attack,Medium,2.35,Reconnect Connection,1
+2,Suturing,"(0.62, 0.24, 0.98)",2025-02-14 16:32:27,1.41,Active,90831,Robot,Operator,Two Fish,Failed,10,69,Data Breach,High,4.82,Isolate Data,1
+5,Navigation,"(1.11, 1.05, 0.03)",2025-02-14 16:32:27,1.69,Active,62682,Robot,Operator,Two Fish,Failed,13,55,Man-in-the-Middle Attack,High,2.85,Reset Encryption,1
+2,Cleaning,"(1.08, 1.88, 0.78)",2025-02-14 16:32:27,2.98,Idle,26197,Robot,Operator,Two Fish,Encrypted,10,51,DoS Attack,High,1.2,Reset Encryption,1
+7,Navigation,"(1.83, 0.81, 1.13)",2025-02-14 16:32:27,4.8,Idle,94519,Robot,Operator,Two Fish,Failed,6,75,No Threat,High,0.0,None,0
+2,Incision,"(0.44, 1.74, 1.42)",2025-02-14 16:32:27,3.15,Active,74123,Robot,Operator,Two Fish,Failed,19,51,Man-in-the-Middle Attack,Low,4.11,Isolate Data,1
+2,Suturing,"(1.56, 1.75, 0.47)",2025-02-14 16:32:27,1.09,Idle,18673,Operator,Robot,Two Fish,Failed,8,58,Man-in-the-Middle Attack,Medium,4.25,Reset Encryption,1
+4,Navigation,"(0.21, 1.48, 0.58)",2025-02-14 16:32:27,1.65,Idle,36834,Operator,Robot,Two Fish,Encrypted,15,82,No Threat,High,0.0,None,0
+9,Incision,"(0.0, 1.78, 1.97)",2025-02-14 16:32:27,3.3,Idle,31589,Robot,Operator,Two Fish,Failed,13,61,No Threat,High,0.0,None,0
+5,Cleaning,"(2.0, 1.24, 1.94)",2025-02-14 16:32:27,1.42,Active,87589,Operator,Robot,Two Fish,Failed,15,60,No Threat,Medium,0.0,None,0
+7,Suturing,"(0.26, 0.9, 1.41)",2025-02-14 16:32:27,1.45,Active,41174,Operator,Robot,Two Fish,Failed,16,82,Man-in-the-Middle Attack,High,1.06,Reconnect Connection,1
+3,Diagnosis,"(1.51, 0.32, 0.69)",2025-02-14 16:32:27,1.05,Idle,67727,Robot,Operator,Two Fish,Failed,16,34,Man-in-the-Middle Attack,Medium,2.2,Reconnect Connection,1
+3,Cleaning,"(0.8, 1.71, 0.8)",2025-02-14 16:32:27,1.48,Idle,76051,Robot,Operator,Two Fish,Failed,16,39,Man-in-the-Middle Attack,Medium,4.73,Isolate Data,1
+4,Incision,"(0.77, 0.52, 1.02)",2025-02-14 16:32:27,1.37,Idle,58417,Robot,Operator,Two Fish,Encrypted,18,88,DoS Attack,Medium,3.51,Reset Encryption,1
+8,Navigation,"(0.14, 1.65, 0.72)",2025-02-14 16:32:27,4.82,Active,23316,Robot,Operator,Two Fish,Encrypted,12,71,No Threat,High,0.0,None,0
+7,Diagnosis,"(1.73, 1.13, 0.86)",2025-02-14 16:32:27,3.27,Active,50606,Robot,Operator,Two Fish,Failed,5,63,Man-in-the-Middle Attack,Low,2.78,Reconnect Connection,1
+9,Incision,"(1.25, 1.1, 0.27)",2025-02-14 16:32:27,2.63,Active,88175,Operator,Robot,Two Fish,Encrypted,15,46,Data Breach,High,4.83,Reset Encryption,1
+1,Diagnosis,"(0.32, 0.09, 2.0)",2025-02-14 16:32:27,1.81,Active,90100,Operator,Robot,Two Fish,Failed,19,35,Data Breach,High,2.83,Isolate Data,1
+1,Incision,"(1.64, 0.28, 0.97)",2025-02-14 16:32:27,1.12,Idle,99175,Operator,Robot,Two Fish,Failed,7,79,Data Breach,Medium,2.07,Reset Encryption,1
+7,Suturing,"(1.12, 1.1, 0.31)",2025-02-14 16:32:27,4.04,Active,93747,Robot,Operator,Two Fish,Encrypted,12,50,DoS Attack,Medium,2.96,Reset Encryption,1
+2,Incision,"(1.95, 0.35, 0.78)",2025-02-14 16:32:27,3.49,Active,59599,Operator,Robot,Two Fish,Encrypted,9,39,No Threat,High,0.0,None,0
+6,Incision,"(0.07, 0.9, 0.21)",2025-02-14 16:32:27,1.82,Idle,72273,Operator,Robot,Two Fish,Encrypted,19,52,Data Breach,Medium,1.9,Reset Encryption,1
+2,Cleaning,"(1.22, 0.35, 1.6)",2025-02-14 16:32:27,2.48,Active,75708,Operator,Robot,Two Fish,Failed,9,64,DoS Attack,High,3.66,Reconnect Connection,1
+2,Suturing,"(1.91, 1.35, 1.74)",2025-02-14 16:32:27,2.65,Active,73894,Operator,Robot,Two Fish,Encrypted,18,34,Data Breach,High,4.48,Isolate Data,1
+5,Incision,"(0.16, 0.19, 0.37)",2025-02-14 16:32:27,2.51,Idle,43283,Operator,Robot,Two Fish,Failed,19,64,No Threat,Low,0.0,None,0
+4,Incision,"(0.66, 1.06, 0.0)",2025-02-14 16:32:27,1.59,Idle,62848,Operator,Robot,Two Fish,Failed,10,11,Data Breach,High,1.93,Reconnect Connection,1
+2,Navigation,"(1.44, 1.4, 0.91)",2025-02-14 16:32:27,3.27,Idle,50426,Operator,Robot,Two Fish,Failed,13,46,Man-in-the-Middle Attack,Low,2.1,Isolate Data,1
+8,Diagnosis,"(0.86, 0.44, 1.76)",2025-02-14 16:32:27,2.6,Idle,40264,Operator,Robot,Two Fish,Failed,7,59,No Threat,Medium,0.0,None,0
+3,Incision,"(1.96, 1.54, 1.82)",2025-02-14 16:32:27,4.16,Active,96408,Robot,Operator,Two Fish,Encrypted,7,38,DoS Attack,High,2.76,Isolate Data,1
+8,Incision,"(1.25, 1.06, 0.01)",2025-02-14 16:32:27,1.98,Idle,70489,Operator,Robot,Two Fish,Failed,9,69,DoS Attack,Medium,2.97,Reconnect Connection,1
+6,Navigation,"(0.01, 1.03, 1.17)",2025-02-14 16:32:27,3.03,Idle,65793,Robot,Operator,Two Fish,Encrypted,16,12,Data Breach,Low,3.54,Reconnect Connection,1
+9,Navigation,"(2.0, 1.54, 0.19)",2025-02-14 16:32:27,4.72,Active,36524,Robot,Operator,Two Fish,Failed,18,26,Man-in-the-Middle Attack,High,2.83,Reconnect Connection,1
+8,Incision,"(0.92, 1.35, 0.88)",2025-02-14 16:32:27,1.96,Idle,26662,Operator,Robot,Two Fish,Encrypted,16,38,Data Breach,Medium,3.76,Reconnect Connection,1
+6,Suturing,"(0.7, 1.72, 1.19)",2025-02-14 16:32:27,2.75,Active,87418,Robot,Operator,Two Fish,Failed,6,28,Man-in-the-Middle Attack,High,1.84,Reconnect Connection,1
+8,Incision,"(0.76, 0.72, 0.59)",2025-02-14 16:32:27,2.51,Idle,56824,Robot,Operator,Two Fish,Failed,12,36,DoS Attack,Low,4.39,Isolate Data,1
+2,Navigation,"(1.27, 1.63, 0.85)",2025-02-14 16:32:27,4.04,Idle,22738,Operator,Robot,Two Fish,Encrypted,6,72,DoS Attack,Medium,1.25,Isolate Data,1
+3,Navigation,"(1.42, 0.9, 1.85)",2025-02-14 16:32:27,4.66,Active,60734,Robot,Operator,Two Fish,Failed,19,34,Man-in-the-Middle Attack,Medium,4.75,Isolate Data,1
+4,Incision,"(0.3, 1.99, 0.42)",2025-02-14 16:32:27,5.0,Idle,95840,Operator,Robot,Two Fish,Failed,7,61,No Threat,High,0.0,None,0
+7,Suturing,"(1.86, 0.85, 0.15)",2025-02-14 16:32:27,3.62,Active,11559,Robot,Operator,Two Fish,Encrypted,9,40,Data Breach,Medium,3.29,Isolate Data,1
+9,Navigation,"(1.54, 1.12, 1.86)",2025-02-14 16:32:27,4.85,Active,66205,Robot,Operator,Two Fish,Failed,5,97,No Threat,High,0.0,None,0
+9,Suturing,"(1.69, 0.59, 0.15)",2025-02-14 16:32:27,2.64,Idle,11344,Operator,Robot,Two Fish,Failed,12,81,Man-in-the-Middle Attack,Medium,2.94,Isolate Data,1
+5,Suturing,"(0.78, 0.21, 1.25)",2025-02-14 16:32:27,2.88,Idle,61622,Robot,Operator,Two Fish,Failed,15,48,DoS Attack,Medium,3.57,Reset Encryption,1
+10,Diagnosis,"(1.66, 0.07, 1.6)",2025-02-14 16:32:27,1.18,Idle,39112,Robot,Operator,Two Fish,Encrypted,18,48,Man-in-the-Middle Attack,Low,4.33,Reconnect Connection,1
+1,Suturing,"(1.78, 0.05, 1.33)",2025-02-14 16:32:27,3.87,Idle,32890,Robot,Operator,Two Fish,Encrypted,15,13,No Threat,High,0.0,None,0
+5,Diagnosis,"(0.2, 1.59, 0.8)",2025-02-14 16:32:27,1.75,Active,19996,Operator,Robot,Two Fish,Encrypted,13,95,Data Breach,High,4.88,Reset Encryption,1
+1,Diagnosis,"(0.25, 1.61, 0.39)",2025-02-14 16:32:27,2.52,Idle,82397,Robot,Operator,Two Fish,Encrypted,20,63,Man-in-the-Middle Attack,Medium,1.7,Reconnect Connection,1
+9,Navigation,"(1.96, 0.47, 0.2)",2025-02-14 16:32:27,4.17,Active,22195,Robot,Operator,Two Fish,Encrypted,20,89,Man-in-the-Middle Attack,Low,3.81,Reset Encryption,1
+7,Diagnosis,"(1.36, 1.6, 0.18)",2025-02-14 16:32:27,1.69,Active,17985,Operator,Robot,Two Fish,Encrypted,11,14,Data Breach,High,3.76,Isolate Data,1
+1,Incision,"(1.21, 2.0, 1.42)",2025-02-14 16:32:27,4.91,Idle,50005,Operator,Robot,Two Fish,Failed,16,14,No Threat,Low,0.0,None,0
+1,Incision,"(0.31, 1.9, 1.31)",2025-02-14 16:32:27,2.35,Idle,74306,Robot,Operator,Two Fish,Encrypted,6,17,Man-in-the-Middle Attack,Medium,2.48,Reset Encryption,1
+3,Diagnosis,"(1.49, 1.59, 1.18)",2025-02-14 16:32:27,3.38,Active,60563,Operator,Robot,Two Fish,Encrypted,8,73,No Threat,Low,0.0,None,0
+4,Incision,"(1.53, 0.79, 0.42)",2025-02-14 16:32:27,2.91,Idle,86598,Robot,Operator,Two Fish,Encrypted,10,91,DoS Attack,High,4.04,Reset Encryption,1
+2,Diagnosis,"(0.3, 1.03, 1.19)",2025-02-14 16:32:27,2.52,Idle,39755,Robot,Operator,Two Fish,Encrypted,12,65,No Threat,Low,0.0,None,0
+4,Suturing,"(1.04, 1.28, 0.38)",2025-02-14 16:32:27,4.93,Active,36938,Operator,Robot,Two Fish,Encrypted,7,45,No Threat,Medium,0.0,None,0
+5,Cleaning,"(1.86, 0.08, 1.35)",2025-02-14 16:32:27,3.12,Idle,25495,Robot,Operator,Two Fish,Failed,12,55,Data Breach,High,1.46,Reconnect Connection,1
+8,Suturing,"(0.88, 1.23, 1.15)",2025-02-14 16:32:27,1.25,Idle,70717,Robot,Operator,Two Fish,Encrypted,5,42,DoS Attack,Medium,3.25,Isolate Data,1
+5,Navigation,"(1.91, 1.92, 1.91)",2025-02-14 16:32:27,1.71,Active,42900,Operator,Robot,Two Fish,Failed,19,18,DoS Attack,Low,4.38,Isolate Data,1
+7,Cleaning,"(1.11, 1.93, 1.91)",2025-02-14 16:32:27,1.23,Idle,56400,Robot,Operator,Two Fish,Failed,11,92,Man-in-the-Middle Attack,Low,3.08,Reset Encryption,1
+6,Suturing,"(0.01, 1.2, 0.64)",2025-02-14 16:32:27,3.54,Idle,81265,Robot,Operator,Two Fish,Failed,5,49,DoS Attack,Low,2.15,Isolate Data,1
+8,Suturing,"(0.84, 0.82, 1.55)",2025-02-14 16:32:27,2.41,Idle,86272,Robot,Operator,Two Fish,Failed,5,87,Data Breach,Low,2.63,Isolate Data,1
+6,Navigation,"(1.06, 1.39, 1.53)",2025-02-14 16:32:27,3.76,Active,25598,Operator,Robot,Two Fish,Failed,7,55,Man-in-the-Middle Attack,Low,2.91,Reset Encryption,1
+3,Navigation,"(0.96, 1.49, 1.91)",2025-02-14 16:32:27,4.22,Idle,56815,Operator,Robot,Two Fish,Failed,17,95,DoS Attack,Medium,2.14,Reset Encryption,1
+4,Navigation,"(0.82, 1.09, 1.76)",2025-02-14 16:32:27,4.07,Active,54075,Operator,Robot,Two Fish,Encrypted,20,66,Man-in-the-Middle Attack,Medium,1.5,Isolate Data,1
+5,Incision,"(1.34, 1.3, 1.43)",2025-02-14 16:32:27,2.56,Active,86142,Robot,Operator,Two Fish,Failed,17,64,No Threat,Low,0.0,None,0
+4,Suturing,"(1.11, 1.78, 1.82)",2025-02-14 16:32:27,3.89,Idle,46763,Robot,Operator,Two Fish,Failed,20,49,No Threat,Low,0.0,None,0
+5,Navigation,"(1.06, 1.52, 0.8)",2025-02-14 16:32:27,4.61,Active,36068,Operator,Robot,Two Fish,Encrypted,12,77,Data Breach,Medium,2.25,Isolate Data,1
+1,Incision,"(1.2, 0.05, 1.67)",2025-02-14 16:32:27,2.37,Active,77802,Operator,Robot,Two Fish,Failed,14,81,No Threat,Medium,0.0,None,0
+6,Incision,"(1.21, 1.31, 1.14)",2025-02-14 16:32:27,4.91,Idle,58418,Operator,Robot,Two Fish,Encrypted,6,43,No Threat,Medium,0.0,None,0
+1,Diagnosis,"(0.45, 1.03, 1.93)",2025-02-14 16:32:27,3.12,Idle,30082,Operator,Robot,Two Fish,Failed,16,95,DoS Attack,Low,1.2,Reconnect Connection,1
+5,Diagnosis,"(1.04, 1.24, 0.74)",2025-02-14 16:32:27,2.4,Active,34478,Operator,Robot,Two Fish,Encrypted,20,37,No Threat,Medium,0.0,None,0
+2,Suturing,"(0.47, 0.25, 0.19)",2025-02-14 16:32:27,4.03,Idle,98294,Robot,Operator,Two Fish,Encrypted,12,54,DoS Attack,Low,3.38,Reset Encryption,1
+3,Incision,"(0.19, 0.64, 1.1)",2025-02-14 16:32:27,4.52,Idle,47761,Operator,Robot,Two Fish,Encrypted,11,43,Man-in-the-Middle Attack,Low,4.7,Isolate Data,1
+1,Suturing,"(1.38, 1.86, 0.84)",2025-02-14 16:32:27,3.63,Idle,56863,Operator,Robot,Two Fish,Failed,18,94,DoS Attack,High,4.19,Reconnect Connection,1
+1,Incision,"(1.99, 1.46, 1.79)",2025-02-14 16:32:27,2.43,Active,80199,Operator,Robot,Two Fish,Encrypted,5,66,Data Breach,Low,1.1,Reconnect Connection,1
+8,Suturing,"(0.96, 1.11, 1.79)",2025-02-14 16:32:27,4.62,Active,53245,Operator,Robot,Two Fish,Encrypted,7,15,DoS Attack,Low,1.34,Reconnect Connection,1
+1,Navigation,"(1.56, 1.6, 0.57)",2025-02-14 16:32:27,1.37,Idle,42033,Operator,Robot,Two Fish,Encrypted,6,84,No Threat,High,0.0,None,0
+10,Diagnosis,"(1.52, 0.98, 1.59)",2025-02-14 16:32:27,3.81,Idle,78014,Robot,Operator,Two Fish,Failed,15,57,Man-in-the-Middle Attack,High,3.11,Reset Encryption,1
+9,Cleaning,"(0.78, 1.52, 0.52)",2025-02-14 16:32:27,4.85,Active,43389,Operator,Robot,Two Fish,Failed,17,32,No Threat,Medium,0.0,None,0
+1,Incision,"(1.42, 0.18, 0.97)",2025-02-14 16:32:27,1.11,Idle,71451,Operator,Robot,Two Fish,Failed,7,52,Man-in-the-Middle Attack,Low,2.67,Reset Encryption,1
+3,Suturing,"(1.28, 1.1, 1.13)",2025-02-14 16:32:27,3.41,Active,18879,Operator,Robot,Two Fish,Encrypted,12,15,Data Breach,High,4.57,Reconnect Connection,1
+1,Suturing,"(0.82, 1.17, 0.82)",2025-02-14 16:32:27,2.71,Idle,23887,Robot,Operator,Two Fish,Failed,17,91,No Threat,Low,0.0,None,0
+1,Diagnosis,"(0.89, 0.16, 1.19)",2025-02-14 16:32:27,3.99,Active,77870,Robot,Operator,Two Fish,Failed,15,29,Man-in-the-Middle Attack,Low,2.64,Reset Encryption,1
+2,Navigation,"(0.45, 1.2, 0.7)",2025-02-14 16:32:27,3.06,Active,98935,Operator,Robot,Two Fish,Failed,20,52,No Threat,High,0.0,None,0
+6,Cleaning,"(1.94, 0.14, 1.47)",2025-02-14 16:32:27,4.65,Idle,76198,Operator,Robot,Two Fish,Failed,20,15,Data Breach,High,2.91,Reconnect Connection,1
+9,Cleaning,"(1.03, 0.51, 0.72)",2025-02-14 16:32:27,3.07,Idle,90403,Operator,Robot,Two Fish,Failed,8,67,DoS Attack,High,2.3,Reconnect Connection,1
+5,Navigation,"(0.99, 0.06, 1.41)",2025-02-14 16:32:27,2.92,Idle,79694,Operator,Robot,Two Fish,Encrypted,11,74,Man-in-the-Middle Attack,High,2.61,Reset Encryption,1
+7,Diagnosis,"(0.05, 1.29, 1.24)",2025-02-14 16:32:27,3.69,Idle,22818,Operator,Robot,Two Fish,Failed,11,27,DoS Attack,High,4.2,Reset Encryption,1
+4,Incision,"(0.09, 1.98, 0.5)",2025-02-14 16:32:27,1.86,Active,64256,Operator,Robot,Two Fish,Failed,5,36,DoS Attack,High,4.97,Reconnect Connection,1
+3,Incision,"(0.15, 0.78, 1.28)",2025-02-14 16:32:27,3.69,Active,94722,Operator,Robot,Two Fish,Encrypted,16,78,Man-in-the-Middle Attack,High,2.43,Reconnect Connection,1
+8,Diagnosis,"(0.55, 0.28, 1.59)",2025-02-14 16:32:27,4.57,Idle,29221,Operator,Robot,Two Fish,Failed,11,88,DoS Attack,Medium,3.1,Reset Encryption,1
+5,Cleaning,"(0.13, 0.93, 0.07)",2025-02-14 16:32:27,2.22,Active,71828,Robot,Operator,Two Fish,Encrypted,10,20,Data Breach,Low,2.14,Reset Encryption,1
+3,Incision,"(0.25, 0.77, 0.29)",2025-02-14 16:32:27,1.81,Idle,18285,Operator,Robot,Two Fish,Encrypted,20,80,Man-in-the-Middle Attack,Low,3.29,Isolate Data,1
+9,Cleaning,"(1.51, 0.14, 0.44)",2025-02-14 16:32:27,1.05,Active,91598,Operator,Robot,Two Fish,Encrypted,8,34,Man-in-the-Middle Attack,High,1.74,Reset Encryption,1
+1,Suturing,"(1.61, 0.53, 0.56)",2025-02-14 16:32:27,2.62,Idle,40613,Robot,Operator,Two Fish,Failed,9,41,DoS Attack,Low,4.77,Isolate Data,1
+1,Incision,"(0.77, 1.65, 1.1)",2025-02-14 16:32:27,4.72,Idle,52006,Robot,Operator,Two Fish,Encrypted,7,71,Data Breach,Low,2.06,Reconnect Connection,1
+1,Navigation,"(1.34, 0.48, 1.75)",2025-02-14 16:32:27,1.77,Idle,16533,Operator,Robot,Two Fish,Failed,8,91,Man-in-the-Middle Attack,High,2.46,Reconnect Connection,1
+10,Navigation,"(1.54, 1.91, 1.07)",2025-02-14 16:32:27,2.02,Idle,59899,Operator,Robot,Two Fish,Encrypted,11,23,Data Breach,Low,2.82,Reconnect Connection,1
+5,Navigation,"(0.13, 0.17, 1.13)",2025-02-14 16:32:27,3.63,Idle,20871,Operator,Robot,Two Fish,Failed,7,96,DoS Attack,Medium,1.91,Reconnect Connection,1
+3,Diagnosis,"(1.74, 0.54, 0.18)",2025-02-14 16:32:27,1.53,Idle,30237,Robot,Operator,Two Fish,Failed,6,55,No Threat,Medium,0.0,None,0
+6,Suturing,"(1.76, 0.47, 0.19)",2025-02-14 16:32:27,1.37,Active,67024,Operator,Robot,Two Fish,Failed,11,89,Data Breach,Medium,2.1,Isolate Data,1
+10,Suturing,"(0.59, 0.67, 0.78)",2025-02-14 16:32:27,3.05,Idle,28598,Robot,Operator,Two Fish,Failed,6,30,Man-in-the-Middle Attack,Low,3.7,Reconnect Connection,1
+2,Suturing,"(1.56, 0.85, 1.17)",2025-02-14 16:32:27,2.08,Active,29735,Operator,Robot,Two Fish,Encrypted,19,47,Man-in-the-Middle Attack,Medium,4.74,Reconnect Connection,1
+6,Suturing,"(1.6, 0.51, 1.86)",2025-02-14 16:32:27,4.8,Idle,34647,Operator,Robot,Two Fish,Encrypted,6,43,No Threat,High,0.0,None,0
+7,Suturing,"(0.72, 1.86, 1.01)",2025-02-14 16:32:27,4.12,Active,96925,Operator,Robot,Two Fish,Encrypted,15,94,DoS Attack,Medium,4.49,Isolate Data,1
+3,Suturing,"(0.39, 1.08, 0.43)",2025-02-14 16:32:27,3.5,Active,68369,Robot,Operator,Two Fish,Failed,16,95,No Threat,Medium,0.0,None,0
+4,Navigation,"(0.91, 0.18, 0.55)",2025-02-14 16:32:27,1.43,Active,80534,Robot,Operator,Two Fish,Failed,11,92,No Threat,Medium,0.0,None,0
+7,Diagnosis,"(0.69, 1.81, 0.2)",2025-02-14 16:32:27,4.47,Idle,82453,Robot,Operator,Two Fish,Encrypted,8,14,DoS Attack,Medium,2.34,Reconnect Connection,1
+6,Cleaning,"(1.34, 0.18, 0.22)",2025-02-14 16:32:27,1.04,Idle,92537,Operator,Robot,Two Fish,Failed,14,77,Man-in-the-Middle Attack,Medium,1.91,Reconnect Connection,1
+5,Diagnosis,"(1.43, 0.5, 1.59)",2025-02-14 16:32:27,2.19,Idle,84704,Robot,Operator,Two Fish,Encrypted,14,63,DoS Attack,Medium,2.25,Reconnect Connection,1
+8,Diagnosis,"(1.57, 0.3, 0.85)",2025-02-14 16:32:27,4.61,Active,67121,Robot,Operator,Two Fish,Encrypted,12,44,No Threat,Medium,0.0,None,0
+10,Incision,"(1.53, 1.5, 1.46)",2025-02-14 16:32:27,4.84,Idle,74611,Operator,Robot,Two Fish,Failed,9,17,No Threat,High,0.0,None,0
+3,Navigation,"(0.2, 0.26, 1.61)",2025-02-14 16:32:27,2.82,Active,15881,Robot,Operator,Two Fish,Encrypted,13,39,Data Breach,Low,4.71,Reset Encryption,1
+8,Navigation,"(1.35, 1.85, 1.99)",2025-02-14 16:32:27,2.73,Idle,92489,Robot,Operator,Two Fish,Failed,20,29,DoS Attack,Medium,4.41,Isolate Data,1
+10,Cleaning,"(0.17, 0.87, 1.23)",2025-02-14 16:32:27,1.79,Active,27605,Robot,Operator,Two Fish,Failed,13,49,Data Breach,Medium,3.51,Isolate Data,1
+8,Incision,"(1.88, 1.04, 1.59)",2025-02-14 16:32:27,1.63,Active,99482,Robot,Operator,Two Fish,Failed,17,95,Data Breach,Low,4.45,Reconnect Connection,1
+10,Incision,"(1.11, 1.71, 1.1)",2025-02-14 16:32:27,2.34,Active,34307,Robot,Operator,Two Fish,Failed,16,14,Data Breach,High,2.35,Reconnect Connection,1
+10,Diagnosis,"(0.14, 1.29, 1.0)",2025-02-14 16:32:27,1.98,Idle,88672,Operator,Robot,Two Fish,Failed,12,96,DoS Attack,Low,1.8,Isolate Data,1
+8,Incision,"(1.76, 1.78, 1.45)",2025-02-14 16:32:27,4.57,Active,46442,Robot,Operator,Two Fish,Encrypted,16,54,Man-in-the-Middle Attack,High,3.48,Isolate Data,1
+1,Diagnosis,"(1.86, 1.92, 0.11)",2025-02-14 16:32:27,3.42,Idle,94736,Robot,Operator,Two Fish,Failed,9,87,No Threat,High,0.0,None,0
+9,Incision,"(1.44, 0.54, 0.41)",2025-02-14 16:32:27,3.73,Idle,98021,Robot,Operator,Two Fish,Failed,15,81,Man-in-the-Middle Attack,Low,3.82,Reset Encryption,1
+5,Suturing,"(0.24, 0.58, 0.12)",2025-02-14 16:32:27,2.49,Active,65873,Operator,Robot,Two Fish,Encrypted,9,83,No Threat,Medium,0.0,None,0
+9,Navigation,"(1.15, 1.25, 1.73)",2025-02-14 16:32:27,4.51,Active,18479,Operator,Robot,Two Fish,Failed,6,73,DoS Attack,Low,1.8,Isolate Data,1
+2,Suturing,"(0.33, 1.77, 1.71)",2025-02-14 16:32:27,2.03,Idle,25682,Operator,Robot,Two Fish,Encrypted,13,78,Man-in-the-Middle Attack,High,3.55,Isolate Data,1
+7,Cleaning,"(0.84, 0.17, 1.84)",2025-02-14 16:32:27,2.84,Active,87085,Operator,Robot,Two Fish,Encrypted,14,95,Man-in-the-Middle Attack,High,4.78,Reconnect Connection,1
+7,Suturing,"(1.13, 1.02, 1.05)",2025-02-14 16:32:27,2.64,Active,20841,Operator,Robot,Two Fish,Failed,19,10,DoS Attack,Low,1.64,Isolate Data,1
+3,Suturing,"(0.93, 1.57, 1.33)",2025-02-14 16:32:27,4.38,Active,77792,Operator,Robot,Two Fish,Encrypted,18,48,Man-in-the-Middle Attack,Medium,2.55,Reset Encryption,1
+7,Diagnosis,"(1.13, 1.86, 1.5)",2025-02-14 16:32:27,2.6,Active,86459,Robot,Operator,Two Fish,Failed,10,46,DoS Attack,High,1.48,Isolate Data,1
+4,Suturing,"(0.88, 1.32, 1.0)",2025-02-14 16:32:27,4.59,Idle,15504,Robot,Operator,Two Fish,Failed,9,70,DoS Attack,High,4.62,Reconnect Connection,1
+7,Diagnosis,"(1.69, 0.8, 0.86)",2025-02-14 16:32:27,4.25,Active,34632,Operator,Robot,Two Fish,Failed,11,28,Man-in-the-Middle Attack,High,3.35,Reset Encryption,1
+6,Diagnosis,"(1.66, 0.98, 0.21)",2025-02-14 16:32:27,4.05,Active,86678,Operator,Robot,Two Fish,Failed,20,33,Man-in-the-Middle Attack,Medium,1.63,Reconnect Connection,1
+7,Cleaning,"(0.97, 1.22, 0.23)",2025-02-14 16:32:27,4.07,Idle,34662,Operator,Robot,Two Fish,Encrypted,6,40,Data Breach,Low,4.04,Isolate Data,1
+5,Navigation,"(1.66, 0.43, 1.13)",2025-02-14 16:32:27,1.62,Active,45988,Operator,Robot,Two Fish,Failed,8,11,DoS Attack,High,3.96,Reset Encryption,1
+10,Diagnosis,"(0.8, 0.27, 0.9)",2025-02-14 16:32:27,2.09,Idle,21059,Operator,Robot,Two Fish,Failed,7,60,Man-in-the-Middle Attack,High,3.99,Reconnect Connection,1
+5,Incision,"(1.61, 1.49, 1.75)",2025-02-14 16:32:27,2.3,Active,31163,Robot,Operator,Two Fish,Encrypted,8,49,No Threat,Medium,0.0,None,0
+1,Incision,"(1.2, 1.89, 1.56)",2025-02-14 16:32:27,3.48,Idle,72188,Robot,Operator,Two Fish,Failed,20,76,Data Breach,Low,2.14,Isolate Data,1
+9,Incision,"(1.08, 0.42, 0.9)",2025-02-14 16:32:27,4.5,Idle,58430,Robot,Operator,Two Fish,Encrypted,9,21,No Threat,High,0.0,None,0
+8,Incision,"(0.99, 1.92, 1.06)",2025-02-14 16:32:27,2.5,Idle,28083,Robot,Operator,Two Fish,Failed,19,93,Man-in-the-Middle Attack,High,2.77,Reset Encryption,1
+8,Diagnosis,"(1.85, 0.07, 1.51)",2025-02-14 16:32:27,2.16,Idle,39380,Operator,Robot,Two Fish,Failed,9,18,DoS Attack,Medium,1.99,Reset Encryption,1
+1,Suturing,"(0.62, 0.04, 0.02)",2025-02-14 16:32:27,4.37,Idle,88461,Operator,Robot,Two Fish,Failed,12,23,No Threat,Low,0.0,None,0
+6,Navigation,"(1.95, 0.19, 1.99)",2025-02-14 16:32:27,1.45,Idle,52615,Operator,Robot,Two Fish,Encrypted,9,20,Man-in-the-Middle Attack,High,4.59,Reset Encryption,1
+6,Cleaning,"(1.13, 0.32, 0.09)",2025-02-14 16:32:27,1.95,Idle,57538,Operator,Robot,Two Fish,Failed,18,35,Man-in-the-Middle Attack,Low,1.06,Reconnect Connection,1
+2,Diagnosis,"(1.03, 1.52, 0.09)",2025-02-14 16:32:27,4.84,Idle,90882,Robot,Operator,Two Fish,Failed,12,20,DoS Attack,High,3.21,Reset Encryption,1
+2,Cleaning,"(1.17, 1.4, 0.98)",2025-02-14 16:32:27,3.56,Idle,19122,Robot,Operator,Two Fish,Encrypted,8,93,Data Breach,High,3.15,Reconnect Connection,1
+8,Diagnosis,"(1.41, 0.79, 0.7)",2025-02-14 16:32:27,1.3,Idle,78694,Robot,Operator,Two Fish,Failed,5,96,No Threat,Low,0.0,None,0
+5,Incision,"(0.44, 0.29, 0.63)",2025-02-14 16:32:27,2.79,Active,68441,Robot,Operator,Two Fish,Failed,16,69,Data Breach,High,4.87,Reset Encryption,1
+5,Suturing,"(0.25, 0.95, 1.51)",2025-02-14 16:32:27,1.19,Idle,91630,Robot,Operator,Two Fish,Encrypted,12,61,Data Breach,Low,4.45,Isolate Data,1
+10,Incision,"(1.92, 0.32, 1.35)",2025-02-14 16:32:27,4.45,Idle,82121,Operator,Robot,Two Fish,Failed,12,98,Data Breach,Low,1.67,Reconnect Connection,1
+7,Diagnosis,"(1.96, 1.65, 1.53)",2025-02-14 16:32:27,3.23,Active,34305,Robot,Operator,Two Fish,Failed,15,99,No Threat,Medium,0.0,None,0
+5,Diagnosis,"(1.1, 0.2, 1.21)",2025-02-14 16:32:27,1.24,Idle,21520,Operator,Robot,Two Fish,Encrypted,14,24,No Threat,High,0.0,None,0
+8,Suturing,"(1.53, 0.18, 1.35)",2025-02-14 16:32:27,4.75,Idle,53455,Operator,Robot,Two Fish,Encrypted,12,22,Man-in-the-Middle Attack,Low,4.55,Reset Encryption,1
+7,Cleaning,"(1.69, 0.64, 0.09)",2025-02-14 16:32:27,2.73,Active,18130,Robot,Operator,Two Fish,Failed,6,92,Man-in-the-Middle Attack,High,4.99,Reconnect Connection,1
+4,Diagnosis,"(1.47, 0.3, 0.3)",2025-02-14 16:32:27,4.29,Active,45512,Robot,Operator,Two Fish,Failed,11,13,DoS Attack,Low,3.24,Reconnect Connection,1
+4,Diagnosis,"(0.08, 1.65, 1.36)",2025-02-14 16:32:27,4.19,Active,61949,Operator,Robot,Two Fish,Failed,7,81,Man-in-the-Middle Attack,High,2.13,Isolate Data,1
+4,Cleaning,"(1.68, 0.16, 0.4)",2025-02-14 16:32:27,2.08,Active,30989,Robot,Operator,Two Fish,Failed,16,16,No Threat,Medium,0.0,None,0
+10,Suturing,"(0.32, 1.55, 0.23)",2025-02-14 16:32:27,1.4,Idle,21227,Operator,Robot,Two Fish,Encrypted,18,60,DoS Attack,Medium,3.37,Reconnect Connection,1
+9,Cleaning,"(1.52, 1.92, 1.02)",2025-02-14 16:32:27,2.35,Idle,18268,Robot,Operator,Two Fish,Failed,8,54,DoS Attack,High,3.21,Reconnect Connection,1
+10,Cleaning,"(0.08, 0.5, 0.79)",2025-02-14 16:32:27,1.56,Idle,90934,Operator,Robot,Two Fish,Failed,13,59,Man-in-the-Middle Attack,High,1.04,Isolate Data,1
+5,Cleaning,"(0.52, 1.57, 0.6)",2025-02-14 16:32:27,1.84,Idle,20618,Robot,Operator,Two Fish,Failed,12,96,Data Breach,High,3.65,Isolate Data,1
+7,Diagnosis,"(0.36, 0.46, 0.45)",2025-02-14 16:32:27,1.82,Active,92076,Operator,Robot,Two Fish,Encrypted,7,62,Man-in-the-Middle Attack,High,4.15,Reconnect Connection,1
+10,Navigation,"(1.45, 0.27, 0.82)",2025-02-14 16:32:27,1.47,Active,17627,Operator,Robot,Two Fish,Failed,20,75,No Threat,Medium,0.0,None,0
+8,Incision,"(0.69, 0.99, 0.32)",2025-02-14 16:32:27,4.0,Idle,82549,Operator,Robot,Two Fish,Failed,13,75,No Threat,Medium,0.0,None,0
+5,Cleaning,"(1.67, 0.82, 0.51)",2025-02-14 16:32:27,1.44,Idle,11889,Operator,Robot,Two Fish,Failed,9,46,No Threat,Low,0.0,None,0
+9,Navigation,"(0.2, 0.4, 0.05)",2025-02-14 16:32:27,1.24,Active,88593,Operator,Robot,Two Fish,Encrypted,5,40,Man-in-the-Middle Attack,Medium,3.63,Reconnect Connection,1
+6,Incision,"(0.32, 1.73, 0.06)",2025-02-14 16:32:27,3.98,Idle,55429,Robot,Operator,Two Fish,Encrypted,12,91,DoS Attack,Medium,2.28,Reconnect Connection,1
+2,Suturing,"(0.59, 0.79, 0.62)",2025-02-14 16:32:27,2.41,Active,22840,Operator,Robot,Two Fish,Encrypted,14,14,No Threat,High,0.0,None,0
+10,Incision,"(1.63, 1.34, 1.0)",2025-02-14 16:32:27,4.88,Active,66235,Operator,Robot,Two Fish,Encrypted,5,60,No Threat,Medium,0.0,None,0
+6,Cleaning,"(1.79, 0.45, 1.65)",2025-02-14 16:32:27,4.41,Idle,29782,Operator,Robot,Two Fish,Failed,9,31,Data Breach,Low,2.28,Reconnect Connection,1
+5,Diagnosis,"(0.99, 1.16, 0.8)",2025-02-14 16:32:27,2.97,Idle,88874,Robot,Operator,Two Fish,Encrypted,16,35,No Threat,Medium,0.0,None,0
+1,Diagnosis,"(0.17, 1.11, 1.37)",2025-02-14 16:32:27,2.89,Idle,45274,Operator,Robot,Two Fish,Failed,9,44,Man-in-the-Middle Attack,Low,1.26,Isolate Data,1
+2,Navigation,"(0.36, 0.54, 0.53)",2025-02-14 16:32:27,4.86,Active,26875,Robot,Operator,Two Fish,Encrypted,8,48,Man-in-the-Middle Attack,High,2.2,Isolate Data,1
+10,Diagnosis,"(1.05, 1.15, 1.18)",2025-02-14 16:32:27,4.06,Idle,29193,Operator,Robot,Two Fish,Encrypted,5,74,Man-in-the-Middle Attack,High,4.26,Reconnect Connection,1
+4,Cleaning,"(0.55, 0.93, 0.85)",2025-02-14 16:32:27,2.55,Idle,21167,Robot,Operator,Two Fish,Failed,10,85,No Threat,Medium,0.0,None,0
+1,Cleaning,"(1.77, 0.48, 0.81)",2025-02-14 16:32:27,2.78,Idle,97721,Operator,Robot,Two Fish,Encrypted,14,72,Data Breach,Medium,4.16,Reconnect Connection,1
+9,Suturing,"(0.06, 0.99, 0.84)",2025-02-14 16:32:27,3.6,Active,88441,Operator,Robot,Two Fish,Failed,9,16,DoS Attack,Medium,4.13,Reconnect Connection,1
+3,Diagnosis,"(1.56, 1.2, 1.44)",2025-02-14 16:32:27,1.2,Active,19976,Operator,Robot,Two Fish,Failed,8,89,No Threat,Low,0.0,None,0
+10,Navigation,"(1.49, 1.35, 1.24)",2025-02-14 16:32:27,3.48,Idle,66750,Operator,Robot,Two Fish,Failed,9,59,Data Breach,Medium,2.97,Reconnect Connection,1
+9,Diagnosis,"(0.71, 0.63, 0.96)",2025-02-14 16:32:27,4.54,Idle,77173,Operator,Robot,Two Fish,Failed,14,40,No Threat,Low,0.0,None,0
+3,Suturing,"(0.67, 1.81, 0.87)",2025-02-14 16:32:27,1.77,Idle,31180,Robot,Operator,Two Fish,Failed,10,29,No Threat,Low,0.0,None,0
+1,Diagnosis,"(0.35, 1.71, 1.29)",2025-02-14 16:32:27,4.42,Active,42652,Operator,Robot,Two Fish,Failed,16,30,No Threat,Low,0.0,None,0
+6,Diagnosis,"(1.68, 1.58, 1.12)",2025-02-14 16:32:27,4.82,Idle,94644,Robot,Operator,Two Fish,Encrypted,9,59,No Threat,Low,0.0,None,0
+7,Incision,"(0.1, 1.89, 1.55)",2025-02-14 16:32:27,1.34,Idle,38777,Operator,Robot,Two Fish,Encrypted,16,71,Data Breach,Medium,1.94,Reconnect Connection,1
+7,Navigation,"(1.71, 0.61, 0.33)",2025-02-14 16:32:27,1.79,Idle,16825,Robot,Operator,Two Fish,Failed,20,20,Man-in-the-Middle Attack,Low,4.76,Reset Encryption,1
+5,Diagnosis,"(0.99, 1.18, 1.68)",2025-02-14 16:32:27,4.58,Idle,60003,Operator,Robot,Two Fish,Encrypted,20,37,Data Breach,Low,2.22,Reconnect Connection,1
+2,Navigation,"(0.42, 1.36, 1.33)",2025-02-14 16:32:27,4.19,Idle,27929,Operator,Robot,Two Fish,Failed,16,71,Data Breach,Medium,3.6,Reconnect Connection,1
+5,Diagnosis,"(1.46, 0.54, 1.01)",2025-02-14 16:32:27,3.03,Idle,11695,Operator,Robot,Two Fish,Failed,18,47,DoS Attack,Medium,2.15,Isolate Data,1
+1,Cleaning,"(1.84, 1.51, 0.11)",2025-02-14 16:32:27,2.37,Active,56714,Robot,Operator,Two Fish,Failed,14,43,No Threat,Medium,0.0,None,0
+2,Diagnosis,"(1.77, 0.22, 1.0)",2025-02-14 16:32:27,3.21,Idle,67508,Robot,Operator,Two Fish,Failed,9,70,Man-in-the-Middle Attack,Low,3.94,Reconnect Connection,1
+5,Cleaning,"(1.14, 1.88, 0.96)",2025-02-14 16:32:27,4.5,Active,73980,Robot,Operator,Two Fish,Failed,15,83,Man-in-the-Middle Attack,High,1.49,Isolate Data,1
+2,Cleaning,"(1.29, 2.0, 0.16)",2025-02-14 16:32:27,1.01,Active,15268,Operator,Robot,Two Fish,Failed,16,92,DoS Attack,Low,1.73,Isolate Data,1
+8,Suturing,"(1.37, 0.76, 1.69)",2025-02-14 16:32:27,1.01,Active,81872,Robot,Operator,Two Fish,Failed,11,76,Man-in-the-Middle Attack,Low,4.98,Isolate Data,1
+8,Cleaning,"(1.49, 1.33, 1.87)",2025-02-14 16:32:27,4.92,Idle,56370,Operator,Robot,Two Fish,Failed,5,13,Data Breach,Low,1.76,Isolate Data,1
+7,Suturing,"(0.84, 1.08, 1.44)",2025-02-14 16:32:27,2.6,Idle,14014,Robot,Operator,Two Fish,Failed,12,32,Man-in-the-Middle Attack,Low,1.57,Reset Encryption,1
+3,Suturing,"(0.82, 0.25, 0.45)",2025-02-14 16:32:27,1.78,Active,22241,Operator,Robot,Two Fish,Encrypted,9,19,DoS Attack,High,3.78,Reset Encryption,1
+4,Cleaning,"(1.72, 1.18, 1.16)",2025-02-14 16:32:27,4.21,Idle,15505,Operator,Robot,Two Fish,Failed,8,36,DoS Attack,High,1.93,Reset Encryption,1
+10,Navigation,"(0.84, 0.05, 1.88)",2025-02-14 16:32:27,3.15,Idle,97675,Robot,Operator,Two Fish,Failed,17,48,No Threat,Low,0.0,None,0
+1,Diagnosis,"(0.52, 1.27, 1.24)",2025-02-14 16:32:27,2.37,Active,44901,Robot,Operator,Two Fish,Encrypted,16,13,DoS Attack,Medium,2.81,Reset Encryption,1
+1,Diagnosis,"(0.96, 0.78, 0.25)",2025-02-14 16:32:27,2.96,Active,27136,Robot,Operator,Two Fish,Encrypted,13,58,DoS Attack,Low,4.72,Reconnect Connection,1
+8,Suturing,"(0.22, 0.69, 0.4)",2025-02-14 16:32:27,1.4,Active,19844,Operator,Robot,Two Fish,Encrypted,8,37,DoS Attack,High,1.2,Isolate Data,1
+1,Navigation,"(0.15, 1.66, 0.64)",2025-02-14 16:32:27,1.66,Idle,46481,Robot,Operator,Two Fish,Encrypted,12,76,Data Breach,Medium,1.43,Isolate Data,1
+7,Incision,"(1.38, 0.7, 1.54)",2025-02-14 16:32:27,4.9,Active,76907,Operator,Robot,Two Fish,Encrypted,7,88,Man-in-the-Middle Attack,Medium,1.84,Isolate Data,1
+4,Incision,"(0.07, 1.13, 1.08)",2025-02-14 16:32:27,2.89,Active,77281,Operator,Robot,Two Fish,Encrypted,11,27,DoS Attack,Medium,1.7,Reset Encryption,1
+9,Suturing,"(1.56, 0.65, 1.96)",2025-02-14 16:32:27,3.3,Active,19442,Operator,Robot,Two Fish,Failed,10,81,DoS Attack,Medium,3.23,Reconnect Connection,1
+2,Incision,"(1.46, 0.99, 1.42)",2025-02-14 16:32:27,3.99,Idle,67362,Operator,Robot,Two Fish,Encrypted,12,79,DoS Attack,Low,3.16,Reset Encryption,1
+2,Diagnosis,"(0.69, 1.01, 0.07)",2025-02-14 16:32:27,3.99,Active,18095,Operator,Robot,Two Fish,Failed,15,22,DoS Attack,High,3.05,Reconnect Connection,1
+5,Cleaning,"(1.62, 1.71, 1.94)",2025-02-14 16:32:27,2.65,Active,48230,Robot,Operator,Two Fish,Failed,7,41,Man-in-the-Middle Attack,Low,4.59,Reset Encryption,1
+9,Cleaning,"(1.86, 1.35, 1.2)",2025-02-14 16:32:27,3.85,Idle,40307,Operator,Robot,Two Fish,Encrypted,13,18,DoS Attack,High,2.44,Reset Encryption,1
+9,Navigation,"(1.45, 1.79, 1.51)",2025-02-14 16:32:27,4.03,Idle,79961,Robot,Operator,Two Fish,Failed,12,52,Data Breach,Medium,1.69,Isolate Data,1
+8,Incision,"(1.4, 0.06, 1.12)",2025-02-14 16:32:27,4.83,Idle,70462,Operator,Robot,Two Fish,Encrypted,20,72,Man-in-the-Middle Attack,High,3.21,Isolate Data,1
+10,Suturing,"(0.85, 0.81, 0.26)",2025-02-14 16:32:27,1.97,Active,44518,Operator,Robot,Two Fish,Encrypted,15,89,Man-in-the-Middle Attack,Medium,1.19,Reset Encryption,1
+3,Diagnosis,"(1.83, 1.39, 1.01)",2025-02-14 16:32:27,2.34,Active,21125,Operator,Robot,Two Fish,Encrypted,17,49,No Threat,High,0.0,None,0
+3,Suturing,"(1.86, 1.12, 0.07)",2025-02-14 16:32:27,3.84,Idle,65492,Operator,Robot,Two Fish,Encrypted,19,93,Data Breach,Low,4.65,Isolate Data,1
+7,Navigation,"(0.83, 0.86, 1.28)",2025-02-14 16:32:27,3.89,Idle,22631,Operator,Robot,Two Fish,Encrypted,14,61,No Threat,High,0.0,None,0
+6,Cleaning,"(1.44, 1.43, 1.38)",2025-02-14 16:32:27,4.65,Idle,83716,Operator,Robot,Two Fish,Failed,18,84,No Threat,Low,0.0,None,0
+10,Diagnosis,"(1.04, 1.59, 0.35)",2025-02-14 16:32:27,1.14,Active,28042,Robot,Operator,Two Fish,Failed,11,15,DoS Attack,High,1.92,Reset Encryption,1
+1,Cleaning,"(0.32, 0.79, 0.66)",2025-02-14 16:32:27,1.62,Idle,28806,Robot,Operator,Two Fish,Encrypted,14,95,Data Breach,Low,4.49,Reset Encryption,1
+9,Diagnosis,"(0.67, 1.61, 0.33)",2025-02-14 16:32:27,3.79,Active,37369,Operator,Robot,Two Fish,Failed,12,19,Data Breach,High,1.15,Reconnect Connection,1
+3,Cleaning,"(1.79, 0.51, 0.15)",2025-02-14 16:32:27,3.89,Idle,45172,Robot,Operator,Two Fish,Encrypted,15,59,No Threat,Medium,0.0,None,0
+3,Incision,"(0.3, 1.18, 0.03)",2025-02-14 16:32:27,4.61,Idle,43767,Operator,Robot,Two Fish,Encrypted,16,45,DoS Attack,Medium,3.83,Isolate Data,1
+5,Diagnosis,"(0.25, 1.58, 0.82)",2025-02-14 16:32:27,1.62,Active,57699,Operator,Robot,Two Fish,Encrypted,17,72,Data Breach,Medium,2.61,Isolate Data,1
+1,Cleaning,"(0.48, 1.07, 1.99)",2025-02-14 16:32:27,2.43,Idle,54704,Operator,Robot,Two Fish,Failed,5,36,Data Breach,Low,2.84,Reset Encryption,1
+6,Diagnosis,"(1.7, 1.46, 0.37)",2025-02-14 16:32:27,4.43,Idle,38149,Robot,Operator,Two Fish,Failed,12,82,Man-in-the-Middle Attack,High,2.72,Isolate Data,1
+6,Incision,"(0.34, 0.84, 1.69)",2025-02-14 16:32:27,1.0,Idle,63739,Robot,Operator,Two Fish,Encrypted,10,49,Man-in-the-Middle Attack,Medium,4.47,Isolate Data,1
+1,Navigation,"(0.93, 0.22, 0.85)",2025-02-14 16:32:27,4.9,Active,55416,Operator,Robot,Two Fish,Failed,15,16,Data Breach,Low,4.78,Reconnect Connection,1
+5,Suturing,"(0.96, 0.45, 1.51)",2025-02-14 16:32:27,3.77,Active,77797,Operator,Robot,Two Fish,Encrypted,16,53,DoS Attack,High,1.93,Reset Encryption,1
+4,Suturing,"(0.6, 1.21, 0.08)",2025-02-14 16:32:27,2.46,Idle,62436,Robot,Operator,Two Fish,Failed,18,93,Data Breach,Medium,4.86,Reset Encryption,1
+5,Diagnosis,"(1.02, 1.92, 1.13)",2025-02-14 16:32:27,4.37,Idle,98728,Robot,Operator,Two Fish,Encrypted,11,88,Man-in-the-Middle Attack,Low,1.51,Isolate Data,1
+10,Diagnosis,"(1.21, 0.44, 1.88)",2025-02-14 16:32:27,2.36,Active,85811,Robot,Operator,Two Fish,Encrypted,18,37,No Threat,Medium,0.0,None,0
+6,Suturing,"(1.97, 1.93, 1.45)",2025-02-14 16:32:27,2.16,Active,71440,Operator,Robot,Two Fish,Encrypted,19,95,DoS Attack,High,4.45,Reconnect Connection,1
+3,Incision,"(0.89, 0.29, 0.99)",2025-02-14 16:32:27,2.56,Active,38322,Robot,Operator,Two Fish,Failed,7,83,DoS Attack,High,3.02,Isolate Data,1
+1,Cleaning,"(0.77, 1.04, 0.95)",2025-02-14 16:32:27,1.04,Idle,47502,Robot,Operator,Two Fish,Encrypted,19,30,Man-in-the-Middle Attack,High,2.23,Isolate Data,1
+8,Incision,"(0.52, 1.4, 1.29)",2025-02-14 16:32:27,3.84,Idle,55898,Robot,Operator,Two Fish,Failed,8,57,DoS Attack,Low,2.49,Isolate Data,1
+9,Cleaning,"(1.12, 0.55, 0.12)",2025-02-14 16:32:27,3.09,Active,68579,Operator,Robot,Two Fish,Failed,6,76,Data Breach,Medium,3.64,Reset Encryption,1
+1,Diagnosis,"(1.53, 1.72, 0.4)",2025-02-14 16:32:27,4.13,Idle,38188,Operator,Robot,Two Fish,Failed,7,68,Man-in-the-Middle Attack,High,1.82,Reset Encryption,1
+2,Incision,"(1.72, 0.11, 1.7)",2025-02-14 16:32:27,1.14,Idle,78266,Robot,Operator,Two Fish,Failed,19,28,DoS Attack,High,4.93,Reconnect Connection,1
+7,Navigation,"(0.42, 0.97, 0.14)",2025-02-14 16:32:27,2.03,Idle,91603,Operator,Robot,Two Fish,Failed,8,56,No Threat,Low,0.0,None,0
+7,Suturing,"(0.49, 1.19, 1.87)",2025-02-14 16:32:27,1.14,Active,31223,Operator,Robot,Two Fish,Failed,19,79,No Threat,Medium,0.0,None,0
+8,Diagnosis,"(1.23, 0.72, 1.26)",2025-02-14 16:32:27,1.06,Idle,18292,Operator,Robot,Two Fish,Failed,16,39,Data Breach,Low,4.68,Reset Encryption,1
+1,Suturing,"(0.91, 0.34, 0.05)",2025-02-14 16:32:27,1.37,Active,15200,Robot,Operator,Two Fish,Encrypted,5,88,No Threat,High,0.0,None,0
+2,Incision,"(1.08, 1.99, 1.47)",2025-02-14 16:32:27,3.39,Idle,28066,Robot,Operator,Two Fish,Encrypted,20,64,DoS Attack,High,1.39,Isolate Data,1
+4,Suturing,"(1.55, 1.68, 1.01)",2025-02-14 16:32:27,1.92,Idle,45820,Robot,Operator,Two Fish,Failed,19,73,No Threat,High,0.0,None,0
+6,Suturing,"(0.37, 1.59, 0.89)",2025-02-14 16:32:27,1.44,Active,15892,Robot,Operator,Two Fish,Failed,18,35,Data Breach,High,1.74,Reset Encryption,1
+7,Navigation,"(0.36, 0.57, 1.38)",2025-02-14 16:32:27,1.36,Idle,20075,Robot,Operator,Two Fish,Failed,13,85,Data Breach,Medium,2.54,Reset Encryption,1
+8,Diagnosis,"(0.98, 0.04, 0.93)",2025-02-14 16:32:27,3.13,Idle,28867,Operator,Robot,Two Fish,Failed,13,85,Man-in-the-Middle Attack,Medium,3.96,Reconnect Connection,1
+6,Navigation,"(1.36, 1.68, 1.08)",2025-02-14 16:32:27,4.58,Active,17486,Operator,Robot,Two Fish,Failed,16,10,No Threat,Low,0.0,None,0
+9,Navigation,"(1.61, 0.87, 0.32)",2025-02-14 16:32:27,1.63,Active,24416,Operator,Robot,Two Fish,Encrypted,14,27,DoS Attack,High,4.81,Reconnect Connection,1
+2,Cleaning,"(1.29, 0.4, 0.67)",2025-02-14 16:32:27,1.36,Active,66236,Robot,Operator,Two Fish,Failed,19,24,Man-in-the-Middle Attack,Low,1.78,Isolate Data,1
+6,Suturing,"(0.38, 1.69, 1.82)",2025-02-14 16:32:27,4.41,Active,55126,Operator,Robot,Two Fish,Encrypted,18,92,DoS Attack,High,1.57,Reconnect Connection,1
+2,Cleaning,"(1.48, 0.62, 0.88)",2025-02-14 16:32:27,1.65,Active,36059,Robot,Operator,Two Fish,Failed,8,16,No Threat,High,0.0,None,0
+1,Suturing,"(1.8, 1.63, 1.18)",2025-02-14 16:32:27,2.84,Idle,44081,Robot,Operator,Two Fish,Failed,9,13,Man-in-the-Middle Attack,High,2.7,Reset Encryption,1
+2,Incision,"(1.32, 0.99, 0.38)",2025-02-14 16:32:27,4.27,Active,41007,Robot,Operator,Two Fish,Encrypted,7,52,Man-in-the-Middle Attack,High,2.36,Isolate Data,1
+2,Suturing,"(1.39, 1.35, 1.82)",2025-02-14 16:32:27,3.59,Idle,96635,Operator,Robot,Two Fish,Failed,16,31,No Threat,High,0.0,None,0
+4,Diagnosis,"(1.2, 0.18, 1.74)",2025-02-14 16:32:27,3.02,Active,25289,Robot,Operator,Two Fish,Failed,12,89,DoS Attack,High,4.15,Reconnect Connection,1
+10,Incision,"(0.63, 0.82, 0.5)",2025-02-14 16:32:27,2.21,Idle,54908,Operator,Robot,Two Fish,Failed,12,31,Man-in-the-Middle Attack,High,1.23,Reset Encryption,1
+8,Navigation,"(0.4, 1.59, 1.47)",2025-02-14 16:32:27,3.73,Active,12271,Operator,Robot,Two Fish,Encrypted,17,34,No Threat,High,0.0,None,0
+9,Cleaning,"(1.88, 0.35, 0.47)",2025-02-14 16:32:27,3.27,Idle,43099,Robot,Operator,Two Fish,Failed,13,41,Man-in-the-Middle Attack,Low,3.02,Reset Encryption,1
+7,Cleaning,"(0.69, 0.21, 1.84)",2025-02-14 16:32:27,1.55,Active,33100,Robot,Operator,Two Fish,Failed,9,51,Data Breach,High,4.87,Isolate Data,1
+8,Diagnosis,"(0.6, 0.84, 1.81)",2025-02-14 16:32:27,3.49,Active,82708,Operator,Robot,Two Fish,Failed,9,67,DoS Attack,Medium,1.3,Isolate Data,1
+8,Navigation,"(1.33, 0.84, 1.63)",2025-02-14 16:32:27,2.66,Idle,35972,Operator,Robot,Two Fish,Failed,20,20,DoS Attack,Low,3.02,Reset Encryption,1
+6,Diagnosis,"(1.45, 1.63, 1.57)",2025-02-14 16:32:27,4.83,Idle,15046,Operator,Robot,Two Fish,Failed,8,71,No Threat,Low,0.0,None,0
+9,Diagnosis,"(0.82, 1.38, 1.82)",2025-02-14 16:32:27,3.93,Idle,92468,Operator,Robot,Two Fish,Encrypted,13,21,Man-in-the-Middle Attack,Low,4.34,Reset Encryption,1
+8,Cleaning,"(0.46, 1.65, 0.66)",2025-02-14 16:32:27,1.89,Idle,77301,Operator,Robot,Two Fish,Failed,8,59,Data Breach,Medium,2.07,Reset Encryption,1
+2,Suturing,"(0.71, 0.02, 1.83)",2025-02-14 16:32:27,3.02,Active,10553,Robot,Operator,Two Fish,Encrypted,8,71,Man-in-the-Middle Attack,Low,1.26,Reconnect Connection,1
+1,Cleaning,"(0.63, 0.02, 1.53)",2025-02-14 16:32:27,2.47,Active,65503,Robot,Operator,Two Fish,Encrypted,20,41,No Threat,Low,0.0,None,0
+9,Navigation,"(1.84, 0.23, 0.97)",2025-02-14 16:32:27,4.49,Active,98532,Operator,Robot,Two Fish,Failed,6,13,Man-in-the-Middle Attack,Medium,4.7,Isolate Data,1
+9,Diagnosis,"(1.52, 1.35, 0.42)",2025-02-14 16:32:27,1.53,Idle,17731,Operator,Robot,Two Fish,Failed,15,80,No Threat,High,0.0,None,0
+5,Suturing,"(1.06, 0.28, 1.98)",2025-02-14 16:32:27,4.77,Idle,87015,Robot,Operator,Two Fish,Encrypted,20,65,Data Breach,High,4.95,Isolate Data,1
+2,Diagnosis,"(0.9, 1.02, 1.36)",2025-02-14 16:32:27,2.29,Idle,73610,Operator,Robot,Two Fish,Encrypted,17,31,DoS Attack,Low,4.43,Reconnect Connection,1
+6,Navigation,"(1.02, 1.66, 1.81)",2025-02-14 16:32:27,3.75,Idle,52889,Operator,Robot,Two Fish,Encrypted,18,65,No Threat,Low,0.0,None,0
+4,Diagnosis,"(0.39, 1.49, 1.7)",2025-02-14 16:32:27,3.53,Active,93982,Robot,Operator,Two Fish,Failed,19,76,Man-in-the-Middle Attack,Low,1.3,Reset Encryption,1
+3,Suturing,"(1.7, 0.75, 0.81)",2025-02-14 16:32:27,1.9,Idle,53770,Operator,Robot,Two Fish,Encrypted,16,20,DoS Attack,Medium,1.3,Reconnect Connection,1
+8,Suturing,"(0.14, 1.96, 0.32)",2025-02-14 16:32:27,4.72,Active,71246,Robot,Operator,Two Fish,Encrypted,7,42,Man-in-the-Middle Attack,Medium,4.82,Reconnect Connection,1
+10,Suturing,"(1.96, 1.0, 1.76)",2025-02-14 16:32:27,4.02,Active,38126,Operator,Robot,Two Fish,Failed,7,56,No Threat,Low,0.0,None,0
+5,Navigation,"(0.66, 0.15, 1.39)",2025-02-14 16:32:27,3.18,Active,87126,Operator,Robot,Two Fish,Encrypted,14,26,DoS Attack,High,2.16,Isolate Data,1
+4,Suturing,"(1.48, 0.98, 0.84)",2025-02-14 16:32:27,4.99,Active,66579,Operator,Robot,Two Fish,Failed,7,46,Data Breach,Medium,4.0,Reset Encryption,1
+9,Suturing,"(0.37, 1.86, 0.07)",2025-02-14 16:32:27,4.44,Active,63423,Robot,Operator,Two Fish,Encrypted,13,17,No Threat,Low,0.0,None,0
+5,Cleaning,"(0.25, 1.61, 0.58)",2025-02-14 16:32:27,1.2,Idle,48778,Operator,Robot,Two Fish,Encrypted,15,55,DoS Attack,High,4.13,Reconnect Connection,1
+9,Suturing,"(0.96, 1.74, 1.54)",2025-02-14 16:32:27,3.41,Idle,62580,Robot,Operator,Two Fish,Encrypted,6,11,No Threat,High,0.0,None,0
+4,Suturing,"(1.52, 0.54, 0.36)",2025-02-14 16:32:27,4.66,Active,74014,Operator,Robot,Two Fish,Encrypted,7,30,Data Breach,Medium,1.62,Reset Encryption,1
+5,Incision,"(0.39, 0.14, 0.68)",2025-02-14 16:32:27,3.18,Idle,96981,Operator,Robot,Two Fish,Encrypted,20,16,DoS Attack,Low,3.52,Reconnect Connection,1
+8,Cleaning,"(1.57, 0.01, 0.12)",2025-02-14 16:32:27,4.36,Idle,11754,Operator,Robot,Two Fish,Encrypted,6,11,No Threat,Low,0.0,None,0
+5,Suturing,"(1.48, 0.4, 0.42)",2025-02-14 16:32:27,3.02,Idle,42957,Robot,Operator,Two Fish,Failed,5,45,Data Breach,Low,4.99,Reset Encryption,1
+1,Incision,"(1.74, 0.83, 0.29)",2025-02-14 16:32:27,2.61,Active,61103,Operator,Robot,Two Fish,Encrypted,11,39,Data Breach,Low,4.94,Reconnect Connection,1
+9,Incision,"(1.82, 0.89, 0.61)",2025-02-14 16:32:27,3.1,Active,75544,Operator,Robot,Two Fish,Encrypted,7,40,Data Breach,Low,4.75,Isolate Data,1
+7,Suturing,"(1.23, 1.68, 1.88)",2025-02-14 16:32:27,4.32,Active,47666,Robot,Operator,Two Fish,Encrypted,7,29,Man-in-the-Middle Attack,Medium,2.31,Reconnect Connection,1
+2,Diagnosis,"(0.19, 1.97, 0.38)",2025-02-14 16:32:27,3.08,Active,74199,Operator,Robot,Two Fish,Encrypted,11,23,Data Breach,Medium,3.91,Reset Encryption,1
+5,Cleaning,"(0.08, 0.41, 1.75)",2025-02-14 16:32:27,3.94,Active,31433,Operator,Robot,Two Fish,Failed,12,48,DoS Attack,Medium,2.85,Reset Encryption,1
+9,Diagnosis,"(1.82, 0.38, 0.91)",2025-02-14 16:32:27,1.18,Active,72210,Robot,Operator,Two Fish,Encrypted,15,41,No Threat,Low,0.0,None,0
+2,Cleaning,"(1.83, 1.07, 1.13)",2025-02-14 16:32:27,3.56,Idle,16517,Robot,Operator,Two Fish,Failed,14,48,Data Breach,Low,2.42,Isolate Data,1
+8,Diagnosis,"(0.88, 1.03, 1.97)",2025-02-14 16:32:27,1.09,Idle,90393,Operator,Robot,Two Fish,Failed,20,25,Data Breach,Low,2.56,Reset Encryption,1
+3,Cleaning,"(0.85, 0.46, 0.14)",2025-02-14 16:32:27,1.57,Idle,79552,Robot,Operator,Two Fish,Failed,9,76,Data Breach,Medium,1.17,Isolate Data,1
+3,Navigation,"(0.29, 0.08, 1.28)",2025-02-14 16:32:27,4.05,Idle,45120,Operator,Robot,Two Fish,Failed,16,67,Data Breach,High,3.23,Reconnect Connection,1
+6,Suturing,"(0.4, 0.62, 1.05)",2025-02-14 16:32:27,2.34,Idle,36860,Operator,Robot,Two Fish,Encrypted,14,55,No Threat,High,0.0,None,0
+4,Suturing,"(1.15, 1.28, 0.82)",2025-02-14 16:32:27,3.76,Idle,38716,Robot,Operator,Two Fish,Failed,20,31,No Threat,Low,0.0,None,0
+9,Diagnosis,"(0.07, 0.45, 1.26)",2025-02-14 16:32:27,2.32,Idle,24427,Robot,Operator,Two Fish,Encrypted,9,44,DoS Attack,Medium,3.38,Reset Encryption,1
+6,Navigation,"(0.33, 0.44, 1.75)",2025-02-14 16:32:27,1.63,Idle,27956,Operator,Robot,Two Fish,Failed,16,63,DoS Attack,Low,2.65,Isolate Data,1
+3,Cleaning,"(0.04, 0.16, 1.36)",2025-02-14 16:32:27,4.69,Active,56735,Operator,Robot,Two Fish,Encrypted,7,68,Man-in-the-Middle Attack,Medium,2.33,Reset Encryption,1
+3,Incision,"(1.31, 1.22, 1.51)",2025-02-14 16:32:27,1.06,Active,47095,Operator,Robot,Two Fish,Failed,12,87,No Threat,High,0.0,None,0
+1,Suturing,"(0.2, 0.01, 1.93)",2025-02-14 16:32:27,4.35,Active,56987,Robot,Operator,Two Fish,Encrypted,6,79,Data Breach,High,3.72,Isolate Data,1
+7,Incision,"(1.77, 1.55, 1.6)",2025-02-14 16:32:27,1.55,Idle,65625,Operator,Robot,Two Fish,Encrypted,13,16,No Threat,Low,0.0,None,0
+8,Incision,"(0.66, 0.12, 1.1)",2025-02-14 16:32:27,4.68,Idle,89501,Robot,Operator,Two Fish,Failed,15,93,DoS Attack,Medium,1.61,Reset Encryption,1
+9,Cleaning,"(0.69, 0.72, 0.77)",2025-02-14 16:32:27,1.24,Active,50855,Operator,Robot,Two Fish,Encrypted,16,32,Man-in-the-Middle Attack,Medium,3.55,Isolate Data,1
+6,Suturing,"(1.26, 1.28, 1.61)",2025-02-14 16:32:27,2.78,Active,40974,Robot,Operator,Two Fish,Encrypted,14,16,No Threat,High,0.0,None,0
+1,Incision,"(0.85, 1.71, 0.21)",2025-02-14 16:32:27,1.88,Idle,72400,Robot,Operator,Two Fish,Encrypted,5,76,DoS Attack,Medium,3.84,Isolate Data,1
+8,Cleaning,"(0.41, 0.95, 0.3)",2025-02-14 16:32:27,4.29,Active,21025,Robot,Operator,Two Fish,Failed,5,78,Man-in-the-Middle Attack,High,2.63,Reconnect Connection,1
+10,Cleaning,"(1.2, 0.03, 1.13)",2025-02-14 16:32:27,1.06,Active,53377,Operator,Robot,Two Fish,Failed,9,89,No Threat,Medium,0.0,None,0
+9,Incision,"(0.43, 0.89, 1.95)",2025-02-14 16:32:27,4.6,Idle,29639,Robot,Operator,Two Fish,Failed,10,71,Data Breach,Medium,1.47,Reset Encryption,1
+1,Navigation,"(1.15, 1.89, 1.41)",2025-02-14 16:32:27,3.04,Idle,96350,Robot,Operator,Two Fish,Encrypted,6,57,Man-in-the-Middle Attack,Low,2.32,Reset Encryption,1
+3,Suturing,"(0.96, 1.16, 1.04)",2025-02-14 16:32:27,3.64,Active,20781,Robot,Operator,Two Fish,Failed,7,67,DoS Attack,High,3.95,Reconnect Connection,1
+3,Cleaning,"(1.08, 1.95, 0.69)",2025-02-14 16:32:27,2.64,Idle,69698,Robot,Operator,Two Fish,Failed,9,83,DoS Attack,Low,3.57,Isolate Data,1
+4,Cleaning,"(1.21, 1.24, 0.12)",2025-02-14 16:32:27,2.12,Active,53477,Robot,Operator,Two Fish,Encrypted,12,32,No Threat,High,0.0,None,0
+1,Navigation,"(0.7, 0.64, 1.48)",2025-02-14 16:32:27,4.09,Active,49994,Robot,Operator,Two Fish,Encrypted,5,89,Data Breach,Low,4.72,Reset Encryption,1
+7,Navigation,"(1.25, 1.93, 0.88)",2025-02-14 16:32:27,4.93,Active,56234,Operator,Robot,Two Fish,Encrypted,5,55,No Threat,High,0.0,None,0
+3,Suturing,"(0.6, 0.57, 0.4)",2025-02-14 16:32:27,1.61,Idle,38522,Operator,Robot,Two Fish,Encrypted,20,24,Man-in-the-Middle Attack,Low,3.03,Isolate Data,1
+1,Incision,"(1.44, 1.0, 1.69)",2025-02-14 16:32:27,4.64,Active,27278,Operator,Robot,Two Fish,Failed,6,67,DoS Attack,Medium,4.01,Isolate Data,1
+3,Cleaning,"(0.73, 0.53, 1.13)",2025-02-14 16:32:27,1.04,Idle,43421,Operator,Robot,Two Fish,Encrypted,5,80,No Threat,High,0.0,None,0
+3,Diagnosis,"(0.67, 0.2, 0.38)",2025-02-14 16:32:27,3.17,Idle,39349,Robot,Operator,Two Fish,Failed,8,66,DoS Attack,Medium,4.62,Reconnect Connection,1
+9,Navigation,"(1.31, 1.93, 0.5)",2025-02-14 16:32:27,4.69,Idle,81291,Robot,Operator,Two Fish,Failed,7,29,No Threat,Low,0.0,None,0
+9,Suturing,"(0.85, 1.66, 0.97)",2025-02-14 16:32:27,2.07,Active,52919,Operator,Robot,Two Fish,Failed,20,33,DoS Attack,Medium,3.43,Reset Encryption,1
+7,Cleaning,"(1.47, 1.16, 0.26)",2025-02-14 16:32:27,1.7,Idle,83955,Robot,Operator,Two Fish,Encrypted,8,57,DoS Attack,High,3.51,Reset Encryption,1
+1,Diagnosis,"(0.86, 1.81, 0.86)",2025-02-14 16:32:27,2.15,Active,14295,Operator,Robot,Two Fish,Encrypted,8,41,Data Breach,Low,3.41,Isolate Data,1
+9,Incision,"(1.88, 0.14, 0.29)",2025-02-14 16:32:27,4.53,Active,81365,Operator,Robot,Two Fish,Encrypted,11,66,Man-in-the-Middle Attack,Low,4.51,Reset Encryption,1
+5,Incision,"(0.35, 1.77, 0.58)",2025-02-14 16:32:27,2.64,Idle,34995,Operator,Robot,Two Fish,Failed,15,19,DoS Attack,High,2.36,Reset Encryption,1
+5,Diagnosis,"(0.51, 1.39, 1.8)",2025-02-14 16:32:27,2.54,Active,65915,Robot,Operator,Two Fish,Failed,6,97,Data Breach,High,1.74,Reset Encryption,1
+5,Cleaning,"(0.68, 0.58, 1.94)",2025-02-14 16:32:27,3.61,Idle,35447,Operator,Robot,Two Fish,Failed,11,97,Data Breach,Low,1.28,Reconnect Connection,1
+1,Navigation,"(0.45, 0.79, 1.49)",2025-02-14 16:32:27,4.01,Active,97480,Robot,Operator,Two Fish,Encrypted,5,33,DoS Attack,Medium,2.22,Isolate Data,1
+9,Cleaning,"(0.46, 0.03, 1.6)",2025-02-14 16:32:27,4.42,Active,52320,Robot,Operator,Two Fish,Encrypted,8,43,Man-in-the-Middle Attack,High,3.26,Reconnect Connection,1
+6,Incision,"(0.53, 1.18, 1.17)",2025-02-14 16:32:27,2.71,Idle,85544,Robot,Operator,Two Fish,Failed,7,39,No Threat,High,0.0,None,0
+8,Incision,"(1.5, 1.79, 0.27)",2025-02-14 16:32:27,2.69,Idle,28029,Robot,Operator,Two Fish,Encrypted,9,42,DoS Attack,Low,1.55,Isolate Data,1
+7,Suturing,"(0.94, 1.65, 1.57)",2025-02-14 16:32:27,4.67,Idle,95553,Operator,Robot,Two Fish,Encrypted,9,47,Man-in-the-Middle Attack,Medium,2.42,Isolate Data,1
+1,Incision,"(0.15, 1.7, 1.39)",2025-02-14 16:32:27,2.94,Idle,65523,Robot,Operator,Two Fish,Encrypted,8,87,Data Breach,Low,1.68,Reconnect Connection,1
+7,Cleaning,"(0.39, 1.64, 0.92)",2025-02-14 16:32:27,1.74,Active,58951,Operator,Robot,Two Fish,Encrypted,8,58,Data Breach,Medium,3.13,Isolate Data,1
+5,Incision,"(1.42, 1.3, 0.96)",2025-02-14 16:32:27,2.66,Idle,65703,Robot,Operator,Two Fish,Encrypted,9,25,Data Breach,Medium,1.12,Isolate Data,1
+4,Suturing,"(1.72, 1.43, 1.57)",2025-02-14 16:32:27,3.99,Idle,89923,Operator,Robot,Two Fish,Encrypted,18,22,DoS Attack,Medium,2.42,Reconnect Connection,1
+4,Suturing,"(0.25, 1.31, 1.62)",2025-02-14 16:32:27,4.7,Active,27007,Robot,Operator,Two Fish,Failed,6,32,DoS Attack,Medium,1.39,Isolate Data,1
+8,Suturing,"(1.25, 1.67, 1.11)",2025-02-14 16:32:27,2.36,Active,27334,Operator,Robot,Two Fish,Encrypted,19,100,Data Breach,Low,3.68,Reconnect Connection,1
+9,Navigation,"(1.03, 0.21, 0.15)",2025-02-14 16:32:27,4.32,Active,82084,Robot,Operator,Two Fish,Failed,19,14,Data Breach,Medium,2.16,Reset Encryption,1
+8,Cleaning,"(0.93, 0.35, 1.13)",2025-02-14 16:32:27,1.05,Idle,69912,Robot,Operator,Two Fish,Encrypted,10,75,Man-in-the-Middle Attack,High,4.08,Isolate Data,1
+5,Incision,"(1.73, 1.64, 1.04)",2025-02-14 16:32:27,3.01,Active,32665,Robot,Operator,Two Fish,Failed,6,12,Man-in-the-Middle Attack,Medium,4.94,Reconnect Connection,1
+4,Diagnosis,"(1.84, 0.06, 1.9)",2025-02-14 16:32:27,3.55,Idle,52474,Robot,Operator,Two Fish,Encrypted,12,89,DoS Attack,Low,3.7,Isolate Data,1
+1,Incision,"(0.39, 0.47, 1.88)",2025-02-14 16:32:27,2.72,Idle,12515,Robot,Operator,Two Fish,Encrypted,7,85,No Threat,Low,0.0,None,0
+10,Diagnosis,"(1.78, 0.71, 0.26)",2025-02-14 16:32:27,4.6,Idle,52461,Robot,Operator,Two Fish,Failed,9,71,DoS Attack,Low,2.9,Isolate Data,1
+2,Incision,"(0.76, 1.9, 1.37)",2025-02-14 16:32:27,4.87,Active,79329,Operator,Robot,Two Fish,Failed,10,56,Man-in-the-Middle Attack,Medium,2.6,Reset Encryption,1
+5,Incision,"(0.0, 0.04, 1.39)",2025-02-14 16:32:27,4.95,Active,26582,Operator,Robot,Two Fish,Failed,6,20,No Threat,Low,0.0,None,0
+4,Navigation,"(0.36, 1.22, 0.45)",2025-02-14 16:32:27,1.51,Idle,56780,Robot,Operator,Two Fish,Encrypted,6,37,No Threat,Medium,0.0,None,0
+10,Cleaning,"(0.64, 0.88, 1.65)",2025-02-14 16:32:27,1.47,Idle,80001,Operator,Robot,Two Fish,Failed,18,89,No Threat,Medium,0.0,None,0
+10,Navigation,"(0.47, 2.0, 0.51)",2025-02-14 16:32:27,1.63,Active,35323,Operator,Robot,Two Fish,Failed,8,19,Data Breach,Low,4.5,Isolate Data,1
+5,Navigation,"(0.37, 0.81, 0.0)",2025-02-14 16:32:27,2.9,Idle,22260,Robot,Operator,Two Fish,Encrypted,11,18,No Threat,High,0.0,None,0
+8,Incision,"(1.71, 1.93, 1.02)",2025-02-14 16:32:27,3.71,Active,14677,Robot,Operator,Two Fish,Encrypted,10,80,No Threat,Low,0.0,None,0
+1,Suturing,"(0.17, 0.62, 0.87)",2025-02-14 16:32:27,1.0,Idle,31090,Operator,Robot,Two Fish,Encrypted,7,18,DoS Attack,Low,1.04,Reset Encryption,1
+4,Cleaning,"(1.32, 0.26, 1.03)",2025-02-14 16:32:27,1.95,Active,66892,Operator,Robot,Two Fish,Encrypted,7,36,DoS Attack,High,1.69,Reset Encryption,1
+9,Incision,"(0.83, 1.27, 1.51)",2025-02-14 16:32:27,1.74,Active,46299,Robot,Operator,Two Fish,Encrypted,10,41,No Threat,Low,0.0,None,0
+4,Navigation,"(0.38, 0.54, 0.39)",2025-02-14 16:32:27,4.97,Active,90775,Robot,Operator,Two Fish,Encrypted,19,85,Data Breach,Low,4.06,Reset Encryption,1
+1,Navigation,"(1.86, 0.21, 1.25)",2025-02-14 16:32:27,2.74,Idle,49016,Operator,Robot,Two Fish,Encrypted,13,85,Data Breach,High,3.22,Reconnect Connection,1
+5,Suturing,"(1.94, 1.29, 1.47)",2025-02-14 16:32:27,2.96,Idle,24627,Operator,Robot,Two Fish,Encrypted,16,22,Data Breach,Medium,3.47,Reconnect Connection,1
+7,Suturing,"(0.63, 1.78, 0.91)",2025-02-14 16:32:27,4.43,Active,67526,Robot,Operator,Two Fish,Encrypted,17,29,DoS Attack,High,4.86,Reset Encryption,1
+6,Suturing,"(0.33, 0.21, 1.26)",2025-02-14 16:32:27,3.7,Idle,40845,Robot,Operator,Two Fish,Encrypted,5,100,No Threat,Low,0.0,None,0
+2,Diagnosis,"(1.93, 0.01, 1.87)",2025-02-14 16:32:27,2.0,Active,96180,Robot,Operator,Two Fish,Failed,15,32,Data Breach,High,2.04,Reconnect Connection,1
+3,Incision,"(0.8, 0.86, 0.22)",2025-02-14 16:32:27,1.49,Active,80411,Operator,Robot,Two Fish,Failed,15,89,Data Breach,High,3.85,Reconnect Connection,1
+3,Suturing,"(0.4, 0.92, 0.12)",2025-02-14 16:32:27,3.58,Idle,67340,Operator,Robot,Two Fish,Encrypted,8,87,DoS Attack,High,2.74,Reconnect Connection,1
+5,Navigation,"(1.75, 0.94, 1.94)",2025-02-14 16:32:27,4.42,Active,19321,Operator,Robot,Two Fish,Encrypted,16,24,DoS Attack,High,3.01,Reconnect Connection,1
+10,Navigation,"(1.38, 0.36, 0.73)",2025-02-14 16:32:27,2.72,Idle,46570,Operator,Robot,Two Fish,Encrypted,6,76,Man-in-the-Middle Attack,Medium,4.08,Reconnect Connection,1
+9,Diagnosis,"(1.7, 1.89, 1.93)",2025-02-14 16:32:27,1.09,Active,72637,Robot,Operator,Two Fish,Failed,18,45,No Threat,High,0.0,None,0
+1,Diagnosis,"(1.84, 1.26, 0.37)",2025-02-14 16:32:27,2.82,Idle,63771,Robot,Operator,Two Fish,Encrypted,19,24,No Threat,Medium,0.0,None,0
+6,Cleaning,"(0.05, 1.15, 0.6)",2025-02-14 16:32:27,4.06,Idle,80814,Robot,Operator,Two Fish,Encrypted,9,93,Man-in-the-Middle Attack,Low,2.86,Reconnect Connection,1
+4,Cleaning,"(1.71, 0.06, 0.61)",2025-02-14 16:32:27,3.61,Active,48866,Operator,Robot,Two Fish,Encrypted,8,75,No Threat,High,0.0,None,0
+8,Cleaning,"(1.92, 0.5, 0.45)",2025-02-14 16:32:27,1.4,Active,54856,Operator,Robot,Two Fish,Encrypted,19,37,DoS Attack,Low,3.88,Reconnect Connection,1
+3,Incision,"(1.94, 1.08, 1.21)",2025-02-14 16:32:27,2.49,Idle,14798,Operator,Robot,Two Fish,Encrypted,11,99,Data Breach,Medium,2.53,Reconnect Connection,1
+10,Navigation,"(0.16, 0.15, 1.48)",2025-02-14 16:32:27,1.21,Active,72057,Operator,Robot,Two Fish,Failed,14,66,DoS Attack,Low,3.44,Reset Encryption,1
+10,Incision,"(0.99, 0.06, 1.58)",2025-02-14 16:32:27,2.27,Idle,25817,Operator,Robot,Two Fish,Failed,10,99,Data Breach,Low,3.1,Reset Encryption,1
+5,Incision,"(0.31, 1.38, 0.18)",2025-02-14 16:32:27,3.22,Idle,92343,Robot,Operator,Two Fish,Failed,13,61,Data Breach,Medium,2.68,Reconnect Connection,1
+1,Suturing,"(0.01, 1.4, 1.47)",2025-02-14 16:32:27,3.1,Active,31099,Operator,Robot,Two Fish,Failed,7,26,DoS Attack,High,2.48,Reconnect Connection,1
+1,Diagnosis,"(0.34, 0.66, 0.15)",2025-02-14 16:32:27,3.77,Idle,77204,Operator,Robot,Two Fish,Failed,14,76,DoS Attack,High,1.09,Reconnect Connection,1
+4,Diagnosis,"(1.96, 0.94, 0.77)",2025-02-14 16:32:27,3.74,Idle,74825,Operator,Robot,Two Fish,Encrypted,11,83,Data Breach,Medium,3.97,Isolate Data,1
+7,Cleaning,"(1.73, 1.25, 1.39)",2025-02-14 16:32:27,1.5,Active,78669,Robot,Operator,Two Fish,Failed,15,51,Data Breach,Low,1.83,Isolate Data,1
+2,Cleaning,"(0.51, 0.11, 1.56)",2025-02-14 16:32:27,4.1,Active,47950,Operator,Robot,Two Fish,Failed,15,51,Man-in-the-Middle Attack,Low,2.52,Reconnect Connection,1
+9,Suturing,"(1.1, 0.1, 1.84)",2025-02-14 16:32:27,4.88,Active,12882,Robot,Operator,Two Fish,Failed,6,21,Man-in-the-Middle Attack,High,3.26,Reset Encryption,1
+3,Suturing,"(1.24, 0.83, 1.48)",2025-02-14 16:32:27,2.71,Active,53907,Robot,Operator,Two Fish,Failed,5,49,No Threat,Low,0.0,None,0
+1,Incision,"(0.97, 0.12, 1.53)",2025-02-14 16:32:27,1.07,Active,13361,Operator,Robot,Two Fish,Failed,9,34,DoS Attack,Low,2.79,Reconnect Connection,1
+1,Incision,"(0.3, 0.61, 0.58)",2025-02-14 16:32:27,1.06,Active,76514,Operator,Robot,Two Fish,Failed,16,51,No Threat,Medium,0.0,None,0
+3,Navigation,"(1.5, 1.58, 1.13)",2025-02-14 16:32:27,2.41,Active,74931,Robot,Operator,Two Fish,Encrypted,7,67,Data Breach,Low,1.47,Reconnect Connection,1
+5,Navigation,"(1.29, 1.11, 0.2)",2025-02-14 16:32:27,2.53,Idle,60822,Robot,Operator,Two Fish,Encrypted,6,88,No Threat,Low,0.0,None,0
+1,Incision,"(0.69, 1.16, 0.63)",2025-02-14 16:32:27,1.69,Active,51785,Robot,Operator,Two Fish,Encrypted,14,15,Data Breach,High,2.06,Reconnect Connection,1
+7,Navigation,"(1.06, 1.42, 0.8)",2025-02-14 16:32:27,4.54,Active,30174,Robot,Operator,Two Fish,Failed,10,86,No Threat,Medium,0.0,None,0
+7,Cleaning,"(0.31, 0.28, 1.38)",2025-02-14 16:32:27,4.74,Active,56392,Robot,Operator,Two Fish,Failed,10,98,Data Breach,Low,2.87,Reconnect Connection,1
+5,Suturing,"(1.93, 0.67, 1.53)",2025-02-14 16:32:27,2.02,Idle,16867,Operator,Robot,Two Fish,Encrypted,18,70,Man-in-the-Middle Attack,Medium,2.88,Reset Encryption,1
+6,Diagnosis,"(0.94, 1.86, 1.74)",2025-02-14 16:32:27,2.96,Idle,85174,Robot,Operator,Two Fish,Encrypted,6,48,DoS Attack,Medium,3.07,Reset Encryption,1
+3,Cleaning,"(1.5, 0.2, 1.32)",2025-02-14 16:32:27,3.46,Active,36500,Robot,Operator,Two Fish,Failed,17,81,No Threat,High,0.0,None,0
+5,Diagnosis,"(1.64, 2.0, 0.53)",2025-02-14 16:32:27,4.71,Active,14985,Operator,Robot,Two Fish,Encrypted,5,47,Data Breach,Low,1.32,Isolate Data,1
+8,Cleaning,"(0.8, 1.85, 0.02)",2025-02-14 16:32:27,2.48,Idle,42672,Robot,Operator,Two Fish,Encrypted,20,89,DoS Attack,Low,3.59,Isolate Data,1
+1,Navigation,"(1.52, 1.08, 1.65)",2025-02-14 16:32:27,3.73,Active,79400,Robot,Operator,Two Fish,Failed,11,15,DoS Attack,High,4.07,Isolate Data,1
+10,Navigation,"(1.29, 0.33, 1.2)",2025-02-14 16:32:27,1.85,Active,59292,Robot,Operator,Two Fish,Failed,19,18,Data Breach,Low,1.55,Reconnect Connection,1
+3,Diagnosis,"(0.48, 1.8, 1.86)",2025-02-14 16:32:27,3.78,Idle,32017,Operator,Robot,Two Fish,Failed,17,65,DoS Attack,High,2.34,Isolate Data,1
+10,Diagnosis,"(1.04, 0.83, 1.52)",2025-02-14 16:32:27,3.72,Idle,35493,Robot,Operator,Two Fish,Encrypted,6,50,No Threat,Medium,0.0,None,0
+3,Suturing,"(0.68, 0.3, 1.56)",2025-02-14 16:32:27,4.3,Idle,53992,Operator,Robot,Two Fish,Failed,18,14,DoS Attack,High,1.08,Reconnect Connection,1
+9,Diagnosis,"(1.93, 1.49, 1.03)",2025-02-14 16:32:27,4.13,Active,31218,Operator,Robot,Two Fish,Encrypted,13,62,No Threat,Medium,0.0,None,0
+10,Incision,"(0.46, 0.7, 0.08)",2025-02-14 16:32:27,4.55,Idle,11260,Robot,Operator,Two Fish,Failed,9,73,DoS Attack,Medium,2.79,Reset Encryption,1
+3,Incision,"(0.05, 1.97, 0.44)",2025-02-14 16:32:27,3.01,Active,28716,Operator,Robot,Two Fish,Failed,14,72,Man-in-the-Middle Attack,High,4.06,Reconnect Connection,1
+4,Incision,"(0.64, 0.67, 1.48)",2025-02-14 16:32:27,1.68,Active,54512,Robot,Operator,Two Fish,Failed,10,25,DoS Attack,Medium,1.62,Reconnect Connection,1
+1,Cleaning,"(1.7, 0.98, 0.21)",2025-02-14 16:32:27,4.0,Active,93460,Operator,Robot,Two Fish,Failed,15,93,Man-in-the-Middle Attack,High,4.02,Reset Encryption,1
+9,Incision,"(1.78, 0.0, 0.47)",2025-02-14 16:32:27,3.1,Active,13615,Operator,Robot,Two Fish,Failed,14,74,DoS Attack,Medium,2.07,Reset Encryption,1
+9,Incision,"(1.39, 0.99, 1.85)",2025-02-14 16:32:27,2.85,Active,19296,Operator,Robot,Two Fish,Encrypted,14,10,DoS Attack,Medium,2.51,Isolate Data,1
+3,Incision,"(0.84, 1.06, 0.69)",2025-02-14 16:32:27,1.49,Idle,80347,Operator,Robot,Two Fish,Encrypted,18,95,No Threat,Low,0.0,None,0
+2,Navigation,"(1.95, 0.54, 0.41)",2025-02-14 16:32:27,4.1,Active,66839,Operator,Robot,Two Fish,Encrypted,7,33,Data Breach,High,2.19,Reconnect Connection,1
+5,Diagnosis,"(1.17, 0.45, 0.35)",2025-02-14 16:32:27,2.93,Idle,63765,Operator,Robot,Two Fish,Encrypted,6,75,DoS Attack,High,1.26,Isolate Data,1
+7,Diagnosis,"(1.29, 0.93, 1.04)",2025-02-14 16:32:27,4.5,Active,14153,Robot,Operator,Two Fish,Encrypted,11,41,Data Breach,Medium,3.89,Reset Encryption,1
+9,Cleaning,"(1.74, 0.7, 0.39)",2025-02-14 16:32:27,4.51,Idle,23231,Robot,Operator,Two Fish,Encrypted,9,61,DoS Attack,High,3.72,Reset Encryption,1
+5,Diagnosis,"(1.02, 1.95, 1.21)",2025-02-14 16:32:27,4.96,Idle,83381,Robot,Operator,Two Fish,Encrypted,10,15,DoS Attack,Low,4.29,Reconnect Connection,1
+5,Navigation,"(0.1, 0.38, 0.58)",2025-02-14 16:32:27,2.81,Idle,40664,Operator,Robot,Two Fish,Failed,8,22,Man-in-the-Middle Attack,High,2.31,Isolate Data,1
+2,Incision,"(1.4, 1.16, 1.55)",2025-02-14 16:32:27,3.81,Active,99693,Robot,Operator,Two Fish,Encrypted,18,52,DoS Attack,Low,2.13,Reset Encryption,1
+10,Diagnosis,"(1.85, 1.98, 0.19)",2025-02-14 16:32:27,1.42,Active,20071,Robot,Operator,Two Fish,Encrypted,17,88,Man-in-the-Middle Attack,Medium,2.47,Reconnect Connection,1
+4,Navigation,"(0.91, 1.2, 0.4)",2025-02-14 16:32:27,2.52,Active,93463,Robot,Operator,Two Fish,Failed,19,56,Man-in-the-Middle Attack,Medium,2.13,Isolate Data,1
+4,Suturing,"(0.52, 1.75, 1.91)",2025-02-14 16:32:27,3.34,Active,34730,Operator,Robot,Two Fish,Encrypted,15,76,Man-in-the-Middle Attack,Low,2.72,Reset Encryption,1
+3,Incision,"(1.12, 0.45, 1.38)",2025-02-14 16:32:27,3.54,Active,20189,Robot,Operator,Two Fish,Failed,19,53,DoS Attack,Medium,4.2,Isolate Data,1
+9,Cleaning,"(1.32, 1.89, 1.94)",2025-02-14 16:32:27,3.57,Idle,69248,Robot,Operator,Two Fish,Encrypted,15,11,No Threat,Medium,0.0,None,0
+10,Navigation,"(1.84, 0.72, 0.22)",2025-02-14 16:32:27,2.28,Idle,78840,Operator,Robot,Two Fish,Failed,13,77,Data Breach,Low,3.34,Isolate Data,1
+8,Navigation,"(0.78, 0.04, 1.62)",2025-02-14 16:32:27,3.35,Active,67650,Robot,Operator,Two Fish,Failed,15,100,No Threat,Medium,0.0,None,0
+4,Navigation,"(1.05, 0.35, 0.85)",2025-02-14 16:32:27,3.66,Active,57090,Robot,Operator,Two Fish,Failed,8,22,Data Breach,High,4.93,Reconnect Connection,1
+9,Diagnosis,"(0.05, 0.24, 1.71)",2025-02-14 16:32:27,4.68,Idle,97548,Operator,Robot,Two Fish,Encrypted,19,97,Data Breach,Low,2.57,Reset Encryption,1
+6,Suturing,"(1.44, 0.45, 1.1)",2025-02-14 16:32:27,1.0,Active,82261,Robot,Operator,Two Fish,Encrypted,13,54,No Threat,Medium,0.0,None,0
+4,Incision,"(1.61, 0.63, 1.88)",2025-02-14 16:32:27,5.0,Active,32568,Operator,Robot,Two Fish,Encrypted,6,90,No Threat,Medium,0.0,None,0
+2,Cleaning,"(1.96, 0.06, 0.28)",2025-02-14 16:32:27,4.78,Idle,97697,Robot,Operator,Two Fish,Encrypted,8,73,DoS Attack,Medium,3.34,Isolate Data,1
+4,Cleaning,"(1.01, 1.41, 0.51)",2025-02-14 16:32:27,2.89,Active,52877,Operator,Robot,Two Fish,Encrypted,7,51,Data Breach,Low,1.92,Isolate Data,1
+7,Diagnosis,"(1.89, 0.25, 1.59)",2025-02-14 16:32:27,4.23,Active,54047,Robot,Operator,Two Fish,Failed,20,96,No Threat,Medium,0.0,None,0
+2,Navigation,"(1.68, 0.42, 0.69)",2025-02-14 16:32:27,4.91,Idle,52472,Operator,Robot,Two Fish,Failed,9,66,Man-in-the-Middle Attack,Low,1.86,Reset Encryption,1
+3,Cleaning,"(0.24, 0.48, 0.62)",2025-02-14 16:32:27,2.85,Active,24310,Robot,Operator,Two Fish,Failed,13,21,No Threat,High,0.0,None,0
+7,Suturing,"(1.06, 0.76, 1.93)",2025-02-14 16:32:27,1.92,Active,64011,Robot,Operator,Two Fish,Failed,17,28,Man-in-the-Middle Attack,High,3.15,Reconnect Connection,1
+1,Navigation,"(0.24, 0.77, 0.13)",2025-02-14 16:32:27,4.02,Idle,80909,Robot,Operator,Two Fish,Failed,20,51,No Threat,Medium,0.0,None,0
+9,Navigation,"(1.46, 0.14, 0.89)",2025-02-14 16:32:27,1.18,Idle,88142,Operator,Robot,Two Fish,Failed,6,16,Man-in-the-Middle Attack,Medium,2.89,Reset Encryption,1
+1,Cleaning,"(0.79, 0.98, 1.33)",2025-02-14 16:32:27,1.84,Idle,43543,Robot,Operator,Two Fish,Failed,13,37,Data Breach,Medium,2.57,Reset Encryption,1
+8,Cleaning,"(1.81, 0.62, 0.66)",2025-02-14 16:32:27,2.07,Idle,82382,Operator,Robot,Two Fish,Encrypted,18,12,Man-in-the-Middle Attack,High,2.8,Isolate Data,1
+6,Navigation,"(0.71, 1.83, 1.45)",2025-02-14 16:32:27,4.08,Idle,56981,Operator,Robot,Two Fish,Encrypted,19,22,DoS Attack,High,2.87,Isolate Data,1
+3,Navigation,"(1.57, 1.84, 1.42)",2025-02-14 16:32:27,4.93,Active,39320,Operator,Robot,Two Fish,Encrypted,17,97,No Threat,Low,0.0,None,0
+10,Incision,"(1.76, 0.33, 1.57)",2025-02-14 16:32:27,3.67,Active,69516,Robot,Operator,Two Fish,Encrypted,17,47,Man-in-the-Middle Attack,Low,3.63,Reset Encryption,1
+8,Incision,"(0.84, 0.03, 1.67)",2025-02-14 16:32:27,4.86,Active,66458,Operator,Robot,Two Fish,Failed,11,80,DoS Attack,Medium,1.81,Isolate Data,1
+9,Incision,"(1.75, 1.78, 0.24)",2025-02-14 16:32:27,3.14,Idle,54340,Robot,Operator,Two Fish,Encrypted,10,53,Data Breach,Medium,4.77,Reconnect Connection,1
+6,Navigation,"(1.47, 1.05, 0.22)",2025-02-14 16:32:27,3.43,Idle,95797,Operator,Robot,Two Fish,Encrypted,10,56,No Threat,Low,0.0,None,0
+2,Cleaning,"(1.59, 1.51, 1.92)",2025-02-14 16:32:27,4.02,Active,51349,Robot,Operator,Two Fish,Failed,16,39,Man-in-the-Middle Attack,Medium,1.09,Reconnect Connection,1
+5,Suturing,"(0.83, 1.91, 0.46)",2025-02-14 16:32:27,2.36,Active,86375,Robot,Operator,Two Fish,Encrypted,7,59,No Threat,Low,0.0,None,0
+6,Cleaning,"(1.11, 1.77, 0.04)",2025-02-14 16:32:27,3.36,Idle,48708,Operator,Robot,Two Fish,Failed,8,25,No Threat,High,0.0,None,0
+5,Cleaning,"(0.41, 0.67, 0.85)",2025-02-14 16:32:27,3.14,Idle,45581,Robot,Operator,Two Fish,Failed,12,53,Man-in-the-Middle Attack,High,1.83,Isolate Data,1
+4,Diagnosis,"(0.65, 0.81, 1.63)",2025-02-14 16:32:27,4.54,Active,37765,Robot,Operator,Two Fish,Failed,16,83,No Threat,High,0.0,None,0
+4,Navigation,"(1.83, 1.48, 0.67)",2025-02-14 16:32:27,4.09,Idle,17246,Robot,Operator,Two Fish,Failed,13,64,Man-in-the-Middle Attack,High,2.44,Reconnect Connection,1
+10,Cleaning,"(1.7, 0.95, 1.98)",2025-02-14 16:32:27,1.86,Idle,31971,Operator,Robot,Two Fish,Failed,19,24,DoS Attack,Low,2.69,Reset Encryption,1
+9,Diagnosis,"(0.77, 0.78, 0.72)",2025-02-14 16:32:27,3.53,Idle,48248,Robot,Operator,Two Fish,Encrypted,9,62,Man-in-the-Middle Attack,High,2.09,Reset Encryption,1
+4,Suturing,"(0.69, 0.86, 0.59)",2025-02-14 16:32:27,3.72,Active,27042,Operator,Robot,Two Fish,Encrypted,17,100,Data Breach,Medium,1.13,Reset Encryption,1
+4,Navigation,"(0.32, 1.18, 0.87)",2025-02-14 16:32:27,1.13,Active,86755,Robot,Operator,Two Fish,Encrypted,20,19,DoS Attack,Medium,4.33,Reconnect Connection,1
+8,Diagnosis,"(1.07, 0.27, 1.59)",2025-02-14 16:32:27,3.4,Active,79074,Robot,Operator,Two Fish,Encrypted,5,21,Man-in-the-Middle Attack,Medium,2.44,Reconnect Connection,1
+7,Suturing,"(1.7, 0.25, 0.55)",2025-02-14 16:32:27,2.65,Active,46731,Operator,Robot,Two Fish,Failed,11,87,Data Breach,High,4.95,Reconnect Connection,1
+1,Suturing,"(0.89, 1.61, 0.02)",2025-02-14 16:32:27,3.7,Idle,83429,Robot,Operator,Two Fish,Encrypted,17,60,Data Breach,Low,1.2,Reset Encryption,1
+2,Diagnosis,"(1.83, 1.23, 0.78)",2025-02-14 16:32:27,2.44,Idle,32702,Operator,Robot,Two Fish,Encrypted,5,56,DoS Attack,High,2.47,Isolate Data,1
+1,Incision,"(1.43, 1.87, 0.43)",2025-02-14 16:32:27,2.69,Idle,53430,Operator,Robot,Two Fish,Encrypted,11,95,No Threat,High,0.0,None,0
+9,Diagnosis,"(0.96, 1.44, 1.73)",2025-02-14 16:32:27,2.69,Active,90720,Operator,Robot,Two Fish,Failed,12,16,Data Breach,Low,3.8,Reconnect Connection,1
+8,Incision,"(1.17, 1.46, 0.04)",2025-02-14 16:32:27,4.73,Active,63514,Robot,Operator,Two Fish,Failed,13,26,DoS Attack,Low,3.84,Reset Encryption,1
+1,Diagnosis,"(1.1, 0.9, 1.25)",2025-02-14 16:32:27,3.04,Active,34944,Robot,Operator,Two Fish,Encrypted,14,51,Man-in-the-Middle Attack,Low,3.33,Isolate Data,1
+1,Navigation,"(1.46, 0.44, 1.94)",2025-02-14 16:32:27,3.43,Active,15830,Robot,Operator,Two Fish,Encrypted,7,39,Data Breach,High,3.85,Reconnect Connection,1
+5,Suturing,"(1.54, 0.32, 1.15)",2025-02-14 16:32:27,1.12,Idle,11367,Robot,Operator,Two Fish,Failed,18,20,No Threat,Medium,0.0,None,0
+4,Incision,"(1.84, 0.78, 1.94)",2025-02-14 16:32:27,2.87,Active,85435,Operator,Robot,Two Fish,Failed,20,79,Data Breach,Low,1.88,Reconnect Connection,1
+5,Diagnosis,"(1.25, 1.87, 0.93)",2025-02-14 16:32:27,4.47,Idle,89037,Robot,Operator,Two Fish,Failed,5,80,No Threat,High,0.0,None,0
+8,Incision,"(1.78, 0.04, 0.73)",2025-02-14 16:32:27,4.68,Active,88854,Robot,Operator,Two Fish,Failed,17,20,No Threat,High,0.0,None,0
+9,Suturing,"(1.87, 1.96, 1.43)",2025-02-14 16:32:27,4.4,Active,31090,Operator,Robot,Two Fish,Failed,15,91,DoS Attack,Medium,1.09,Reconnect Connection,1
+4,Incision,"(1.36, 1.09, 0.36)",2025-02-14 16:32:27,3.48,Idle,49618,Robot,Operator,Two Fish,Failed,20,93,No Threat,Medium,0.0,None,0
+4,Incision,"(0.51, 1.53, 0.3)",2025-02-14 16:32:27,4.26,Idle,17061,Operator,Robot,Two Fish,Encrypted,6,23,Man-in-the-Middle Attack,High,4.01,Reconnect Connection,1
+6,Cleaning,"(0.45, 1.48, 1.29)",2025-02-14 16:32:27,2.35,Idle,35995,Operator,Robot,Two Fish,Encrypted,19,85,No Threat,High,0.0,None,0
+3,Incision,"(0.03, 0.77, 1.04)",2025-02-14 16:32:27,4.57,Idle,50983,Operator,Robot,Two Fish,Encrypted,19,83,Man-in-the-Middle Attack,Low,4.12,Reset Encryption,1
+2,Incision,"(0.58, 1.6, 1.93)",2025-02-14 16:32:27,1.96,Active,73799,Operator,Robot,Two Fish,Encrypted,14,13,No Threat,High,0.0,None,0
+5,Navigation,"(0.23, 1.71, 1.85)",2025-02-14 16:32:27,1.67,Idle,89162,Robot,Operator,Two Fish,Encrypted,14,52,Man-in-the-Middle Attack,Low,3.13,Isolate Data,1
+3,Navigation,"(1.93, 1.96, 0.26)",2025-02-14 16:32:27,2.59,Active,19868,Robot,Operator,Two Fish,Failed,13,11,DoS Attack,Low,4.64,Reconnect Connection,1
+6,Cleaning,"(0.05, 1.98, 0.86)",2025-02-14 16:32:27,4.95,Idle,89624,Operator,Robot,Two Fish,Encrypted,16,56,Man-in-the-Middle Attack,Medium,1.79,Isolate Data,1
+6,Cleaning,"(1.62, 0.94, 0.44)",2025-02-14 16:32:27,3.86,Active,80009,Robot,Operator,Two Fish,Encrypted,10,69,Data Breach,High,1.73,Reset Encryption,1
+10,Diagnosis,"(0.85, 0.59, 1.24)",2025-02-14 16:32:27,3.81,Active,63932,Robot,Operator,Two Fish,Encrypted,11,38,Man-in-the-Middle Attack,Low,2.24,Reset Encryption,1
+4,Incision,"(0.16, 0.02, 0.12)",2025-02-14 16:32:27,3.55,Idle,62895,Operator,Robot,Two Fish,Encrypted,19,79,No Threat,Medium,0.0,None,0
+10,Navigation,"(0.98, 0.84, 1.91)",2025-02-14 16:32:27,1.13,Active,59358,Robot,Operator,Two Fish,Encrypted,8,52,No Threat,High,0.0,None,0
+7,Diagnosis,"(1.02, 1.86, 1.35)",2025-02-14 16:32:27,1.11,Active,30182,Robot,Operator,Two Fish,Failed,17,30,DoS Attack,Low,3.32,Reset Encryption,1
+8,Cleaning,"(0.82, 1.9, 0.17)",2025-02-14 16:32:27,1.88,Idle,76714,Operator,Robot,Two Fish,Failed,7,33,DoS Attack,Low,3.1,Reset Encryption,1
+7,Cleaning,"(1.0, 1.5, 1.98)",2025-02-14 16:32:27,4.78,Idle,91402,Operator,Robot,Two Fish,Encrypted,14,32,Data Breach,High,3.99,Isolate Data,1
+10,Cleaning,"(0.52, 0.6, 0.11)",2025-02-14 16:32:27,2.17,Active,74348,Operator,Robot,Two Fish,Failed,10,47,DoS Attack,Medium,3.16,Isolate Data,1
+7,Incision,"(0.39, 1.17, 0.01)",2025-02-14 16:32:27,4.29,Idle,48787,Operator,Robot,Two Fish,Failed,16,33,Man-in-the-Middle Attack,Medium,2.88,Reset Encryption,1
+5,Navigation,"(0.56, 1.02, 0.24)",2025-02-14 16:32:27,2.52,Active,44997,Operator,Robot,Two Fish,Encrypted,15,25,No Threat,Low,0.0,None,0
+10,Cleaning,"(0.68, 1.96, 1.65)",2025-02-14 16:32:27,1.69,Active,78481,Robot,Operator,Two Fish,Encrypted,10,66,No Threat,High,0.0,None,0
+6,Suturing,"(1.05, 0.45, 1.9)",2025-02-14 16:32:27,4.15,Idle,82952,Robot,Operator,Two Fish,Encrypted,13,28,Man-in-the-Middle Attack,High,2.49,Reconnect Connection,1
+6,Cleaning,"(0.08, 0.36, 0.86)",2025-02-14 16:32:27,3.32,Idle,16339,Robot,Operator,Two Fish,Failed,7,22,DoS Attack,Medium,3.56,Reconnect Connection,1
+7,Navigation,"(1.96, 0.49, 1.72)",2025-02-14 16:32:27,3.27,Idle,78425,Robot,Operator,Two Fish,Encrypted,18,57,Data Breach,High,2.9,Reconnect Connection,1
+9,Diagnosis,"(0.97, 0.16, 0.92)",2025-02-14 16:32:27,1.6,Active,36792,Robot,Operator,Two Fish,Encrypted,6,33,Man-in-the-Middle Attack,Low,4.28,Reset Encryption,1
+2,Suturing,"(1.97, 1.7, 0.84)",2025-02-14 16:32:27,4.63,Active,20925,Robot,Operator,Two Fish,Failed,12,76,No Threat,High,0.0,None,0
+8,Diagnosis,"(0.62, 0.69, 1.67)",2025-02-14 16:32:27,2.9,Active,60965,Operator,Robot,Two Fish,Encrypted,6,66,Man-in-the-Middle Attack,High,2.76,Isolate Data,1
+6,Incision,"(0.55, 1.68, 1.65)",2025-02-14 16:32:27,2.24,Active,41775,Robot,Operator,Two Fish,Failed,12,60,DoS Attack,Medium,2.95,Isolate Data,1
+9,Suturing,"(1.15, 0.03, 0.19)",2025-02-14 16:32:27,1.65,Idle,69459,Operator,Robot,Two Fish,Encrypted,12,29,No Threat,Medium,0.0,None,0
+5,Cleaning,"(1.62, 0.95, 0.39)",2025-02-14 16:32:27,1.85,Idle,40072,Operator,Robot,Two Fish,Failed,13,54,Man-in-the-Middle Attack,High,4.17,Reset Encryption,1
+4,Diagnosis,"(1.95, 1.34, 1.47)",2025-02-14 16:32:27,4.5,Active,79400,Robot,Operator,Two Fish,Failed,17,68,Data Breach,Low,1.83,Reconnect Connection,1
+2,Navigation,"(0.91, 0.1, 0.37)",2025-02-14 16:32:27,3.15,Idle,87843,Operator,Robot,Two Fish,Failed,5,49,Man-in-the-Middle Attack,Low,2.98,Isolate Data,1
+9,Navigation,"(2.0, 1.05, 0.8)",2025-02-14 16:32:27,4.38,Active,51952,Robot,Operator,Two Fish,Encrypted,16,93,Data Breach,High,1.74,Reset Encryption,1
+1,Navigation,"(1.3, 0.13, 1.57)",2025-02-14 16:32:27,2.6,Idle,99262,Operator,Robot,Two Fish,Failed,9,61,Man-in-the-Middle Attack,High,3.33,Reset Encryption,1
+10,Diagnosis,"(1.71, 1.66, 1.81)",2025-02-14 16:32:27,3.16,Idle,31530,Operator,Robot,Two Fish,Encrypted,13,37,No Threat,Low,0.0,None,0
+6,Cleaning,"(1.02, 1.91, 1.34)",2025-02-14 16:32:27,4.13,Active,73955,Robot,Operator,Two Fish,Failed,10,45,Man-in-the-Middle Attack,High,3.54,Isolate Data,1
+9,Diagnosis,"(0.9, 1.28, 1.77)",2025-02-14 16:32:27,2.6,Active,24338,Robot,Operator,Two Fish,Encrypted,14,14,Man-in-the-Middle Attack,High,3.04,Reconnect Connection,1
+2,Diagnosis,"(1.74, 0.77, 0.51)",2025-02-14 16:32:27,4.51,Active,93611,Operator,Robot,Two Fish,Encrypted,8,29,Data Breach,Low,1.64,Isolate Data,1
+5,Suturing,"(0.29, 1.55, 0.4)",2025-02-14 16:32:27,3.99,Idle,13551,Robot,Operator,Two Fish,Encrypted,10,61,Man-in-the-Middle Attack,Medium,2.73,Reconnect Connection,1
+4,Navigation,"(1.05, 0.55, 1.39)",2025-02-14 16:32:27,4.63,Active,14696,Operator,Robot,Two Fish,Encrypted,15,58,No Threat,Low,0.0,None,0
+5,Suturing,"(0.26, 1.91, 1.05)",2025-02-14 16:32:27,4.64,Idle,55072,Operator,Robot,Two Fish,Encrypted,16,78,Man-in-the-Middle Attack,High,3.93,Isolate Data,1
+2,Cleaning,"(1.6, 1.84, 0.41)",2025-02-14 16:32:27,2.57,Active,72318,Robot,Operator,Two Fish,Encrypted,19,40,Data Breach,Low,3.8,Reset Encryption,1
+10,Cleaning,"(1.03, 1.18, 0.65)",2025-02-14 16:32:27,4.85,Idle,53473,Robot,Operator,Two Fish,Failed,8,47,Data Breach,Low,1.26,Reconnect Connection,1
+10,Navigation,"(1.46, 0.6, 1.77)",2025-02-14 16:32:27,2.76,Idle,16498,Operator,Robot,Two Fish,Failed,7,94,Data Breach,High,4.18,Isolate Data,1
+6,Navigation,"(1.72, 0.55, 0.33)",2025-02-14 16:32:27,3.59,Idle,66870,Operator,Robot,Two Fish,Encrypted,13,14,Data Breach,Low,3.76,Reset Encryption,1
+8,Cleaning,"(1.7, 1.42, 1.96)",2025-02-14 16:32:27,2.15,Active,33180,Operator,Robot,Two Fish,Encrypted,13,84,Data Breach,Medium,1.26,Reconnect Connection,1
+2,Cleaning,"(0.55, 1.4, 0.94)",2025-02-14 16:32:27,4.69,Idle,42985,Operator,Robot,Two Fish,Encrypted,16,37,Data Breach,Medium,3.19,Reconnect Connection,1
+5,Incision,"(0.63, 1.08, 1.35)",2025-02-14 16:32:27,2.56,Active,31684,Robot,Operator,Two Fish,Failed,16,20,No Threat,Medium,0.0,None,0
+4,Incision,"(0.99, 0.31, 0.36)",2025-02-14 16:32:27,2.03,Active,89157,Operator,Robot,Two Fish,Failed,14,49,No Threat,Medium,0.0,None,0
+7,Incision,"(1.14, 1.76, 0.15)",2025-02-14 16:32:27,4.73,Active,75584,Operator,Robot,Two Fish,Failed,15,27,No Threat,Low,0.0,None,0
+8,Diagnosis,"(0.06, 1.75, 0.5)",2025-02-14 16:32:27,3.32,Idle,77725,Robot,Operator,Two Fish,Failed,7,47,Data Breach,Medium,4.95,Isolate Data,1
+4,Cleaning,"(0.18, 0.71, 0.54)",2025-02-14 16:32:27,2.01,Active,91266,Robot,Operator,Two Fish,Failed,18,56,DoS Attack,Low,3.03,Isolate Data,1
+5,Navigation,"(0.03, 0.52, 1.13)",2025-02-14 16:32:27,2.08,Idle,52047,Operator,Robot,Two Fish,Encrypted,11,48,Man-in-the-Middle Attack,Low,2.04,Reset Encryption,1
+2,Diagnosis,"(1.92, 1.52, 0.72)",2025-02-14 16:32:27,3.33,Active,96658,Operator,Robot,Two Fish,Failed,18,51,Man-in-the-Middle Attack,Medium,2.46,Reset Encryption,1
+1,Diagnosis,"(1.08, 0.39, 1.13)",2025-02-14 16:32:27,4.52,Idle,60908,Operator,Robot,Two Fish,Failed,9,44,Data Breach,Medium,2.63,Isolate Data,1
+9,Navigation,"(1.02, 1.78, 0.97)",2025-02-14 16:32:27,4.26,Active,10771,Robot,Operator,Two Fish,Encrypted,8,59,Man-in-the-Middle Attack,Medium,3.67,Isolate Data,1
+10,Suturing,"(1.23, 1.41, 1.2)",2025-02-14 16:32:27,3.92,Active,76843,Operator,Robot,Two Fish,Encrypted,5,55,DoS Attack,High,2.31,Reconnect Connection,1
+5,Incision,"(0.43, 0.47, 1.57)",2025-02-14 16:32:27,4.47,Idle,27430,Operator,Robot,Two Fish,Encrypted,18,31,Data Breach,Low,4.91,Reconnect Connection,1
+2,Diagnosis,"(1.25, 0.47, 1.91)",2025-02-14 16:32:27,1.32,Idle,98062,Robot,Operator,Two Fish,Failed,8,12,Man-in-the-Middle Attack,Medium,1.93,Reset Encryption,1
+2,Navigation,"(0.53, 0.25, 0.61)",2025-02-14 16:32:27,1.08,Active,63593,Robot,Operator,Two Fish,Encrypted,18,46,Man-in-the-Middle Attack,Medium,4.73,Reconnect Connection,1
+6,Cleaning,"(1.63, 0.15, 0.7)",2025-02-14 16:32:27,1.92,Idle,95067,Robot,Operator,Two Fish,Encrypted,18,21,DoS Attack,Medium,3.8,Reset Encryption,1
+9,Incision,"(1.32, 0.66, 0.9)",2025-02-14 16:32:27,2.85,Idle,92571,Robot,Operator,Two Fish,Encrypted,14,45,Data Breach,Low,2.46,Isolate Data,1
+5,Suturing,"(0.47, 1.2, 0.74)",2025-02-14 16:32:27,3.81,Idle,70014,Operator,Robot,Two Fish,Failed,17,74,Man-in-the-Middle Attack,High,1.63,Reconnect Connection,1
+8,Navigation,"(1.78, 1.24, 0.23)",2025-02-14 16:32:27,2.1,Active,42184,Operator,Robot,Two Fish,Failed,12,25,No Threat,High,0.0,None,0
+3,Diagnosis,"(0.49, 0.98, 1.59)",2025-02-14 16:32:27,3.97,Idle,58833,Robot,Operator,Two Fish,Failed,16,45,Man-in-the-Middle Attack,Medium,3.79,Reconnect Connection,1
+3,Suturing,"(1.97, 0.01, 0.23)",2025-02-14 16:32:27,2.74,Active,69372,Robot,Operator,Two Fish,Failed,10,32,Data Breach,Low,1.8,Reset Encryption,1
+4,Diagnosis,"(0.6, 1.26, 1.08)",2025-02-14 16:32:27,3.38,Active,70694,Operator,Robot,Two Fish,Encrypted,19,30,Man-in-the-Middle Attack,High,3.6,Reconnect Connection,1
+4,Suturing,"(1.13, 0.33, 1.12)",2025-02-14 16:32:27,1.02,Idle,85177,Robot,Operator,Two Fish,Encrypted,13,71,Man-in-the-Middle Attack,Medium,2.5,Isolate Data,1
+9,Cleaning,"(0.83, 0.84, 0.08)",2025-02-14 16:32:27,3.54,Idle,22561,Operator,Robot,Two Fish,Failed,12,88,Data Breach,High,4.62,Reset Encryption,1
+5,Cleaning,"(0.74, 1.89, 0.9)",2025-02-14 16:32:27,4.37,Active,42625,Robot,Operator,Two Fish,Encrypted,11,10,Data Breach,Low,2.94,Isolate Data,1
+6,Incision,"(1.4, 0.6, 0.75)",2025-02-14 16:32:27,3.03,Idle,67223,Operator,Robot,Two Fish,Failed,8,72,DoS Attack,High,3.03,Isolate Data,1
+1,Incision,"(1.97, 0.61, 1.34)",2025-02-14 16:32:27,2.72,Active,74653,Operator,Robot,Two Fish,Encrypted,13,55,Data Breach,Low,3.37,Reconnect Connection,1
+2,Diagnosis,"(1.52, 1.77, 0.28)",2025-02-14 16:32:27,2.36,Idle,65606,Operator,Robot,Two Fish,Failed,16,91,Data Breach,Low,2.38,Reconnect Connection,1
+10,Navigation,"(0.1, 1.34, 1.25)",2025-02-14 16:32:27,4.7,Active,62931,Operator,Robot,Two Fish,Encrypted,7,82,Man-in-the-Middle Attack,Medium,1.06,Isolate Data,1
+2,Suturing,"(0.97, 1.33, 1.43)",2025-02-14 16:32:27,3.35,Active,71928,Robot,Operator,Two Fish,Failed,14,65,No Threat,Low,0.0,None,0
+9,Suturing,"(0.69, 1.94, 1.43)",2025-02-14 16:32:27,2.26,Active,62576,Operator,Robot,Two Fish,Failed,5,68,DoS Attack,Medium,4.57,Reset Encryption,1
+9,Navigation,"(1.42, 0.98, 0.42)",2025-02-14 16:32:27,2.12,Idle,16721,Robot,Operator,Two Fish,Encrypted,12,53,No Threat,Low,0.0,None,0
+8,Navigation,"(1.24, 0.32, 1.12)",2025-02-14 16:32:27,4.87,Idle,25092,Robot,Operator,Two Fish,Failed,20,30,Man-in-the-Middle Attack,Low,3.22,Reset Encryption,1
+3,Cleaning,"(1.17, 0.5, 0.88)",2025-02-14 16:32:27,1.64,Idle,39873,Operator,Robot,Two Fish,Encrypted,17,16,Data Breach,High,1.3,Reset Encryption,1
+7,Cleaning,"(0.32, 1.89, 1.26)",2025-02-14 16:32:27,3.98,Active,49671,Operator,Robot,Two Fish,Encrypted,12,27,Man-in-the-Middle Attack,Low,4.29,Reset Encryption,1
+8,Diagnosis,"(1.31, 1.85, 1.97)",2025-02-14 16:32:27,2.05,Idle,29766,Robot,Operator,Two Fish,Failed,7,67,DoS Attack,High,3.99,Reset Encryption,1
+1,Suturing,"(1.71, 1.22, 0.16)",2025-02-14 16:32:27,1.92,Idle,49074,Robot,Operator,Two Fish,Encrypted,10,91,No Threat,High,0.0,None,0
+4,Incision,"(0.93, 1.89, 1.11)",2025-02-14 16:32:27,2.62,Active,53997,Robot,Operator,Two Fish,Encrypted,16,12,DoS Attack,Low,3.9,Reconnect Connection,1
+6,Incision,"(0.77, 1.56, 0.06)",2025-02-14 16:32:27,2.0,Idle,91858,Operator,Robot,Two Fish,Failed,10,92,DoS Attack,High,3.94,Reconnect Connection,1
+5,Suturing,"(0.05, 0.47, 0.47)",2025-02-14 16:32:27,2.99,Active,60415,Robot,Operator,Two Fish,Encrypted,6,44,Man-in-the-Middle Attack,Medium,1.32,Isolate Data,1
+3,Incision,"(0.01, 1.77, 1.63)",2025-02-14 16:32:27,2.91,Idle,40958,Operator,Robot,Two Fish,Failed,13,50,DoS Attack,Medium,3.92,Reset Encryption,1
+2,Navigation,"(1.16, 0.32, 0.01)",2025-02-14 16:32:27,1.16,Active,76912,Robot,Operator,Two Fish,Encrypted,14,21,DoS Attack,Medium,1.77,Isolate Data,1
+6,Cleaning,"(1.96, 0.02, 0.01)",2025-02-14 16:32:27,4.61,Active,30302,Robot,Operator,Two Fish,Encrypted,7,61,No Threat,Low,0.0,None,0
+4,Cleaning,"(0.72, 1.41, 1.63)",2025-02-14 16:32:27,1.22,Active,35206,Operator,Robot,Two Fish,Encrypted,6,74,DoS Attack,Medium,2.92,Isolate Data,1
+6,Suturing,"(0.61, 1.04, 0.94)",2025-02-14 16:32:27,3.19,Idle,51047,Operator,Robot,Two Fish,Failed,18,52,Man-in-the-Middle Attack,Low,3.43,Reconnect Connection,1
+3,Cleaning,"(0.91, 1.13, 1.28)",2025-02-14 16:32:27,4.6,Idle,75013,Robot,Operator,Two Fish,Failed,7,33,Data Breach,High,4.47,Isolate Data,1
+6,Incision,"(1.6, 1.51, 0.99)",2025-02-14 16:32:27,3.96,Idle,79489,Robot,Operator,Two Fish,Failed,10,89,No Threat,Medium,0.0,None,0
+4,Suturing,"(0.16, 1.03, 0.6)",2025-02-14 16:32:27,4.71,Active,12533,Operator,Robot,Two Fish,Failed,18,83,Data Breach,Low,1.42,Reconnect Connection,1
+1,Suturing,"(0.83, 0.15, 0.06)",2025-02-14 16:32:27,4.68,Active,49764,Operator,Robot,Two Fish,Encrypted,10,45,Man-in-the-Middle Attack,Medium,2.42,Isolate Data,1
+2,Suturing,"(0.29, 0.24, 1.83)",2025-02-14 16:32:27,1.01,Idle,30363,Robot,Operator,Two Fish,Encrypted,8,42,Data Breach,Medium,1.65,Reset Encryption,1
+6,Cleaning,"(1.05, 1.29, 0.18)",2025-02-14 16:32:27,3.27,Active,87404,Robot,Operator,Two Fish,Encrypted,8,47,Man-in-the-Middle Attack,High,2.82,Isolate Data,1
+5,Cleaning,"(0.38, 0.14, 0.61)",2025-02-14 16:32:27,3.49,Active,19712,Robot,Operator,Two Fish,Encrypted,13,35,Data Breach,Low,4.2,Reset Encryption,1
+8,Suturing,"(0.21, 1.05, 0.26)",2025-02-14 16:32:27,3.32,Active,86515,Robot,Operator,Two Fish,Failed,19,57,DoS Attack,High,1.82,Reset Encryption,1
+2,Cleaning,"(1.26, 1.85, 0.02)",2025-02-14 16:32:27,1.21,Idle,80106,Operator,Robot,Two Fish,Failed,11,90,DoS Attack,Medium,2.43,Reset Encryption,1
+9,Incision,"(0.81, 1.85, 1.74)",2025-02-14 16:32:27,2.0,Idle,41090,Robot,Operator,Two Fish,Failed,12,69,Data Breach,Medium,1.38,Isolate Data,1
+8,Diagnosis,"(0.86, 0.44, 0.59)",2025-02-14 16:32:27,4.33,Active,89203,Operator,Robot,Two Fish,Encrypted,7,27,Data Breach,Low,2.36,Reconnect Connection,1
+4,Incision,"(1.71, 1.9, 0.93)",2025-02-14 16:32:27,3.0,Idle,87286,Operator,Robot,Two Fish,Encrypted,10,88,DoS Attack,High,1.72,Reconnect Connection,1
+4,Diagnosis,"(0.4, 0.17, 1.58)",2025-02-14 16:32:27,2.57,Active,67359,Operator,Robot,Two Fish,Failed,20,35,No Threat,High,0.0,None,0
+10,Suturing,"(1.25, 1.71, 0.82)",2025-02-14 16:32:27,3.18,Active,80009,Robot,Operator,Two Fish,Encrypted,7,63,DoS Attack,Medium,1.93,Reset Encryption,1
+10,Diagnosis,"(0.42, 0.05, 1.18)",2025-02-14 16:32:27,2.88,Active,58234,Robot,Operator,Two Fish,Encrypted,12,35,Data Breach,Medium,3.18,Reset Encryption,1
+6,Diagnosis,"(1.72, 0.85, 0.02)",2025-02-14 16:32:27,4.25,Active,96413,Operator,Robot,Two Fish,Failed,19,91,No Threat,Low,0.0,None,0
+4,Navigation,"(0.88, 0.97, 1.26)",2025-02-14 16:32:27,3.78,Active,74759,Operator,Robot,Two Fish,Failed,5,47,No Threat,Low,0.0,None,0
+9,Suturing,"(0.72, 0.77, 0.97)",2025-02-14 16:32:27,4.44,Active,36792,Robot,Operator,Two Fish,Failed,16,18,Man-in-the-Middle Attack,Low,4.39,Isolate Data,1
+4,Navigation,"(0.74, 0.97, 0.82)",2025-02-14 16:32:27,1.3,Idle,77147,Operator,Robot,Two Fish,Failed,16,26,DoS Attack,Low,4.99,Reconnect Connection,1
+8,Incision,"(0.38, 1.24, 0.78)",2025-02-14 16:32:27,3.36,Idle,98753,Operator,Robot,Two Fish,Failed,20,31,Man-in-the-Middle Attack,Medium,4.62,Reconnect Connection,1
+1,Diagnosis,"(0.37, 1.28, 0.55)",2025-02-14 16:32:27,2.89,Active,17511,Robot,Operator,Two Fish,Encrypted,12,46,No Threat,Low,0.0,None,0
+6,Incision,"(1.54, 1.05, 0.6)",2025-02-14 16:32:27,4.42,Active,36122,Robot,Operator,Two Fish,Encrypted,8,65,No Threat,Medium,0.0,None,0
+2,Suturing,"(0.09, 1.91, 0.02)",2025-02-14 16:32:27,3.62,Active,36235,Operator,Robot,Two Fish,Failed,6,25,DoS Attack,Medium,2.05,Isolate Data,1
+3,Navigation,"(1.18, 1.03, 1.47)",2025-02-14 16:32:27,4.56,Idle,24513,Operator,Robot,Two Fish,Encrypted,19,14,DoS Attack,Low,1.85,Reset Encryption,1
+7,Navigation,"(0.08, 1.74, 1.7)",2025-02-14 16:32:27,4.28,Idle,67499,Operator,Robot,Two Fish,Encrypted,18,18,DoS Attack,Medium,4.33,Reconnect Connection,1
+4,Navigation,"(0.45, 1.4, 0.91)",2025-02-14 16:32:27,4.45,Idle,82863,Operator,Robot,Two Fish,Encrypted,9,94,DoS Attack,Medium,2.42,Reconnect Connection,1
+10,Incision,"(0.46, 0.84, 1.03)",2025-02-14 16:32:27,2.4,Idle,56531,Robot,Operator,Two Fish,Encrypted,10,57,No Threat,High,0.0,None,0
+5,Cleaning,"(0.1, 1.43, 1.09)",2025-02-14 16:32:27,3.08,Idle,71485,Robot,Operator,Two Fish,Failed,7,64,Man-in-the-Middle Attack,High,2.63,Reconnect Connection,1
+6,Incision,"(0.68, 1.63, 1.71)",2025-02-14 16:32:27,1.19,Active,88155,Operator,Robot,Two Fish,Encrypted,12,40,DoS Attack,Medium,3.95,Reset Encryption,1
+2,Diagnosis,"(0.34, 1.45, 0.8)",2025-02-14 16:32:27,3.45,Idle,58235,Robot,Operator,Two Fish,Encrypted,18,11,No Threat,Medium,0.0,None,0
+3,Cleaning,"(1.75, 0.55, 1.33)",2025-02-14 16:32:27,1.39,Idle,90613,Robot,Operator,Two Fish,Encrypted,15,99,No Threat,High,0.0,None,0
+2,Cleaning,"(1.82, 0.64, 0.94)",2025-02-14 16:32:27,2.03,Idle,39705,Robot,Operator,Two Fish,Encrypted,14,76,DoS Attack,Medium,4.71,Reconnect Connection,1
+9,Incision,"(1.89, 1.63, 1.93)",2025-02-14 16:32:27,3.13,Active,71990,Robot,Operator,Two Fish,Encrypted,5,87,DoS Attack,Medium,2.05,Isolate Data,1
+8,Suturing,"(1.34, 0.39, 0.03)",2025-02-14 16:32:27,4.47,Idle,18488,Robot,Operator,Two Fish,Failed,7,15,Data Breach,High,3.13,Isolate Data,1
+7,Diagnosis,"(1.62, 1.18, 0.1)",2025-02-14 16:32:27,3.76,Idle,98089,Operator,Robot,Two Fish,Failed,13,59,DoS Attack,High,4.44,Reconnect Connection,1
+4,Diagnosis,"(0.42, 1.71, 0.3)",2025-02-14 16:32:27,3.14,Idle,47847,Robot,Operator,Two Fish,Encrypted,18,39,DoS Attack,High,1.0,Reconnect Connection,1
+1,Diagnosis,"(1.01, 0.27, 1.84)",2025-02-14 16:32:27,3.11,Idle,16726,Operator,Robot,Two Fish,Failed,13,65,Data Breach,Medium,4.91,Reset Encryption,1
+8,Cleaning,"(0.11, 1.88, 1.64)",2025-02-14 16:32:27,3.62,Idle,94502,Operator,Robot,Two Fish,Failed,14,28,Man-in-the-Middle Attack,Low,1.88,Isolate Data,1
+7,Incision,"(0.92, 0.33, 0.97)",2025-02-14 16:32:27,4.9,Idle,87092,Robot,Operator,Two Fish,Failed,6,73,Man-in-the-Middle Attack,Low,1.73,Reconnect Connection,1
+9,Suturing,"(0.45, 0.77, 1.85)",2025-02-14 16:32:27,3.77,Active,69840,Operator,Robot,Two Fish,Encrypted,16,12,Data Breach,High,4.07,Reconnect Connection,1
+1,Diagnosis,"(1.2, 0.9, 1.2)",2025-02-14 16:32:27,2.36,Idle,49784,Robot,Operator,Two Fish,Failed,16,34,DoS Attack,Low,4.52,Isolate Data,1
+6,Incision,"(0.43, 1.22, 1.19)",2025-02-14 16:32:27,1.87,Active,66920,Robot,Operator,Two Fish,Failed,9,87,DoS Attack,High,1.17,Isolate Data,1
+1,Suturing,"(1.45, 1.21, 0.43)",2025-02-14 16:32:27,2.82,Idle,35046,Robot,Operator,Two Fish,Encrypted,10,15,Man-in-the-Middle Attack,Medium,1.94,Isolate Data,1
+8,Incision,"(0.11, 0.81, 1.62)",2025-02-14 16:32:27,4.8,Active,12389,Robot,Operator,Two Fish,Failed,10,13,Man-in-the-Middle Attack,Low,1.51,Isolate Data,1
+8,Diagnosis,"(0.72, 1.68, 1.44)",2025-02-14 16:32:27,4.69,Active,14095,Operator,Robot,Two Fish,Encrypted,5,87,DoS Attack,Medium,1.78,Isolate Data,1
+9,Navigation,"(1.41, 0.69, 1.56)",2025-02-14 16:32:27,2.15,Idle,78435,Operator,Robot,Two Fish,Failed,19,56,Man-in-the-Middle Attack,High,3.13,Isolate Data,1
+7,Diagnosis,"(1.49, 0.47, 1.68)",2025-02-14 16:32:27,2.77,Active,14082,Operator,Robot,Two Fish,Failed,18,26,No Threat,Medium,0.0,None,0
+3,Suturing,"(0.59, 0.42, 0.55)",2025-02-14 16:32:27,4.35,Idle,11514,Robot,Operator,Two Fish,Failed,7,91,Data Breach,Low,2.55,Reset Encryption,1
+4,Diagnosis,"(0.82, 1.55, 1.14)",2025-02-14 16:32:27,4.22,Idle,74943,Robot,Operator,Two Fish,Encrypted,14,42,DoS Attack,Medium,4.15,Isolate Data,1
+1,Cleaning,"(1.93, 1.51, 1.13)",2025-02-14 16:32:27,3.9,Active,26698,Operator,Robot,Two Fish,Failed,11,53,No Threat,Low,0.0,None,0
+8,Suturing,"(1.23, 0.71, 1.42)",2025-02-14 16:32:27,3.88,Active,44583,Operator,Robot,Two Fish,Encrypted,7,72,DoS Attack,Medium,2.82,Reset Encryption,1
+5,Suturing,"(1.96, 0.97, 1.34)",2025-02-14 16:32:27,4.84,Active,75212,Operator,Robot,Two Fish,Failed,10,84,Data Breach,High,1.31,Reconnect Connection,1
+5,Incision,"(1.34, 1.9, 1.23)",2025-02-14 16:32:27,4.47,Idle,97624,Operator,Robot,Two Fish,Failed,5,90,Man-in-the-Middle Attack,Low,3.37,Reconnect Connection,1
+4,Suturing,"(0.89, 1.41, 1.4)",2025-02-14 16:32:27,4.54,Active,71649,Robot,Operator,Two Fish,Encrypted,7,99,Man-in-the-Middle Attack,High,3.16,Isolate Data,1
+4,Suturing,"(1.65, 0.49, 0.55)",2025-02-14 16:32:27,4.66,Idle,44268,Robot,Operator,Two Fish,Failed,14,30,Man-in-the-Middle Attack,Low,4.32,Reconnect Connection,1
+6,Diagnosis,"(0.16, 1.84, 1.73)",2025-02-14 16:32:27,4.36,Active,36737,Robot,Operator,Two Fish,Failed,14,12,No Threat,High,0.0,None,0
+1,Navigation,"(1.33, 0.88, 0.82)",2025-02-14 16:32:27,1.79,Idle,41631,Robot,Operator,Two Fish,Failed,19,100,No Threat,Medium,0.0,None,0
+2,Suturing,"(1.57, 1.96, 1.85)",2025-02-14 16:32:27,4.46,Active,74052,Robot,Operator,Two Fish,Encrypted,19,80,DoS Attack,Medium,3.16,Isolate Data,1
+6,Diagnosis,"(0.75, 0.0, 0.91)",2025-02-14 16:32:27,2.84,Active,64485,Operator,Robot,Two Fish,Failed,12,80,DoS Attack,Low,2.62,Isolate Data,1
+9,Incision,"(0.01, 0.84, 0.74)",2025-02-14 16:32:27,3.68,Idle,17082,Robot,Operator,Two Fish,Failed,15,26,No Threat,Medium,0.0,None,0
+1,Incision,"(1.21, 0.08, 1.91)",2025-02-14 16:32:27,2.69,Idle,51001,Robot,Operator,Two Fish,Failed,5,63,Data Breach,Low,2.26,Reconnect Connection,1
+4,Incision,"(0.03, 0.61, 1.3)",2025-02-14 16:32:27,1.79,Active,82708,Robot,Operator,Two Fish,Encrypted,19,90,No Threat,Medium,0.0,None,0
+4,Suturing,"(1.23, 0.2, 0.16)",2025-02-14 16:32:27,3.57,Idle,32239,Operator,Robot,Two Fish,Encrypted,7,48,DoS Attack,Medium,1.39,Reconnect Connection,1
+3,Cleaning,"(0.26, 0.5, 1.86)",2025-02-14 16:32:27,4.86,Idle,61263,Operator,Robot,Two Fish,Encrypted,18,62,DoS Attack,Medium,3.33,Reconnect Connection,1
+7,Suturing,"(1.11, 1.21, 1.62)",2025-02-14 16:32:27,3.11,Idle,87139,Robot,Operator,Two Fish,Encrypted,17,46,Data Breach,Low,2.23,Reset Encryption,1
+10,Diagnosis,"(1.97, 1.37, 0.57)",2025-02-14 16:32:27,4.89,Idle,67314,Robot,Operator,Two Fish,Encrypted,12,16,Data Breach,Low,1.1,Isolate Data,1
+4,Incision,"(1.14, 0.08, 1.9)",2025-02-14 16:32:27,4.55,Active,46899,Operator,Robot,Two Fish,Encrypted,9,32,DoS Attack,High,2.08,Isolate Data,1
+6,Suturing,"(1.28, 1.21, 0.26)",2025-02-14 16:32:27,1.52,Idle,42003,Robot,Operator,Two Fish,Encrypted,15,13,Data Breach,High,3.05,Isolate Data,1
+6,Navigation,"(0.33, 1.19, 0.84)",2025-02-14 16:32:27,2.02,Active,66129,Operator,Robot,Two Fish,Failed,8,22,DoS Attack,High,4.32,Isolate Data,1
+10,Suturing,"(0.65, 1.17, 0.47)",2025-02-14 16:32:27,4.46,Idle,35838,Operator,Robot,Two Fish,Failed,13,93,No Threat,Low,0.0,None,0
+5,Navigation,"(0.17, 1.58, 1.2)",2025-02-14 16:32:27,1.12,Idle,31872,Operator,Robot,Two Fish,Encrypted,12,41,No Threat,Low,0.0,None,0
+5,Incision,"(0.95, 1.84, 1.21)",2025-02-14 16:32:27,3.31,Idle,58545,Operator,Robot,Two Fish,Encrypted,12,88,Man-in-the-Middle Attack,High,3.08,Reconnect Connection,1
+5,Navigation,"(1.6, 0.92, 0.52)",2025-02-14 16:32:27,4.76,Idle,82334,Operator,Robot,Two Fish,Encrypted,12,17,Data Breach,Low,3.42,Isolate Data,1
+9,Navigation,"(0.35, 0.99, 1.04)",2025-02-14 16:32:27,2.09,Idle,82709,Operator,Robot,Two Fish,Failed,15,98,Man-in-the-Middle Attack,Medium,1.94,Reconnect Connection,1
+8,Navigation,"(1.1, 1.95, 1.07)",2025-02-14 16:32:27,1.56,Active,29393,Operator,Robot,Two Fish,Failed,17,93,Man-in-the-Middle Attack,Medium,1.79,Isolate Data,1
+7,Cleaning,"(0.58, 1.71, 0.45)",2025-02-14 16:32:27,4.07,Active,61611,Robot,Operator,Two Fish,Failed,16,11,Data Breach,High,4.4,Isolate Data,1
+6,Navigation,"(1.34, 1.62, 1.36)",2025-02-14 16:32:27,4.56,Active,75527,Robot,Operator,Two Fish,Encrypted,16,26,DoS Attack,High,2.11,Reset Encryption,1
+7,Incision,"(0.51, 0.23, 1.23)",2025-02-14 16:32:27,1.39,Idle,90546,Operator,Robot,Two Fish,Encrypted,19,72,DoS Attack,High,4.58,Reset Encryption,1
+7,Incision,"(0.14, 0.33, 1.31)",2025-02-14 16:32:27,4.68,Idle,33062,Operator,Robot,Two Fish,Failed,10,11,No Threat,Medium,0.0,None,0
+5,Diagnosis,"(0.29, 1.69, 1.83)",2025-02-14 16:32:27,3.55,Idle,53140,Operator,Robot,Two Fish,Encrypted,17,28,Man-in-the-Middle Attack,High,2.76,Reconnect Connection,1
+10,Suturing,"(1.19, 0.71, 0.61)",2025-02-14 16:32:27,1.41,Active,20249,Operator,Robot,Two Fish,Encrypted,9,13,No Threat,High,0.0,None,0
+4,Cleaning,"(0.23, 1.88, 1.27)",2025-02-14 16:32:27,1.34,Idle,72314,Operator,Robot,Two Fish,Failed,5,69,Data Breach,Medium,4.85,Reset Encryption,1
+6,Incision,"(0.13, 1.31, 0.29)",2025-02-14 16:32:27,3.04,Active,97658,Robot,Operator,Two Fish,Failed,5,72,Man-in-the-Middle Attack,Medium,1.85,Reconnect Connection,1
+4,Cleaning,"(0.09, 0.56, 1.66)",2025-02-14 16:32:27,4.37,Active,34677,Robot,Operator,Two Fish,Failed,5,42,DoS Attack,High,3.41,Reconnect Connection,1
+2,Cleaning,"(0.23, 0.23, 0.91)",2025-02-14 16:32:27,4.49,Idle,25437,Robot,Operator,Two Fish,Encrypted,14,16,Man-in-the-Middle Attack,Low,1.56,Isolate Data,1
+2,Diagnosis,"(1.12, 0.57, 1.58)",2025-02-14 16:32:27,1.56,Active,50936,Robot,Operator,Two Fish,Failed,13,66,Data Breach,Low,1.33,Isolate Data,1
+3,Incision,"(1.76, 1.38, 0.85)",2025-02-14 16:32:27,2.46,Active,16919,Operator,Robot,Two Fish,Failed,6,28,DoS Attack,High,4.93,Reconnect Connection,1
+1,Suturing,"(0.12, 1.91, 0.25)",2025-02-14 16:32:27,3.13,Idle,77375,Robot,Operator,Two Fish,Encrypted,14,38,DoS Attack,High,1.63,Isolate Data,1
+2,Incision,"(1.08, 1.91, 0.18)",2025-02-14 16:32:27,3.08,Active,39576,Operator,Robot,Two Fish,Encrypted,11,89,Data Breach,Medium,2.79,Reconnect Connection,1
+5,Suturing,"(0.74, 1.67, 0.34)",2025-02-14 16:32:27,3.09,Idle,40601,Operator,Robot,Two Fish,Failed,6,72,No Threat,High,0.0,None,0
+6,Suturing,"(1.24, 0.55, 0.97)",2025-02-14 16:32:27,3.77,Active,51408,Operator,Robot,Two Fish,Encrypted,6,99,Data Breach,Low,4.87,Isolate Data,1
+10,Diagnosis,"(0.56, 0.25, 1.5)",2025-02-14 16:32:27,3.47,Idle,68524,Operator,Robot,Two Fish,Encrypted,16,70,No Threat,Medium,0.0,None,0
+5,Suturing,"(1.96, 0.98, 0.78)",2025-02-14 16:32:27,4.18,Idle,73358,Operator,Robot,Two Fish,Encrypted,7,80,No Threat,High,0.0,None,0
+5,Diagnosis,"(0.29, 0.69, 1.85)",2025-02-14 16:32:27,2.19,Idle,66998,Operator,Robot,Two Fish,Encrypted,5,90,No Threat,Medium,0.0,None,0
+2,Navigation,"(1.36, 1.85, 0.53)",2025-02-14 16:32:27,4.82,Idle,64324,Operator,Robot,Two Fish,Failed,14,39,Data Breach,High,3.66,Reset Encryption,1
+7,Incision,"(1.43, 0.06, 0.99)",2025-02-14 16:32:27,3.39,Idle,73663,Operator,Robot,Two Fish,Encrypted,5,27,Data Breach,High,4.2,Reset Encryption,1
+9,Navigation,"(0.02, 1.62, 0.46)",2025-02-14 16:32:27,1.85,Active,80794,Robot,Operator,Two Fish,Failed,14,72,Data Breach,Medium,3.55,Reconnect Connection,1
+8,Suturing,"(0.05, 1.3, 0.68)",2025-02-14 16:32:27,2.3,Idle,21472,Robot,Operator,Two Fish,Failed,17,11,Man-in-the-Middle Attack,High,4.32,Reconnect Connection,1
+6,Incision,"(1.57, 1.75, 0.46)",2025-02-14 16:32:27,3.39,Idle,94980,Operator,Robot,Two Fish,Failed,20,65,No Threat,Medium,0.0,None,0
+1,Navigation,"(0.57, 0.54, 0.85)",2025-02-14 16:32:27,1.02,Active,88616,Robot,Operator,Two Fish,Encrypted,7,25,No Threat,Low,0.0,None,0
+1,Suturing,"(0.2, 0.24, 1.1)",2025-02-14 16:32:27,1.07,Idle,78834,Operator,Robot,Two Fish,Encrypted,15,65,Data Breach,High,1.73,Reconnect Connection,1
+10,Navigation,"(0.81, 0.18, 1.07)",2025-02-14 16:32:27,2.34,Active,31825,Operator,Robot,Two Fish,Encrypted,7,45,Data Breach,Low,1.93,Reconnect Connection,1
+5,Suturing,"(1.7, 0.74, 1.04)",2025-02-14 16:32:27,2.02,Idle,18908,Robot,Operator,Two Fish,Encrypted,19,93,No Threat,High,0.0,None,0
+8,Incision,"(0.5, 1.23, 0.22)",2025-02-14 16:32:27,4.34,Active,63539,Operator,Robot,Two Fish,Encrypted,18,34,Data Breach,Medium,3.14,Reconnect Connection,1
+2,Navigation,"(0.47, 1.18, 0.55)",2025-02-14 16:32:27,2.04,Idle,36827,Robot,Operator,Two Fish,Failed,7,33,No Threat,High,0.0,None,0
+10,Navigation,"(0.92, 1.46, 1.91)",2025-02-14 16:32:27,1.45,Active,66654,Robot,Operator,Two Fish,Failed,5,57,DoS Attack,Medium,1.73,Reconnect Connection,1
+4,Cleaning,"(1.03, 0.15, 1.43)",2025-02-14 16:32:27,4.26,Active,68112,Operator,Robot,Two Fish,Encrypted,20,98,No Threat,Low,0.0,None,0
+8,Suturing,"(1.3, 0.23, 0.8)",2025-02-14 16:32:27,4.52,Idle,37030,Robot,Operator,Two Fish,Failed,16,20,No Threat,Low,0.0,None,0
+5,Incision,"(1.09, 1.44, 0.7)",2025-02-14 16:32:27,1.1,Active,98907,Operator,Robot,Two Fish,Encrypted,13,45,DoS Attack,High,2.03,Reconnect Connection,1
+2,Diagnosis,"(1.82, 0.15, 1.41)",2025-02-14 16:32:27,3.44,Active,12846,Operator,Robot,Two Fish,Failed,11,83,Man-in-the-Middle Attack,Low,1.75,Reset Encryption,1
+8,Suturing,"(1.35, 1.51, 1.85)",2025-02-14 16:32:27,4.13,Idle,18387,Operator,Robot,Two Fish,Failed,10,83,DoS Attack,High,4.93,Reconnect Connection,1
+5,Incision,"(1.08, 0.4, 1.92)",2025-02-14 16:32:27,4.08,Idle,55283,Robot,Operator,Two Fish,Failed,7,58,Data Breach,High,2.88,Reconnect Connection,1
+9,Suturing,"(0.71, 0.24, 1.75)",2025-02-14 16:32:27,1.12,Idle,41070,Robot,Operator,Two Fish,Failed,5,13,No Threat,Medium,0.0,None,0
+5,Incision,"(0.65, 1.08, 0.77)",2025-02-14 16:32:27,1.42,Idle,45942,Operator,Robot,Two Fish,Encrypted,11,81,Data Breach,Low,3.2,Isolate Data,1
+8,Navigation,"(0.59, 1.48, 1.51)",2025-02-14 16:32:27,2.6,Idle,86298,Operator,Robot,Two Fish,Failed,16,78,Man-in-the-Middle Attack,Low,3.02,Reconnect Connection,1
+4,Diagnosis,"(1.27, 1.72, 1.23)",2025-02-14 16:32:27,2.95,Active,51696,Operator,Robot,Two Fish,Encrypted,6,61,DoS Attack,High,3.96,Isolate Data,1
+10,Diagnosis,"(1.88, 0.74, 1.12)",2025-02-14 16:32:27,4.0,Active,32138,Operator,Robot,Two Fish,Encrypted,17,26,No Threat,Medium,0.0,None,0
+10,Cleaning,"(0.03, 1.47, 0.17)",2025-02-14 16:32:27,4.61,Active,24303,Operator,Robot,Two Fish,Failed,5,34,DoS Attack,Low,1.7,Reset Encryption,1
+8,Suturing,"(0.47, 1.0, 0.47)",2025-02-14 16:32:27,2.43,Idle,96366,Operator,Robot,Two Fish,Encrypted,15,66,No Threat,Medium,0.0,None,0
+10,Suturing,"(0.79, 1.5, 0.24)",2025-02-14 16:32:27,3.55,Active,76243,Operator,Robot,Two Fish,Encrypted,8,52,No Threat,High,0.0,None,0
+4,Navigation,"(0.7, 0.5, 1.72)",2025-02-14 16:32:27,2.95,Active,89946,Robot,Operator,Two Fish,Encrypted,8,71,No Threat,High,0.0,None,0
+6,Navigation,"(1.43, 0.88, 1.29)",2025-02-14 16:32:27,4.73,Idle,13461,Operator,Robot,Two Fish,Encrypted,15,66,No Threat,High,0.0,None,0
+10,Cleaning,"(1.5, 1.2, 0.12)",2025-02-14 16:32:27,4.26,Idle,98298,Robot,Operator,Two Fish,Failed,13,58,Man-in-the-Middle Attack,High,1.84,Reset Encryption,1
+5,Diagnosis,"(0.06, 1.13, 1.68)",2025-02-14 16:32:27,3.12,Active,23171,Robot,Operator,Two Fish,Failed,14,71,Man-in-the-Middle Attack,High,3.48,Reconnect Connection,1
+1,Diagnosis,"(0.48, 1.06, 0.4)",2025-02-14 16:32:27,1.39,Idle,10047,Operator,Robot,Two Fish,Encrypted,7,41,Man-in-the-Middle Attack,High,3.47,Reconnect Connection,1
+9,Navigation,"(1.81, 0.37, 0.3)",2025-02-14 16:32:27,2.11,Idle,66498,Operator,Robot,Two Fish,Failed,14,26,Data Breach,Medium,3.89,Isolate Data,1
+9,Navigation,"(1.05, 1.83, 0.49)",2025-02-14 16:32:27,2.09,Idle,69106,Operator,Robot,Two Fish,Failed,8,20,Man-in-the-Middle Attack,High,1.83,Reconnect Connection,1
+1,Navigation,"(1.56, 0.67, 1.91)",2025-02-14 16:32:27,1.01,Idle,94269,Robot,Operator,Two Fish,Encrypted,8,14,No Threat,Medium,0.0,None,0
+3,Diagnosis,"(0.17, 0.95, 1.23)",2025-02-14 16:32:27,1.6,Idle,11134,Operator,Robot,Two Fish,Encrypted,17,39,DoS Attack,Low,2.36,Reconnect Connection,1

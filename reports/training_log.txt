@@ -1,0 +1,46 @@
+2025-11-06 13:45:52,024 - INFO - --- Pipeline Training Dimulai ---
+2025-11-06 13:45:52,024 - INFO - 1. Memuat dan menggabungkan dataset...
+2025-11-06 13:45:52,030 - INFO - Total 1030 baris data dimuat dari dua dataset.
+2025-11-06 13:45:52,030 - INFO - 2. Melakukan feature engineering...
+2025-11-06 13:45:52,035 - INFO - 2. Melakukan temporal split dan pra-pemrosesan...
+2025-11-06 13:45:52,044 - INFO - 3. Melakukan augmentasi data (noise injection) pada data training...
+2025-11-06 13:45:52,049 - INFO - 4. Mencari hyperparameter terbaik dengan GridSearchCV...
+2025-11-06 13:46:02,903 - INFO - Model Trained: RandomForestClassifier
+2025-11-06 13:46:02,903 - INFO - Parameter terbaik: {'max_depth': 10, 'max_features': 'sqrt', 'min_samples_split': 2, 'n_estimators': 100}
+2025-11-06 13:46:02,903 - INFO - 5. Mengevaluasi model pada data test...
+2025-11-06 13:46:02,907 - INFO - Accuracy: 1.0000
+2025-11-06 13:46:02,908 - INFO - ROC-AUC Score: 1.0000
+2025-11-06 13:46:02,910 - INFO - Matthews Correlation Coefficient: 1.0000
+2025-11-06 13:46:02,914 - INFO - 
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        55
+           1       1.00      1.00      1.00       151
+
+    accuracy                           1.00       206
+   macro avg       1.00      1.00      1.00       206
+weighted avg       1.00      1.00      1.00       206
+
+2025-11-06 13:46:03,123 - INFO - Plot Confusion Matrix disimpan di d:\SOC PORTO\ml-threat-detector\reports\plots\confusion_matrix.png
+2025-11-06 13:46:03,259 - INFO - Plot ROC Curve disimpan di d:\SOC PORTO\ml-threat-detector\reports\plots\roc_curve.png
+2025-11-06 13:46:03,379 - INFO - Plot Precision-Recall Curve disimpan di d:\SOC PORTO\ml-threat-detector\reports\plots\precision_recall_curve.png
+2025-11-06 13:46:03,379 - INFO - 6. Menganalisis feature importance dan SHAP...
+2025-11-06 13:46:03,385 - INFO - 
+Top 10 Feature Importances:
+                         Feature  Importance
+9            Response Time (sec)    0.268826
+10         Response Action Taken    0.257254
+7                    Threat Type    0.165666
+13          Severity_to_Response    0.147965
+11  Interaction_Latency_Response    0.144020
+8                Threat Severity    0.007120
+6      Data Transfer Rate (Mbps)    0.002984
+5           Network Latency (ms)    0.002334
+3      Encryption Algorithm Used    0.001215
+14               Latency_to_Rate    0.001174
+2025-11-06 13:46:03,517 - INFO - Grafik Top 10 Feature Importances disimpan di d:\SOC PORTO\ml-threat-detector\reports\plots\top10_feature_importance.png
+2025-11-06 13:46:03,517 - INFO - Menjelaskan model menggunakan SHAP...
+2025-11-06 13:46:03,779 - INFO - SHAP summary plot disimpan di d:\SOC PORTO\ml-threat-detector\reports\plots\shap_summary.png
+2025-11-06 13:46:03,779 - INFO - 7. Menyimpan model final dan artefak...
+2025-11-06 13:46:03,794 - INFO - --- Pipeline Training Selesai. Model disimpan di d:\SOC PORTO\ml-threat-detector\models\threat_model.pkl ---
